@@ -1,0 +1,3144 @@
+"state","FIPS","name","minutes","moe"
+"STRATIX10",1001,"Autauga County",26.2,1.1
+"STRATIX10",1003,"Baldwin County",25.9,0.8
+"STRATIX10",1005,"Barbour County",24.6,2.2
+"STRATIX10",1007,"Bibb County",27.6,1.5
+"STRATIX10",1009,"Blount County",33.9,1.2
+"STRATIX10",1011,"Bullock County",26.9,2.9
+"STRATIX10",1013,"Butler County",24,1.4
+"STRATIX10",1015,"Calhoun County",22.5,0.6
+"STRATIX10",1017,"Chambers County",24.6,1.1
+"STRATIX10",1019,"Cherokee County",26.9,1.8
+"STRATIX10",1021,"Chilton County",31.8,1.3
+"STRATIX10",1023,"Choctaw County",33.4,3.2
+"STRATIX10",1025,"Clarke County",25.5,1.9
+"STRATIX10",1027,"Clay County",30.7,2.5
+"STRATIX10",1029,"Cleburne County",31.4,2
+"STRATIX10",1031,"Coffee County",21.3,0.7
+"STRATIX10",1033,"Colbert County",22.7,1
+"STRATIX10",1035,"Conecuh County",27.2,2.4
+"STRATIX10",1037,"Coosa County",30.2,2.8
+"STRATIX10",1039,"Covington County",23.3,1.7
+"STRATIX10",1041,"Crenshaw County",30.3,1.8
+"STRATIX10",1043,"Cullman County",26.4,1
+"STRATIX10",1045,"Dale County",20.9,0.8
+"STRATIX10",1047,"Dallas County",22,1.3
+"STRATIX10",1049,"DeKalb County",23.3,0.8
+"STRATIX10",1051,"Elmore County",28.2,0.8
+"STRATIX10",1053,"Escambia County",23.5,1.7
+"STRATIX10",1055,"Etowah County",23.9,0.9
+"STRATIX10",1057,"Fayette County",27.5,2
+"STRATIX10",1059,"Franklin County",26.2,2.3
+"STRATIX10",1061,"Geneva County",25.6,1.2
+"STRATIX10",1063,"Greene County",28,2.6
+"STRATIX10",1065,"Hale County",27.1,2.2
+"STRATIX10",1067,"Henry County",26,2.5
+"STRATIX10",1069,"Houston County",20.8,0.4
+"STRATIX10",1071,"Jackson County",26.4,1.3
+"STRATIX10",1073,"Jefferson County",23.4,0.3
+"STRATIX10",1075,"Lamar County",25.7,2.7
+"STRATIX10",1077,"Lauderdale County",24.5,0.9
+"STRATIX10",1079,"Lawrence County",27.8,1
+"STRATIX10",1081,"Lee County",21.4,0.6
+"STRATIX10",1083,"Limestone County",26.3,0.9
+"STRATIX10",1085,"Lowndes County",30.4,1.8
+"STRATIX10",1087,"Macon County",23.1,1.2
+"STRATIX10",1089,"Madison County",21,0.3
+"STRATIX10",1091,"Marengo County",22.4,1.5
+"STRATIX10",1093,"Marion County",24,1.5
+"STRATIX10",1095,"Marshall County",23.9,1.1
+"STRATIX10",1097,"Mobile County",23.9,0.4
+"STRATIX10",1099,"Monroe County",23.3,2
+"STRATIX10",1101,"Montgomery County",19.3,0.4
+"STRATIX10",1103,"Morgan County",23.7,0.6
+"STRATIX10",1105,"Perry County",26.8,3.8
+"STRATIX10",1107,"Pickens County",29.3,2.2
+"STRATIX10",1109,"Pike County",18.7,1
+"STRATIX10",1111,"Randolph County",26.8,1.5
+"STRATIX10",1113,"Russell County",23.6,0.9
+"STRATIX10",1115,"St. Clair County",30,0.9
+"STRATIX10",1117,"Shelby County",29,0.5
+"STRATIX10",1119,"Sumter County",23.4,2.2
+"STRATIX10",1121,"Talladega County",23.9,1
+"STRATIX10",1123,"Tallapoosa County",23.9,1.2
+"STRATIX10",1125,"Tuscaloosa County",21.8,0.5
+"STRATIX10",1127,"Walker County",29.3,1.3
+"STRATIX10",1129,"Washington County",31.8,2.1
+"STRATIX10",1131,"Wilcox County",21.6,2.3
+"STRATIX10",1133,"Winston County",27,1.9
+"Alaska",2013,"Aleutians East Borough",4.8,0.5
+"Alaska",2016,"Aleutians West Census Area",6.4,0.4
+"Alaska",2020,"Anchorage Municipality",19.4,0.4
+"Alaska",2050,"Bethel Census Area",7.4,0.4
+"Alaska",2060,"Bristol Bay Borough",10.2,1.5
+"Alaska",2068,"Denali Borough",15.2,2.9
+"Alaska",2070,"Dillingham Census Area",8.7,0.7
+"Alaska",2090,"Fairbanks North Star Borough",19.2,0.8
+"Alaska",2100,"Haines Borough",11.7,2.7
+"Alaska",2105,"Hoonah-Angoon Census Area",9.7,1.4
+"Alaska",2110,"Juneau City and Borough",15.1,0.6
+"Alaska",2122,"Kenai Peninsula Borough",19.1,1
+"Alaska",2130,"Ketchikan Gateway Borough",13.7,0.8
+"Alaska",2150,"Kodiak Island Borough",11.1,0.9
+"Alaska",2164,"Lake and Peninsula Borough",6.4,1
+"Alaska",2170,"Matanuska-Susitna Borough",32.8,0.9
+"Alaska",2180,"Nome Census Area",6.7,0.6
+"Alaska",2185,"North Slope Borough",8.9,1.8
+"Alaska",2188,"Northwest Arctic Borough",7.6,0.7
+"Alaska",2195,"Petersburg Census Area",7.7,1.2
+"Alaska",2198,"Prince of Wales-Hyder Census Area",14.6,1.8
+"Alaska",2220,"Sitka City and Borough",12.3,2.2
+"Alaska",2230,"Skagway Municipality",4.4,1.3
+"Alaska",2240,"Southeast Fairbanks Census Area",12.2,1.5
+"Alaska",2261,"Valdez-Cordova Census Area",12.2,2.3
+"Alaska",2270,"Wade Hampton Census Area",6,0.3
+"Alaska",2275,"Wrangell City and Borough",9.5,3.3
+"Alaska",2282,"Yakutat City and Borough",5.4,0.7
+"Alaska",2290,"Yukon-Koyukuk Census Area",8.3,0.7
+"Arizona",4001,"Apache County",30,1.5
+"Arizona",4003,"Cochise County",18.9,0.7
+"Arizona",4005,"Coconino County",18.7,0.8
+"Arizona",4007,"Gila County",20.8,1.8
+"Arizona",4009,"Graham County",22.2,1.6
+"Arizona",4011,"Greenlee County",17.5,1.6
+"Arizona",4012,"La Paz County",12.4,1.3
+"Arizona",4013,"Maricopa County",25.4,0.1
+"Arizona",4015,"Mohave County",18.9,0.6
+"Arizona",4017,"Navajo County",22.3,1
+"Arizona",4019,"Pima County",24,0.2
+"Arizona",4021,"Pinal County",31.1,0.7
+"Arizona",4023,"Santa Cruz County",19.8,1.4
+"Arizona",4025,"Yavapai County",22.2,0.8
+"Arizona",4027,"Yuma County",18.8,0.5
+"Arkansas",5001,"Arkansas County",15.5,1.1
+"Arkansas",5003,"Ashley County",18.5,1.5
+"Arkansas",5005,"Baxter County",17.1,1.2
+"Arkansas",5007,"Benton County",20.1,0.4
+"Arkansas",5009,"Boone County",19.7,1.4
+"Arkansas",5011,"Bradley County",20.1,2.2
+"Arkansas",5013,"Calhoun County",24.9,2.5
+"Arkansas",5015,"Carroll County",19.1,1.5
+"Arkansas",5017,"Chicot County",21.4,1.9
+"Arkansas",5019,"Clark County",19.9,1.5
+"Arkansas",5021,"Clay County",22.8,2.3
+"Arkansas",5023,"Cleburne County",24.9,2.2
+"Arkansas",5025,"Cleveland County",27.4,1.9
+"Arkansas",5027,"Columbia County",16.6,1.1
+"Arkansas",5029,"Conway County",22.2,1.2
+"Arkansas",5031,"Craighead County",17.5,0.6
+"Arkansas",5033,"Crawford County",22,0.8
+"Arkansas",5035,"Crittenden County",20.2,0.8
+"Arkansas",5037,"Cross County",23.8,1.6
+"Arkansas",5039,"Dallas County",20.2,2.5
+"Arkansas",5041,"Desha County",21.5,2.8
+"Arkansas",5043,"Drew County",20.8,2.1
+"Arkansas",5045,"Faulkner County",24.2,0.8
+"Arkansas",5047,"Franklin County",25,2.3
+"Arkansas",5049,"Fulton County",25.5,3.2
+"Arkansas",5051,"Garland County",21.7,0.9
+"Arkansas",5053,"Grant County",29.9,1.6
+"Arkansas",5055,"Greene County",20.4,1.3
+"Arkansas",5057,"Hempstead County",19.7,1.3
+"Arkansas",5059,"Hot Spring County",27.7,1.2
+"Arkansas",5061,"Howard County",18.7,1.8
+"Arkansas",5063,"Independence County",19.7,1.2
+"Arkansas",5065,"Izard County",23.4,1.9
+"Arkansas",5067,"Jackson County",19.1,1.8
+"Arkansas",5069,"Jefferson County",21.3,1
+"Arkansas",5071,"Johnson County",20.5,1.7
+"Arkansas",5073,"Lafayette County",24.9,2.9
+"Arkansas",5075,"Lawrence County",25.1,1.7
+"Arkansas",5077,"Lee County",20.4,2.4
+"Arkansas",5079,"Lincoln County",26.2,3.4
+"Arkansas",5081,"Little River County",23.4,2.2
+"Arkansas",5083,"Logan County",26,1.9
+"Arkansas",5085,"Lonoke County",25.6,0.7
+"Arkansas",5087,"Madison County",29.6,1.9
+"Arkansas",5089,"Marion County",24.1,1.7
+"Arkansas",5091,"Miller County",20.2,0.9
+"Arkansas",5093,"Mississippi County",18.2,1
+"Arkansas",5095,"Monroe County",19.5,1.7
+"Arkansas",5097,"Montgomery County",25.9,2.2
+"Arkansas",5099,"Nevada County",25.1,2.7
+"Arkansas",5101,"Newton County",37.7,3.6
+"Arkansas",5103,"Ouachita County",22.7,1.9
+"Arkansas",5105,"Perry County",34.8,2.7
+"Arkansas",5107,"Phillips County",18.3,1.7
+"Arkansas",5109,"Pike County",24.1,1.9
+"Arkansas",5111,"Poinsett County",23.5,1.4
+"Arkansas",5113,"Polk County",20.3,1.6
+"Arkansas",5115,"Pope County",19.5,1
+"Arkansas",5117,"Prairie County",24.4,2.3
+"Arkansas",5119,"Pulaski County",19.8,0.3
+"Arkansas",5121,"Randolph County",29.2,2.9
+"Arkansas",5123,"St. Francis County",20.6,2.1
+"Arkansas",5125,"Saline County",25.6,0.7
+"Arkansas",5127,"Scott County",23,2.8
+"Arkansas",5129,"Searcy County",29.4,3
+"Arkansas",5131,"Sebastian County",17.7,0.5
+"Arkansas",5133,"Sevier County",21.4,1.9
+"Arkansas",5135,"Sharp County",27.9,3.7
+"Arkansas",5137,"Stone County",21.1,2.8
+"Arkansas",5139,"Union County",18.2,1.2
+"Arkansas",5141,"Van Buren County",28.7,2
+"Arkansas",5143,"Washington County",20.6,0.5
+"Arkansas",5145,"White County",22.8,0.9
+"Arkansas",5147,"Woodruff County",19.3,2.3
+"Arkansas",5149,"Yell County",20.4,1.3
+"California",6001,"Alameda County",28.8,0.2
+"California",6003,"Alpine County",23.7,4.7
+"California",6005,"Amador County",30,2.1
+"California",6007,"Butte County",20.3,0.6
+"California",6009,"Calaveras County",35.5,2.5
+"California",6011,"Colusa County",21.2,1.5
+"California",6013,"Contra Costa County",33.3,0.3
+"California",6015,"Del Norte County",14.2,2.2
+"California",6017,"El Dorado County",28.8,0.9
+"California",6019,"Fresno County",22.1,0.3
+"California",6021,"Glenn County",21.8,1.9
+"California",6023,"Humboldt County",17.5,0.5
+"California",6025,"Imperial County",20.8,0.8
+"California",6027,"Inyo County",14.8,1.4
+"California",6029,"Kern County",23.6,0.4
+"California",6031,"Kings County",21.4,0.8
+"California",6033,"Lake County",27.5,1.8
+"California",6035,"Lassen County",19.4,1.8
+"California",6037,"Los Angeles County",29.3,0.1
+"California",6039,"Madera County",25.5,0.9
+"California",6041,"Marin County",28.6,0.4
+"California",6043,"Mariposa County",32,3.1
+"California",6045,"Mendocino County",18.6,1
+"California",6047,"Merced County",26.3,0.7
+"California",6049,"Modoc County",16.9,2.2
+"California",6051,"Mono County",16.2,2.3
+"California",6053,"Monterey County",22.5,0.3
+"California",6055,"Napa County",23.6,0.7
+"California",6057,"Nevada County",24.6,1.1
+"California",6059,"Orange County",26.3,0.1
+"California",6061,"Placer County",26.9,0.5
+"California",6063,"Plumas County",22.9,2.1
+"California",6065,"Riverside County",32,0.2
+"California",6067,"Sacramento County",25.7,0.2
+"California",6069,"San Benito County",30.2,1.1
+"California",6071,"San Bernardino County",29.9,0.3
+"California",6073,"San Diego County",24.4,0.1
+"California",6075,"San Francisco County",30.5,0.3
+"California",6077,"San Joaquin County",29.4,0.4
+"California",6079,"San Luis Obispo County",21.1,0.6
+"California",6081,"San Mateo County",25.7,0.2
+"California",6083,"Santa Barbara County",19.4,0.4
+"California",6085,"Santa Clara County",25,0.1
+"California",6087,"Santa Cruz County",25.4,0.4
+"California",6089,"Shasta County",20.1,0.8
+"California",6091,"Sierra County",27.5,4.1
+"California",6093,"Siskiyou County",18.8,1.1
+"California",6095,"Solano County",28.9,0.5
+"California",6097,"Sonoma County",25.3,0.4
+"California",6099,"Stanislaus County",26.6,0.5
+"California",6101,"Sutter County",27.4,0.9
+"California",6103,"Tehama County",23.3,1.2
+"California",6105,"Trinity County",18.3,2.8
+"California",6107,"Tulare County",21.3,0.3
+"California",6109,"Tuolumne County",25.1,1.9
+"California",6111,"Ventura County",24.6,0.3
+"California",6113,"Yolo County",21.6,0.5
+"California",6115,"Yuba County",29.5,1.2
+"Colorado",8001,"Adams County",28.4,0.4
+"Colorado",8003,"Alamosa County",15,1.6
+"Colorado",8005,"Arapahoe County",26.9,0.3
+"Colorado",8007,"Archuleta County",19.6,2
+"Colorado",8009,"Baca County",12.6,1.1
+"Colorado",8011,"Bent County",17.7,2.8
+"Colorado",8013,"Boulder County",22.7,0.4
+"Colorado",8014,"Broomfield County",26.2,0.7
+"Colorado",8015,"Chaffee County",14.9,1.7
+"Colorado",8017,"Cheyenne County",13,2
+"Colorado",8019,"Clear Creek County",32.6,3.6
+"Colorado",8021,"Conejos County",24.3,1.6
+"Colorado",8023,"Costilla County",20.1,3.5
+"Colorado",8025,"Crowley County",24.1,2.9
+"Colorado",8027,"Custer County",34.7,5
+"Colorado",8029,"Delta County",24.8,1.8
+"Colorado",8031,"Denver County",24.6,0.2
+"Colorado",8033,"Dolores County",23,3.9
+"Colorado",8035,"Douglas County",27.7,0.4
+"Colorado",8037,"Eagle County",20,1.1
+"Colorado",8039,"Elbert County",41.3,1.8
+"Colorado",8041,"El Paso County",21.7,0.3
+"Colorado",8043,"Fremont County",23.3,1.3
+"Colorado",8045,"Garfield County",27.5,1.5
+"Colorado",8047,"Gilpin County",32,3.4
+"Colorado",8049,"Grand County",18.8,2.6
+"Colorado",8051,"Gunnison County",13.4,1.3
+"Colorado",8053,"Hinsdale County",8.2,3.2
+"Colorado",8055,"Huerfano County",22.9,3.1
+"Colorado",8057,"Jackson County",18.9,5.9
+"Colorado",8059,"Jefferson County",26.2,0.3
+"Colorado",8061,"Kiowa County",17.2,2.8
+"Colorado",8063,"Kit Carson County",12.5,1.3
+"Colorado",8065,"Lake County",29.3,5.8
+"Colorado",8067,"La Plata County",20.5,0.8
+"Colorado",8069,"Larimer County",22.6,0.4
+"Colorado",8071,"Las Animas County",21.2,1.8
+"Colorado",8073,"Lincoln County",18.3,2.4
+"Colorado",8075,"Logan County",17.1,1.6
+"Colorado",8077,"Mesa County",21.2,0.8
+"Colorado",8079,"Mineral County",14.6,3.3
+"Colorado",8081,"Moffat County",21.8,2
+"Colorado",8083,"Montezuma County",22.6,2.2
+"Colorado",8085,"Montrose County",20.3,1.4
+"Colorado",8087,"Morgan County",16.5,1.1
+"Colorado",8089,"Otero County",17.5,1.4
+"Colorado",8091,"Ouray County",22.8,2.8
+"Colorado",8093,"Park County",44.2,3
+"Colorado",8095,"Phillips County",13.9,1.9
+"Colorado",8097,"Pitkin County",17,1.1
+"Colorado",8099,"Prowers County",14.4,1.7
+"Colorado",8101,"Pueblo County",20.4,0.6
+"Colorado",8103,"Rio Blanco County",19.6,2.9
+"Colorado",8105,"Rio Grande County",19,1.8
+"Colorado",8107,"Routt County",17.3,1.1
+"Colorado",8109,"Saguache County",19,2.4
+"Colorado",8111,"San Juan County",11.9,3.8
+"Colorado",8113,"San Miguel County",19.3,1.4
+"Colorado",8115,"Sedgwick County",18.9,2.3
+"Colorado",8117,"Summit County",16.8,1.2
+"Colorado",8119,"Teller County",31.7,2.1
+"Colorado",8121,"Washington County",20.6,1.8
+"Colorado",8123,"Weld County",26.2,0.5
+"Colorado",8125,"Yuma County",14.7,1.9
+"Connecticut",9001,"Fairfield County",28.2,0.3
+"Connecticut",9003,"Hartford County",22.1,0.2
+"Connecticut",9005,"Litchfield County",26.5,0.5
+"Connecticut",9007,"Middlesex County",25.2,0.6
+"Connecticut",9009,"New Haven County",24,0.2
+"Connecticut",9011,"New London County",22.8,0.4
+"Connecticut",9013,"Tolland County",25.8,0.5
+"Connecticut",9015,"Windham County",26.3,0.7
+"Delaware",10001,"Kent County",25.8,0.6
+"Delaware",10003,"New Castle County",24.8,0.3
+"Delaware",10005,"Sussex County",24.2,0.4
+"District of Columbia",11001,"District of Columbia",29.7,0.3
+"Florida",12001,"Alachua County",19.9,0.4
+"Florida",12003,"Baker County",29.4,1.7
+"Florida",12005,"Bay County",21.3,0.6
+"Florida",12007,"Bradford County",27.1,2.4
+"Florida",12009,"Brevard County",23.7,0.4
+"Florida",12011,"Broward County",27.2,0.2
+"Florida",12013,"Calhoun County",28.8,2.1
+"Florida",12015,"Charlotte County",23.3,0.7
+"Florida",12017,"Citrus County",25.9,1
+"Florida",12019,"Clay County",32.1,0.8
+"Florida",12021,"Collier County",23.6,0.5
+"Florida",12023,"Columbia County",22.3,1.1
+"Florida",12027,"DeSoto County",24.6,2
+"Florida",12029,"Dixie County",25.7,3.4
+"Florida",12031,"Duval County",23.6,0.3
+"Florida",12033,"Escambia County",22.2,0.5
+"Florida",12035,"Flagler County",26.4,1.4
+"Florida",12037,"Franklin County",22.3,3.3
+"Florida",12039,"Gadsden County",28,1.1
+"Florida",12041,"Gilchrist County",31.3,2.4
+"Florida",12043,"Glades County",24.5,3.7
+"Florida",12045,"Gulf County",24.4,2.6
+"Florida",12047,"Hamilton County",24.2,2.5
+"Florida",12049,"Hardee County",25.6,1.9
+"Florida",12051,"Hendry County",27.5,2.8
+"Florida",12053,"Hernando County",30,1
+"Florida",12055,"Highlands County",21.9,1
+"Florida",12057,"Hillsborough County",25.7,0.2
+"Florida",12059,"Holmes County",29.7,3
+"Florida",12061,"Indian River County",21.8,0.9
+"Florida",12063,"Jackson County",24,1.2
+"Florida",12065,"Jefferson County",26.9,1.6
+"Florida",12067,"Lafayette County",24.3,3.2
+"Florida",12069,"Lake County",27.7,0.7
+"Florida",12071,"Lee County",26.9,0.4
+"Florida",12073,"Leon County",19.9,0.3
+"Florida",12075,"Levy County",28.1,1.4
+"Florida",12077,"Liberty County",28.7,4.1
+"Florida",12079,"Madison County",27.5,2.3
+"Florida",12081,"Manatee County",23.9,0.5
+"Florida",12083,"Marion County",24.8,0.5
+"Florida",12085,"Martin County",24.4,0.9
+"Florida",12086,"Miami-Dade County",29,0.2
+"Florida",12087,"Monroe County",18.8,0.8
+"Florida",12089,"Nassau County",29,0.9
+"Florida",12091,"Okaloosa County",22.9,0.6
+"Florida",12093,"Okeechobee County",25.3,2
+"Florida",12095,"Orange County",26.3,0.2
+"Florida",12097,"Osceola County",30.6,0.5
+"Florida",12099,"Palm Beach County",24.5,0.2
+"Florida",12101,"Pasco County",30,0.5
+"Florida",12103,"Pinellas County",23.4,0.2
+"Florida",12105,"Polk County",25.8,0.4
+"Florida",12107,"Putnam County",28.1,1.2
+"Florida",12109,"St. Johns County",25.7,0.5
+"Florida",12111,"St. Lucie County",28.3,0.6
+"Florida",12113,"Santa Rosa County",27.1,0.7
+"Florida",12115,"Sarasota County",21.9,0.4
+"Florida",12117,"Seminole County",26.3,0.4
+"Florida",12119,"Sumter County",24.6,1.3
+"Florida",12121,"Suwannee County",26,1.5
+"Florida",12123,"Taylor County",21.1,2.4
+"Florida",12125,"Union County",22.9,1.9
+"Florida",12127,"Volusia County",25.4,0.4
+"Florida",12129,"Wakulla County",30.4,1.5
+"Florida",12131,"Walton County",25.5,1.4
+"Florida",12133,"Washington County",28.1,2
+"Georgia",13001,"Appling County",20.9,1.7
+"Georgia",13003,"Atkinson County",21.2,1.5
+"Georgia",13005,"Bacon County",24.2,2.8
+"Georgia",13007,"Baker County",26.9,3.2
+"Georgia",13009,"Baldwin County",20.5,1.2
+"Georgia",13011,"Banks County",29.4,1.6
+"Georgia",13013,"Barrow County",33.4,1.3
+"Georgia",13015,"Bartow County",28.1,1.1
+"Georgia",13017,"Ben Hill County",16.9,1.5
+"Georgia",13019,"Berrien County",25.5,2.2
+"Georgia",13021,"Bibb County",20.7,0.6
+"Georgia",13023,"Bleckley County",26.3,2.1
+"Georgia",13025,"Brantley County",32.2,2.2
+"Georgia",13027,"Brooks County",23,2.1
+"Georgia",13029,"Bryan County",28.7,1.3
+"Georgia",13031,"Bulloch County",21.2,0.9
+"Georgia",13033,"Burke County",26.7,1.4
+"Georgia",13035,"Butts County",30.9,2.1
+"Georgia",13037,"Calhoun County",19,4.2
+"Georgia",13039,"Camden County",21.9,1.1
+"Georgia",13043,"Candler County",24,2.1
+"Georgia",13045,"Carroll County",28.5,1
+"Georgia",13047,"Catoosa County",22.3,0.7
+"Georgia",13049,"Charlton County",28.7,3.2
+"Georgia",13051,"Chatham County",21.1,0.4
+"Georgia",13053,"Chattahoochee County",14.2,1.4
+"Georgia",13055,"Chattooga County",23.4,1.4
+"Georgia",13057,"Cherokee County",31.9,0.6
+"Georgia",13059,"Clarke County",19,0.6
+"Georgia",13061,"Clay County",26.4,4.7
+"Georgia",13063,"Clayton County",29.4,0.6
+"Georgia",13065,"Clinch County",21.1,2.6
+"Georgia",13067,"Cobb County",29.5,0.3
+"Georgia",13069,"Coffee County",19.9,1.2
+"Georgia",13071,"Colquitt County",21.1,1.5
+"Georgia",13073,"Columbia County",24.5,0.8
+"Georgia",13075,"Cook County",25.3,2.1
+"Georgia",13077,"Coweta County",30.6,0.8
+"Georgia",13079,"Crawford County",28.2,1.9
+"Georgia",13081,"Crisp County",19.1,2.1
+"Georgia",13083,"Dade County",27.4,1.9
+"Georgia",13085,"Dawson County",31.8,1.9
+"Georgia",13087,"Decatur County",23.2,1.3
+"Georgia",13089,"DeKalb County",30.7,0.4
+"Georgia",13091,"Dodge County",24.2,1.5
+"Georgia",13093,"Dooly County",19.7,2.6
+"Georgia",13095,"Dougherty County",18.3,0.8
+"Georgia",13097,"Douglas County",31.8,0.9
+"Georgia",13099,"Early County",22.7,1.7
+"Georgia",13101,"Echols County",24.8,2.6
+"Georgia",13103,"Effingham County",29.8,1.1
+"Georgia",13105,"Elbert County",21.6,1.5
+"Georgia",13107,"Emanuel County",25.3,1.6
+"Georgia",13109,"Evans County",19.2,2
+"Georgia",13111,"Fannin County",25.4,2.2
+"Georgia",13113,"Fayette County",30.4,0.9
+"Georgia",13115,"Floyd County",21.5,0.9
+"Georgia",13117,"Forsyth County",29.9,0.6
+"Georgia",13119,"Franklin County",24.6,1.8
+"Georgia",13121,"Fulton County",27,0.3
+"Georgia",13123,"Gilmer County",27.9,1.9
+"Georgia",13125,"Glascock County",28.3,3
+"Georgia",13127,"Glynn County",19.1,0.9
+"Georgia",13129,"Gordon County",23,1
+"Georgia",13131,"Grady County",25.1,1.3
+"Georgia",13133,"Greene County",24.6,1.7
+"Georgia",13135,"Gwinnett County",31.6,0.4
+"Georgia",13137,"Habersham County",23.6,1
+"Georgia",13139,"Hall County",25.8,0.7
+"Georgia",13141,"Hancock County",25.5,2.7
+"Georgia",13143,"Haralson County",30,2.3
+"Georgia",13145,"Harris County",26.6,1.2
+"Georgia",13147,"Hart County",22.9,1.5
+"Georgia",13149,"Heard County",38.6,2.6
+"Georgia",13151,"Henry County",33.3,0.7
+"Georgia",13153,"Houston County",20.5,0.5
+"Georgia",13155,"Irwin County",22.5,3.1
+"Georgia",13157,"Jackson County",29.7,1
+"Georgia",13159,"Jasper County",36.2,2.8
+"Georgia",13161,"Jeff Davis County",22,2.7
+"Georgia",13163,"Jefferson County",23.1,2
+"Georgia",13165,"Jenkins County",26.4,4.6
+"Georgia",13167,"Johnson County",28.9,2.5
+"Georgia",13169,"Jones County",26.5,1.4
+"Georgia",13171,"Lamar County",30.1,2.6
+"Georgia",13173,"Lanier County",23,2.4
+"Georgia",13175,"Laurens County",23.5,1.4
+"Georgia",13177,"Lee County",21.2,1.9
+"Georgia",13179,"Liberty County",20.1,1
+"Georgia",13181,"Lincoln County",32.6,3.3
+"Georgia",13183,"Long County",25.1,2.8
+"Georgia",13185,"Lowndes County",18,0.6
+"Georgia",13187,"Lumpkin County",30,2.3
+"Georgia",13189,"McDuffie County",26.4,2.8
+"Georgia",13191,"McIntosh County",26.3,2.9
+"Georgia",13193,"Macon County",24.5,2.1
+"Georgia",13195,"Madison County",25.3,1.2
+"Georgia",13197,"Marion County",30.9,3.5
+"Georgia",13199,"Meriwether County",30.2,1.8
+"Georgia",13201,"Miller County",22.3,2.4
+"Georgia",13205,"Mitchell County",21.2,1.5
+"Georgia",13207,"Monroe County",27.2,1.9
+"Georgia",13209,"Montgomery County",21.4,1.7
+"Georgia",13211,"Morgan County",27.2,2.3
+"Georgia",13213,"Murray County",24.8,1.7
+"Georgia",13215,"Muscogee County",19,0.4
+"Georgia",13217,"Newton County",31.4,1
+"Georgia",13219,"Oconee County",23.7,1.4
+"Georgia",13221,"Oglethorpe County",27.9,2.7
+"Georgia",13223,"Paulding County",37.7,1.1
+"Georgia",13225,"Peach County",22.7,1.5
+"Georgia",13227,"Pickens County",28.5,1.6
+"Georgia",13229,"Pierce County",26.6,2.2
+"Georgia",13231,"Pike County",33.2,1.7
+"Georgia",13233,"Polk County",26.6,1.4
+"Georgia",13235,"Pulaski County",24,3
+"Georgia",13237,"Putnam County",28.2,3.3
+"Georgia",13239,"Quitman County",22,2.8
+"Georgia",13241,"Rabun County",21.9,1.9
+"Georgia",13243,"Randolph County",19.4,4.3
+"Georgia",13245,"Richmond County",20,0.4
+"Georgia",13247,"Rockdale County",32.3,1.1
+"Georgia",13249,"Schley County",27.6,4.8
+"Georgia",13251,"Screven County",28.7,2.6
+"Georgia",13253,"Seminole County",22.6,2
+"Georgia",13255,"Spalding County",27.8,1.2
+"Georgia",13257,"Stephens County",22.1,2.3
+"Georgia",13259,"Stewart County",29.4,5.4
+"Georgia",13261,"Sumter County",19.9,1.4
+"Georgia",13263,"Talbot County",31.5,2.9
+"Georgia",13265,"Taliaferro County",27.9,3.1
+"Georgia",13267,"Tattnall County",24.2,2.3
+"Georgia",13269,"Taylor County",28.2,2.9
+"Georgia",13271,"Telfair County",20.5,1.8
+"Georgia",13273,"Terrell County",22.1,2.2
+"Georgia",13275,"Thomas County",20.1,1.1
+"Georgia",13277,"Tift County",18.9,1.4
+"Georgia",13279,"Toombs County",20.4,1.4
+"Georgia",13281,"Towns County",20.7,2.7
+"Georgia",13283,"Treutlen County",26,2
+"Georgia",13285,"Troup County",20.9,0.8
+"Georgia",13287,"Turner County",24.8,3
+"Georgia",13289,"Twiggs County",28,2.4
+"Georgia",13291,"Union County",25.4,3
+"Georgia",13293,"Upson County",22,1.6
+"Georgia",13295,"Walker County",25.9,1
+"Georgia",13297,"Walton County",31.3,0.9
+"Georgia",13299,"Ware County",18.9,1.3
+"Georgia",13301,"Warren County",26.7,5.2
+"Georgia",13303,"Washington County",22.9,2.6
+"Georgia",13305,"Wayne County",23.4,1.3
+"Georgia",13307,"Webster County",24.9,4.7
+"Georgia",13309,"Wheeler County",21,4
+"Georgia",13311,"White County",30.3,2.3
+"Georgia",13313,"Whitfield County",20.1,0.6
+"Georgia",13315,"Wilcox County",26.7,3.1
+"Georgia",13317,"Wilkes County",25.5,2.4
+"Georgia",13319,"Wilkinson County",23.1,2
+"Georgia",13321,"Worth County",26.8,1.8
+"Hawaii",15001,"Hawaii County",25.4,0.8
+"Hawaii",15003,"Honolulu County",27.2,0.2
+"Hawaii",15005,"Kalawao County",10,5.3
+"Hawaii",15007,"Kauai County",21.4,0.7
+"Hawaii",15009,"Maui County",20.8,0.5
+"Idaho",16001,"Ada County",19.6,0.3
+"Idaho",16003,"Adams County",19.3,2.5
+"Idaho",16005,"Bannock County",18.8,0.7
+"Idaho",16007,"Bear Lake County",20,2.3
+"Idaho",16009,"Benewah County",21.7,2.6
+"Idaho",16011,"Bingham County",21.1,1.3
+"Idaho",16013,"Blaine County",16.9,1.2
+"Idaho",16015,"Boise County",31.5,3.5
+"Idaho",16017,"Bonner County",23.3,1.4
+"Idaho",16019,"Bonneville County",19.2,0.7
+"Idaho",16021,"Boundary County",20.1,3.1
+"Idaho",16023,"Butte County",21,5.8
+"Idaho",16025,"Camas County",25.1,4
+"Idaho",16027,"Canyon County",23.6,0.6
+"Idaho",16029,"Caribou County",18.7,2.4
+"Idaho",16031,"Cassia County",16.3,1.2
+"Idaho",16033,"Clark County",14,3.5
+"Idaho",16035,"Clearwater County",22.8,2.5
+"Idaho",16037,"Custer County",22.3,3.1
+"Idaho",16039,"Elmore County",17.4,1.2
+"Idaho",16041,"Franklin County",23,1.7
+"Idaho",16043,"Fremont County",22.8,2.5
+"Idaho",16045,"Gem County",30.1,2.9
+"Idaho",16047,"Gooding County",18.8,1.8
+"Idaho",16049,"Idaho County",17.6,1.5
+"Idaho",16051,"Jefferson County",23.7,1.3
+"Idaho",16053,"Jerome County",17.8,1.2
+"Idaho",16055,"Kootenai County",20.8,0.6
+"Idaho",16057,"Latah County",18,0.8
+"Idaho",16059,"Lemhi County",15.1,2.6
+"Idaho",16061,"Lewis County",19.5,1.8
+"Idaho",16063,"Lincoln County",29.7,2.2
+"Idaho",16065,"Madison County",17.1,1.4
+"Idaho",16067,"Minidoka County",16.1,1.2
+"Idaho",16069,"Nez Perce County",16.3,1
+"Idaho",16071,"Oneida County",20.4,2.7
+"Idaho",16073,"Owyhee County",27.2,3
+"Idaho",16075,"Payette County",18,1
+"Idaho",16077,"Power County",17.3,1.8
+"Idaho",16079,"Shoshone County",18.7,2
+"Idaho",16081,"Teton County",26,3.2
+"Idaho",16083,"Twin Falls County",16.6,0.7
+"Idaho",16085,"Valley County",15.4,2.3
+"Idaho",16087,"Washington County",22.9,2.7
+"Illinois",17001,"Adams County",16.6,0.6
+"Illinois",17003,"Alexander County",25.6,1.9
+"Illinois",17005,"Bond County",23.6,1.9
+"Illinois",17007,"Boone County",30.1,1.4
+"Illinois",17009,"Brown County",18.9,2.8
+"Illinois",17011,"Bureau County",20.4,0.9
+"Illinois",17013,"Calhoun County",39.6,3.1
+"Illinois",17015,"Carroll County",23.8,1.7
+"Illinois",17017,"Cass County",22.2,1.5
+"Illinois",17019,"Champaign County",17.6,0.4
+"Illinois",17021,"Christian County",24.6,0.9
+"Illinois",17023,"Clark County",21.8,1.7
+"Illinois",17025,"Clay County",19.6,2.2
+"Illinois",17027,"Clinton County",25.3,0.9
+"Illinois",17029,"Coles County",17,0.9
+"Illinois",17031,"Cook County",31.7,0.1
+"Illinois",17033,"Crawford County",18,1.2
+"Illinois",17035,"Cumberland County",23.6,1.3
+"Illinois",17037,"DeKalb County",26.1,0.8
+"Illinois",17039,"De Witt County",21.8,1.2
+"Illinois",17041,"Douglas County",20.8,1.1
+"Illinois",17043,"DuPage County",28.9,0.3
+"Illinois",17045,"Edgar County",23.3,1.8
+"Illinois",17047,"Edwards County",22.5,1.8
+"Illinois",17049,"Effingham County",17.8,0.7
+"Illinois",17051,"Fayette County",22.7,1.6
+"Illinois",17053,"Ford County",21.8,1.5
+"Illinois",17055,"Franklin County",24,1.1
+"Illinois",17057,"Fulton County",27,1.2
+"Illinois",17059,"Gallatin County",24.5,2.8
+"Illinois",17061,"Greene County",28.9,1.7
+"Illinois",17063,"Grundy County",29,1.3
+"Illinois",17065,"Hamilton County",26.5,3.3
+"Illinois",17067,"Hancock County",23.2,1.3
+"Illinois",17069,"Hardin County",20.9,2.8
+"Illinois",17071,"Henderson County",23.3,1.5
+"Illinois",17073,"Henry County",22.8,1.2
+"Illinois",17075,"Iroquois County",24.4,1.5
+"Illinois",17077,"Jackson County",18.5,1
+"Illinois",17079,"Jasper County",24.4,2.3
+"Illinois",17081,"Jefferson County",19.6,0.8
+"Illinois",17083,"Jersey County",29,1.4
+"Illinois",17085,"Jo Daviess County",21.5,1.1
+"Illinois",17087,"Johnson County",26.3,2
+"Illinois",17089,"Kane County",29.3,0.4
+"Illinois",17091,"Kankakee County",23.4,0.7
+"Illinois",17093,"Kendall County",33.3,1
+"Illinois",17095,"Knox County",19.2,0.7
+"Illinois",17097,"Lake County",29.7,0.3
+"Illinois",17099,"LaSalle County",22.9,0.5
+"Illinois",17101,"Lawrence County",19.1,2.7
+"Illinois",17103,"Lee County",22.2,1.1
+"Illinois",17105,"Livingston County",21.5,1.1
+"Illinois",17107,"Logan County",20.9,1.2
+"Illinois",17109,"McDonough County",15.5,1
+"Illinois",17111,"McHenry County",33.7,0.4
+"Illinois",17113,"McLean County",17.9,0.5
+"Illinois",17115,"Macon County",18.2,0.4
+"Illinois",17117,"Macoupin County",27.7,0.8
+"Illinois",17119,"Madison County",24.3,0.4
+"Illinois",17121,"Marion County",21.6,1
+"Illinois",17123,"Marshall County",25.5,1.6
+"Illinois",17125,"Mason County",25.9,1.9
+"Illinois",17127,"Massac County",20.5,1.6
+"Illinois",17129,"Menard County",27,1.5
+"Illinois",17131,"Mercer County",27.8,1.2
+"Illinois",17133,"Monroe County",29.7,1.3
+"Illinois",17135,"Montgomery County",23,1.5
+"Illinois",17137,"Morgan County",18.8,0.9
+"Illinois",17139,"Moultrie County",22.1,1.7
+"Illinois",17141,"Ogle County",24,0.7
+"Illinois",17143,"Peoria County",19.4,0.4
+"Illinois",17145,"Perry County",28.1,2.1
+"Illinois",17147,"Piatt County",23.7,1.2
+"Illinois",17149,"Pike County",24.8,2
+"Illinois",17151,"Pope County",30.4,3.3
+"Illinois",17153,"Pulaski County",28.4,3.5
+"Illinois",17155,"Putnam County",21.9,1.4
+"Illinois",17157,"Randolph County",23,1.1
+"Illinois",17159,"Richland County",17.5,1.4
+"Illinois",17161,"Rock Island County",18.9,0.5
+"Illinois",17163,"St. Clair County",23.6,0.3
+"Illinois",17165,"Saline County",22.9,1.7
+"Illinois",17167,"Sangamon County",18.9,0.5
+"Illinois",17169,"Schuyler County",25.2,2.5
+"Illinois",17171,"Scott County",24.3,1.5
+"Illinois",17173,"Shelby County",23.3,1.2
+"Illinois",17175,"Stark County",26.8,1.5
+"Illinois",17177,"Stephenson County",20.4,1
+"Illinois",17179,"Tazewell County",20.5,0.4
+"Illinois",17181,"Union County",24.5,1.7
+"Illinois",17183,"Vermilion County",20.8,0.7
+"Illinois",17185,"Wabash County",21.5,2
+"Illinois",17187,"Warren County",18.6,1.5
+"Illinois",17189,"Washington County",24,1.3
+"Illinois",17191,"Wayne County",21.7,1.4
+"Illinois",17193,"White County",24.9,2.1
+"Illinois",17195,"Whiteside County",19.7,0.7
+"Illinois",17197,"Will County",32.8,0.3
+"Illinois",17199,"Williamson County",20.9,0.7
+"Illinois",17201,"Winnebago County",21.7,0.4
+"Illinois",17203,"Woodford County",23.1,1
+"Indiana",18001,"Adams County",21.5,1.2
+"Indiana",18003,"Allen County",20.3,0.3
+"Indiana",18005,"Bartholomew County",19.1,0.7
+"Indiana",18007,"Benton County",24.9,1.9
+"Indiana",18009,"Blackford County",24.4,2.1
+"Indiana",18011,"Boone County",24.1,0.8
+"Indiana",18013,"Brown County",35.9,2.4
+"Indiana",18015,"Carroll County",25.7,1.2
+"Indiana",18017,"Cass County",20.1,1
+"Indiana",18019,"Clark County",24.1,0.6
+"Indiana",18021,"Clay County",27,1.4
+"Indiana",18023,"Clinton County",22.1,0.9
+"Indiana",18025,"Crawford County",33.2,2.2
+"Indiana",18027,"Daviess County",21,1.2
+"Indiana",18029,"Dearborn County",29.3,1
+"Indiana",18031,"Decatur County",23.2,1.9
+"Indiana",18033,"DeKalb County",21,0.9
+"Indiana",18035,"Delaware County",20.1,0.7
+"Indiana",18037,"Dubois County",19.8,1.3
+"Indiana",18039,"Elkhart County",19.4,0.5
+"Indiana",18041,"Fayette County",25,1.6
+"Indiana",18043,"Floyd County",22.7,0.7
+"Indiana",18045,"Fountain County",25.7,1.5
+"Indiana",18047,"Franklin County",31.4,1.9
+"Indiana",18049,"Fulton County",22.7,1.5
+"Indiana",18051,"Gibson County",21.2,0.8
+"Indiana",18053,"Grant County",18.9,0.7
+"Indiana",18055,"Greene County",29.4,1.5
+"Indiana",18057,"Hamilton County",26.5,0.5
+"Indiana",18059,"Hancock County",26.3,0.8
+"Indiana",18061,"Harrison County",30.2,1.3
+"Indiana",18063,"Hendricks County",25.9,0.6
+"Indiana",18065,"Henry County",27.3,1.3
+"Indiana",18067,"Howard County",20.4,0.7
+"Indiana",18069,"Huntington County",20.8,0.9
+"Indiana",18071,"Jackson County",20.3,0.8
+"Indiana",18073,"Jasper County",26.6,1.2
+"Indiana",18075,"Jay County",20.6,1.3
+"Indiana",18077,"Jefferson County",22,1.4
+"Indiana",18079,"Jennings County",25.5,1.2
+"Indiana",18081,"Johnson County",26.1,0.6
+"Indiana",18083,"Knox County",19.6,1.3
+"Indiana",18085,"Kosciusko County",20.9,0.7
+"Indiana",18087,"LaGrange County",22.5,1.1
+"Indiana",18089,"Lake County",27.6,0.3
+"Indiana",18091,"LaPorte County",22.3,0.5
+"Indiana",18093,"Lawrence County",26,1.5
+"Indiana",18095,"Madison County",25.7,0.7
+"Indiana",18097,"Marion County",22.7,0.2
+"Indiana",18099,"Marshall County",21.3,0.9
+"Indiana",18101,"Martin County",25.4,2.5
+"Indiana",18103,"Miami County",24,1.5
+"Indiana",18105,"Monroe County",18.2,0.5
+"Indiana",18107,"Montgomery County",21.1,1
+"Indiana",18109,"Morgan County",29.2,0.9
+"Indiana",18111,"Newton County",30.5,1.9
+"Indiana",18113,"Noble County",23.5,1
+"Indiana",18115,"Ohio County",32.4,2.5
+"Indiana",18117,"Orange County",26.7,2.2
+"Indiana",18119,"Owen County",32.5,1.8
+"Indiana",18121,"Parke County",25.9,1.8
+"Indiana",18123,"Perry County",22.6,1.4
+"Indiana",18125,"Pike County",25.2,1.9
+"Indiana",18127,"Porter County",26.8,0.6
+"Indiana",18129,"Posey County",23.2,1.2
+"Indiana",18131,"Pulaski County",23.9,2.6
+"Indiana",18133,"Putnam County",28.5,1.6
+"Indiana",18135,"Randolph County",22.5,1
+"Indiana",18137,"Ripley County",26.3,1.5
+"Indiana",18139,"Rush County",26.3,1.3
+"Indiana",18141,"St. Joseph County",20.2,0.3
+"Indiana",18143,"Scott County",26.7,1.8
+"Indiana",18145,"Shelby County",24,1
+"Indiana",18147,"Spencer County",26.8,1.5
+"Indiana",18149,"Starke County",28.9,1.8
+"Indiana",18151,"Steuben County",22.5,1.2
+"Indiana",18153,"Sullivan County",23.8,1.3
+"Indiana",18155,"Switzerland County",32.4,3.1
+"Indiana",18157,"Tippecanoe County",17.6,0.4
+"Indiana",18159,"Tipton County",24.4,2
+"Indiana",18161,"Union County",23.8,2
+"Indiana",18163,"Vanderburgh County",18.9,0.3
+"Indiana",18165,"Vermillion County",24.4,1.5
+"Indiana",18167,"Vigo County",19.9,0.8
+"Indiana",18169,"Wabash County",19.2,0.9
+"Indiana",18171,"Warren County",26.7,2.6
+"Indiana",18173,"Warrick County",23.1,1
+"Indiana",18175,"Washington County",29.6,1.2
+"Indiana",18177,"Wayne County",19.6,0.7
+"Indiana",18179,"Wells County",21.4,1
+"Indiana",18181,"White County",23.3,1.2
+"Indiana",18183,"Whitley County",24,1.1
+"Iowa",19001,"Adair County",22.7,1.9
+"Iowa",19003,"Adams County",21.2,2.3
+"Iowa",19005,"Allamakee County",23.6,1.6
+"Iowa",19007,"Appanoose County",19,1.3
+"Iowa",19009,"Audubon County",18.2,2
+"Iowa",19011,"Benton County",23.7,0.9
+"Iowa",19013,"Black Hawk County",15.8,0.5
+"Iowa",19015,"Boone County",21.1,1
+"Iowa",19017,"Bremer County",19.2,0.7
+"Iowa",19019,"Buchanan County",20.9,1.4
+"Iowa",19021,"Buena Vista County",13.7,0.9
+"Iowa",19023,"Butler County",22.9,0.8
+"Iowa",19025,"Calhoun County",19.6,1.1
+"Iowa",19027,"Carroll County",14.1,0.9
+"Iowa",19029,"Cass County",17.3,1.2
+"Iowa",19031,"Cedar County",25.2,1.2
+"Iowa",19033,"Cerro Gordo County",15.7,0.5
+"Iowa",19035,"Cherokee County",15.3,1.7
+"Iowa",19037,"Chickasaw County",21.3,1.5
+"Iowa",19039,"Clarke County",21.9,2.3
+"Iowa",19041,"Clay County",15.2,1.1
+"Iowa",19043,"Clayton County",21.4,1.3
+"Iowa",19045,"Clinton County",19.2,1.1
+"Iowa",19047,"Crawford County",15.1,0.8
+"Iowa",19049,"Dallas County",20.5,0.5
+"Iowa",19051,"Davis County",22.8,1.9
+"Iowa",19053,"Decatur County",21,1.6
+"Iowa",19055,"Delaware County",22,1.3
+"Iowa",19057,"Des Moines County",15.9,1
+"Iowa",19059,"Dickinson County",16.7,1.2
+"Iowa",19061,"Dubuque County",17.3,0.6
+"Iowa",19063,"Emmet County",16.4,1.5
+"Iowa",19065,"Fayette County",21.1,1.2
+"Iowa",19067,"Floyd County",19.6,1.5
+"Iowa",19069,"Franklin County",19.4,2
+"Iowa",19071,"Fremont County",22.7,1.4
+"Iowa",19073,"Greene County",18.8,1.9
+"Iowa",19075,"Grundy County",20.7,1.4
+"Iowa",19077,"Guthrie County",27.3,1.4
+"Iowa",19079,"Hamilton County",17.6,1.4
+"Iowa",19081,"Hancock County",20.8,1.7
+"Iowa",19083,"Hardin County",17.7,1.2
+"Iowa",19085,"Harrison County",25.8,1.1
+"Iowa",19087,"Henry County",18.5,1.2
+"Iowa",19089,"Howard County",17.6,1.6
+"Iowa",19091,"Humboldt County",17.2,1.4
+"Iowa",19093,"Ida County",15.7,1.1
+"Iowa",19095,"Iowa County",22.5,1.5
+"Iowa",19097,"Jackson County",23.2,1
+"Iowa",19099,"Jasper County",22,0.9
+"Iowa",19101,"Jefferson County",14.7,1.2
+"Iowa",19103,"Johnson County",18.2,0.4
+"Iowa",19105,"Jones County",24.3,1.4
+"Iowa",19107,"Keokuk County",24,1.2
+"Iowa",19109,"Kossuth County",15.5,0.9
+"Iowa",19111,"Lee County",17.9,1.2
+"Iowa",19113,"Linn County",18.5,0.3
+"Iowa",19115,"Louisa County",23,1.3
+"Iowa",19117,"Lucas County",24.1,1.7
+"Iowa",19119,"Lyon County",18.1,1.2
+"Iowa",19121,"Madison County",26.5,1.4
+"Iowa",19123,"Mahaska County",17.9,1.1
+"Iowa",19125,"Marion County",20.3,1
+"Iowa",19127,"Marshall County",17.3,0.9
+"Iowa",19129,"Mills County",25.2,1.6
+"Iowa",19131,"Mitchell County",16.6,1.3
+"Iowa",19133,"Monona County",21.3,1.7
+"Iowa",19135,"Monroe County",25.1,2.8
+"Iowa",19137,"Montgomery County",18.7,1.7
+"Iowa",19139,"Muscatine County",18,0.9
+"Iowa",19141,"O'Brien County",16.7,1.6
+"Iowa",19143,"Osceola County",18.9,1.9
+"Iowa",19145,"Page County",16.4,1
+"Iowa",19147,"Palo Alto County",16.9,1.8
+"Iowa",19149,"Plymouth County",17.1,1
+"Iowa",19151,"Pocahontas County",17.7,1.2
+"Iowa",19153,"Polk County",19,0.3
+"Iowa",19155,"Pottawattamie County",20.8,0.6
+"Iowa",19157,"Poweshiek County",17,1
+"Iowa",19159,"Ringgold County",18,1.7
+"Iowa",19161,"Sac County",17.7,1.2
+"Iowa",19163,"Scott County",18,0.3
+"Iowa",19165,"Shelby County",18.5,1.5
+"Iowa",19167,"Sioux County",12.8,0.8
+"Iowa",19169,"Story County",17.8,0.5
+"Iowa",19171,"Tama County",21.6,1
+"Iowa",19173,"Taylor County",21,1.8
+"Iowa",19175,"Union County",15,1.2
+"Iowa",19177,"Van Buren County",23.4,1.8
+"Iowa",19179,"Wapello County",17.4,1
+"Iowa",19181,"Warren County",24.8,0.7
+"Iowa",19183,"Washington County",21.1,1.2
+"Iowa",19185,"Wayne County",25.2,1.8
+"Iowa",19187,"Webster County",15.4,0.6
+"Iowa",19189,"Winnebago County",16.3,1.6
+"Iowa",19191,"Winneshiek County",16.2,0.8
+"Iowa",19193,"Woodbury County",17.7,0.5
+"Iowa",19195,"Worth County",20.1,0.9
+"Iowa",19197,"Wright County",15.6,1.1
+"Kansas",20001,"Allen County",15.4,1.4
+"Kansas",20003,"Anderson County",25.2,2.8
+"Kansas",20005,"Atchison County",20,1.7
+"Kansas",20007,"Barber County",13.6,1.8
+"Kansas",20009,"Barton County",17,1.6
+"Kansas",20011,"Bourbon County",16.8,1.4
+"Kansas",20013,"Brown County",16.5,1.3
+"Kansas",20015,"Butler County",22,0.8
+"Kansas",20017,"Chase County",22.1,3.6
+"Kansas",20019,"Chautauqua County",24.1,3.4
+"Kansas",20021,"Cherokee County",19.8,1.6
+"Kansas",20023,"Cheyenne County",13.1,1.9
+"Kansas",20025,"Clark County",13.3,1.8
+"Kansas",20027,"Clay County",18.1,1.6
+"Kansas",20029,"Cloud County",15.2,1.5
+"Kansas",20031,"Coffey County",20.3,1.4
+"Kansas",20033,"Comanche County",11.1,1.6
+"Kansas",20035,"Cowley County",18.5,0.8
+"Kansas",20037,"Crawford County",16.4,0.9
+"Kansas",20039,"Decatur County",13.8,1.7
+"Kansas",20041,"Dickinson County",22.1,1.7
+"Kansas",20043,"Doniphan County",19.2,1
+"Kansas",20045,"Douglas County",20.1,0.6
+"Kansas",20047,"Edwards County",19.7,2.1
+"Kansas",20049,"Elk County",33.3,5
+"Kansas",20051,"Ellis County",13.1,1.2
+"Kansas",20053,"Ellsworth County",16.5,1.5
+"Kansas",20055,"Finney County",15.2,1.1
+"Kansas",20057,"Ford County",14.3,0.9
+"Kansas",20059,"Franklin County",24.5,1.6
+"Kansas",20061,"Geary County",16.6,0.7
+"Kansas",20063,"Gove County",12.8,1.4
+"Kansas",20065,"Graham County",16.9,2.9
+"Kansas",20067,"Grant County",11.4,1.6
+"Kansas",20069,"Gray County",17.6,2
+"Kansas",20071,"Greeley County",12,3.3
+"Kansas",20073,"Greenwood County",25.2,2.1
+"Kansas",20075,"Hamilton County",11.2,2.4
+"Kansas",20077,"Harper County",14.6,1.8
+"Kansas",20079,"Harvey County",17.1,0.9
+"Kansas",20081,"Haskell County",15.2,1.6
+"Kansas",20083,"Hodgeman County",17.6,1.9
+"Kansas",20085,"Jackson County",24.8,1.6
+"Kansas",20087,"Jefferson County",28.5,1.4
+"Kansas",20089,"Jewell County",15.7,1.8
+"Kansas",20091,"Johnson County",20.7,0.2
+"Kansas",20093,"Kearny County",17.6,2
+"Kansas",20095,"Kingman County",23.4,2.2
+"Kansas",20097,"Kiowa County",13.9,2.1
+"Kansas",20099,"Labette County",17,1.2
+"Kansas",20101,"Lane County",14.6,4.2
+"Kansas",20103,"Leavenworth County",22.4,0.7
+"Kansas",20105,"Lincoln County",18.7,1.4
+"Kansas",20107,"Linn County",34.4,3.2
+"Kansas",20109,"Logan County",17.3,4.2
+"Kansas",20111,"Lyon County",17.1,1.5
+"Kansas",20113,"McPherson County",14,0.8
+"Kansas",20115,"Marion County",18.5,1.2
+"Kansas",20117,"Marshall County",15.3,1
+"Kansas",20119,"Meade County",14.7,1.3
+"Kansas",20121,"Miami County",28.6,1.3
+"Kansas",20123,"Mitchell County",9.6,1
+"Kansas",20125,"Montgomery County",15.9,0.8
+"Kansas",20127,"Morris County",23.4,1.9
+"Kansas",20129,"Morton County",12.5,2.3
+"Kansas",20131,"Nemaha County",13.9,1.1
+"Kansas",20133,"Neosho County",16.7,1.3
+"Kansas",20135,"Ness County",11.3,1.4
+"Kansas",20137,"Norton County",14.6,4.4
+"Kansas",20139,"Osage County",28.8,1.7
+"Kansas",20141,"Osborne County",15,1.8
+"Kansas",20143,"Ottawa County",26,2.1
+"Kansas",20145,"Pawnee County",13.3,1.8
+"Kansas",20147,"Phillips County",13.8,1.6
+"Kansas",20149,"Pottawatomie County",21.6,1.3
+"Kansas",20151,"Pratt County",14.7,1.6
+"Kansas",20153,"Rawlins County",16,2.6
+"Kansas",20155,"Reno County",17.5,0.9
+"Kansas",20157,"Republic County",15.1,1.7
+"Kansas",20159,"Rice County",17.6,1.3
+"Kansas",20161,"Riley County",16.2,0.5
+"Kansas",20163,"Rooks County",14,1.4
+"Kansas",20165,"Rush County",21.6,2.4
+"Kansas",20167,"Russell County",14.3,1.6
+"Kansas",20169,"Saline County",15,0.8
+"Kansas",20171,"Scott County",18.8,3.2
+"Kansas",20173,"Sedgwick County",18.2,0.2
+"Kansas",20175,"Seward County",14.5,1.4
+"Kansas",20177,"Shawnee County",17.9,0.3
+"Kansas",20179,"Sheridan County",10.8,1.3
+"Kansas",20181,"Sherman County",12.4,1.8
+"Kansas",20183,"Smith County",13.1,1.2
+"Kansas",20185,"Stafford County",19.5,2.2
+"Kansas",20187,"Stanton County",11.3,1.3
+"Kansas",20189,"Stevens County",23.4,7.4
+"Kansas",20191,"Sumner County",23.1,1.2
+"Kansas",20193,"Thomas County",10.8,1.1
+"Kansas",20195,"Trego County",14.8,2.6
+"Kansas",20197,"Wabaunsee County",25.9,1.4
+"Kansas",20199,"Wallace County",15,2
+"Kansas",20201,"Washington County",17.9,1.1
+"Kansas",20203,"Wichita County",12.7,2
+"Kansas",20205,"Wilson County",16.4,1.1
+"Kansas",20207,"Woodson County",23.3,2.3
+"Kansas",20209,"Wyandotte County",21.5,0.5
+"Kentucky",21001,"Adair County",25.1,2
+"Kentucky",21003,"Allen County",25.6,1.6
+"Kentucky",21005,"Anderson County",26.3,1.5
+"Kentucky",21007,"Ballard County",20.4,1.5
+"Kentucky",21009,"Barren County",20.2,0.9
+"Kentucky",21011,"Bath County",25.7,1.9
+"Kentucky",21013,"Bell County",21.4,1.6
+"Kentucky",21015,"Boone County",23.8,0.7
+"Kentucky",21017,"Bourbon County",22.4,1.8
+"Kentucky",21019,"Boyd County",20.7,1.6
+"Kentucky",21021,"Boyle County",19.7,1.2
+"Kentucky",21023,"Bracken County",34.9,2.3
+"Kentucky",21025,"Breathitt County",27.6,2.2
+"Kentucky",21027,"Breckinridge County",28.7,2.1
+"Kentucky",21029,"Bullitt County",27,0.8
+"Kentucky",21031,"Butler County",29.5,2.4
+"Kentucky",21033,"Caldwell County",22.1,1.8
+"Kentucky",21035,"Calloway County",18.5,1.3
+"Kentucky",21037,"Campbell County",22.4,0.6
+"Kentucky",21039,"Carlisle County",25.6,2.2
+"Kentucky",21041,"Carroll County",19.1,1.6
+"Kentucky",21043,"Carter County",30.9,2.3
+"Kentucky",21045,"Casey County",28.7,2.4
+"Kentucky",21047,"Christian County",18.1,0.8
+"Kentucky",21049,"Clark County",23,1.3
+"Kentucky",21051,"Clay County",27.8,2.7
+"Kentucky",21053,"Clinton County",18.5,2.1
+"Kentucky",21055,"Crittenden County",27.1,2.8
+"Kentucky",21057,"Cumberland County",22,3
+"Kentucky",21059,"Daviess County",18.1,0.6
+"Kentucky",21061,"Edmonson County",32,2.6
+"Kentucky",21063,"Elliott County",29.4,2.8
+"Kentucky",21065,"Estill County",32.8,2.8
+"Kentucky",21067,"Fayette County",19.7,0.3
+"Kentucky",21069,"Fleming County",27.6,2
+"Kentucky",21071,"Floyd County",24.1,1.5
+"Kentucky",21073,"Franklin County",17.9,0.8
+"Kentucky",21075,"Fulton County",17.7,2.2
+"Kentucky",21077,"Gallatin County",27.3,2.1
+"Kentucky",21079,"Garrard County",32.6,2.5
+"Kentucky",21081,"Grant County",29.1,1.7
+"Kentucky",21083,"Graves County",22.5,1.2
+"Kentucky",21085,"Grayson County",25.5,1.4
+"Kentucky",21087,"Green County",29,2.2
+"Kentucky",21089,"Greenup County",23.7,1.1
+"Kentucky",21091,"Hancock County",25.4,2.2
+"Kentucky",21093,"Hardin County",21.7,0.7
+"Kentucky",21095,"Harlan County",23.3,1.6
+"Kentucky",21097,"Harrison County",26.9,1.9
+"Kentucky",21099,"Hart County",26.3,1.8
+"Kentucky",21101,"Henderson County",21.4,1.2
+"Kentucky",21103,"Henry County",29.9,1.9
+"Kentucky",21105,"Hickman County",20.5,2.8
+"Kentucky",21107,"Hopkins County",20.7,0.8
+"Kentucky",21109,"Jackson County",32.5,3.9
+"Kentucky",21111,"Jefferson County",21.8,0.2
+"Kentucky",21113,"Jessamine County",24.1,1.1
+"Kentucky",21115,"Johnson County",27.5,2.5
+"Kentucky",21117,"Kenton County",23,0.5
+"Kentucky",21119,"Knott County",26.7,2.2
+"Kentucky",21121,"Knox County",19.2,1.1
+"Kentucky",21123,"Larue County",25.4,1.4
+"Kentucky",21125,"Laurel County",21.4,0.9
+"Kentucky",21127,"Lawrence County",34.9,3.9
+"Kentucky",21129,"Lee County",31.2,5
+"Kentucky",21131,"Leslie County",28.2,2.4
+"Kentucky",21133,"Letcher County",27.1,1.9
+"Kentucky",21135,"Lewis County",31.4,2.6
+"Kentucky",21137,"Lincoln County",27.5,2.1
+"Kentucky",21139,"Livingston County",29.2,2.7
+"Kentucky",21141,"Logan County",22.7,1.4
+"Kentucky",21143,"Lyon County",23.7,2.5
+"Kentucky",21145,"McCracken County",17,0.6
+"Kentucky",21147,"McCreary County",27,3.8
+"Kentucky",21149,"McLean County",27.8,2.5
+"Kentucky",21151,"Madison County",22.4,0.8
+"Kentucky",21153,"Magoffin County",30.8,3.4
+"Kentucky",21155,"Marion County",21.2,1.8
+"Kentucky",21157,"Marshall County",20.9,1
+"Kentucky",21159,"Martin County",34.6,3.4
+"Kentucky",21161,"Mason County",23.6,1.7
+"Kentucky",21163,"Meade County",31.3,2.2
+"Kentucky",21165,"Menifee County",34.8,4.4
+"Kentucky",21167,"Mercer County",25.9,1.6
+"Kentucky",21169,"Metcalfe County",22.7,1.5
+"Kentucky",21171,"Monroe County",21.7,1.9
+"Kentucky",21173,"Montgomery County",23.9,2
+"Kentucky",21175,"Morgan County",30.2,3.2
+"Kentucky",21177,"Muhlenberg County",20.9,1.3
+"Kentucky",21179,"Nelson County",26.2,1.5
+"Kentucky",21181,"Nicholas County",32,3.3
+"Kentucky",21183,"Ohio County",23.9,1.3
+"Kentucky",21185,"Oldham County",26,0.8
+"Kentucky",21187,"Owen County",27.8,2.5
+"Kentucky",21189,"Owsley County",21.2,2.9
+"Kentucky",21191,"Pendleton County",38.8,4.8
+"Kentucky",21193,"Perry County",22.3,2
+"Kentucky",21195,"Pike County",24.4,0.8
+"Kentucky",21197,"Powell County",28.1,2.1
+"Kentucky",21199,"Pulaski County",20.9,1.2
+"Kentucky",21201,"Robertson County",35.6,6.8
+"Kentucky",21203,"Rockcastle County",28.1,2.3
+"Kentucky",21205,"Rowan County",21,1.8
+"Kentucky",21207,"Russell County",20.3,1.3
+"Kentucky",21209,"Scott County",21.8,0.8
+"Kentucky",21211,"Shelby County",24.1,0.9
+"Kentucky",21213,"Simpson County",21.5,1.5
+"Kentucky",21215,"Spencer County",32.8,1.7
+"Kentucky",21217,"Taylor County",20.1,1.9
+"Kentucky",21219,"Todd County",24.1,1.9
+"Kentucky",21221,"Trigg County",23.2,2.2
+"Kentucky",21223,"Trimble County",29.3,2.4
+"Kentucky",21225,"Union County",19.8,1.3
+"Kentucky",21227,"Warren County",18.8,0.6
+"Kentucky",21229,"Washington County",27.8,2
+"Kentucky",21231,"Wayne County",23.1,2.1
+"Kentucky",21233,"Webster County",24.9,2.1
+"Kentucky",21235,"Whitley County",19.7,1.3
+"Kentucky",21237,"Wolfe County",30.4,5.1
+"Kentucky",21239,"Woodford County",23.1,1.2
+"Louisiana",22001,"Acadia Parish",28.4,1.8
+"Louisiana",22003,"Allen Parish",28.3,2.8
+"Louisiana",22005,"Ascension Parish",28.9,0.8
+"Louisiana",22007,"Assumption Parish",31,2.1
+"Louisiana",22009,"Avoyelles Parish",31.7,2.6
+"Louisiana",22011,"Beauregard Parish",30.4,1.7
+"Louisiana",22013,"Bienville Parish",28.2,3.2
+"Louisiana",22015,"Bossier Parish",21.4,0.6
+"Louisiana",22017,"Caddo Parish",20.3,0.4
+"Louisiana",22019,"Calcasieu Parish",20.8,0.6
+"Louisiana",22021,"Caldwell Parish",32.6,3.7
+"Louisiana",22023,"Cameron Parish",33.7,4.7
+"Louisiana",22025,"Catahoula Parish",35.4,5.2
+"Louisiana",22027,"Claiborne Parish",25.2,1.8
+"Louisiana",22029,"Concordia Parish",24.9,3
+"Louisiana",22031,"De Soto Parish",27.6,1.7
+"Louisiana",22033,"East Baton Rouge Parish",23,0.3
+"Louisiana",22035,"East Carroll Parish",18.7,4.5
+"Louisiana",22037,"East Feliciana Parish",31.1,1.6
+"Louisiana",22039,"Evangeline Parish",30,2.7
+"Louisiana",22041,"Franklin Parish",25.3,2.3
+"Louisiana",22043,"Grant Parish",32.5,3.1
+"Louisiana",22045,"Iberia Parish",23.9,1.4
+"Louisiana",22047,"Iberville Parish",24.6,1.4
+"Louisiana",22049,"Jackson Parish",29.9,2.5
+"Louisiana",22051,"Jefferson Parish",23.4,0.3
+"Louisiana",22053,"Jefferson Davis Parish",31.4,2.7
+"Louisiana",22055,"Lafayette Parish",22.8,0.6
+"Louisiana",22057,"Lafourche Parish",26,1
+"Louisiana",22059,"LaSalle Parish",35,4.9
+"Louisiana",22061,"Lincoln Parish",20.8,1.4
+"Louisiana",22063,"Livingston Parish",34.3,1
+"Louisiana",22065,"Madison Parish",15.3,2
+"Louisiana",22067,"Morehouse Parish",25.1,1.8
+"Louisiana",22069,"Natchitoches Parish",23.1,1.2
+"Louisiana",22071,"Orleans Parish",23,0.3
+"Louisiana",22073,"Ouachita Parish",20.2,0.7
+"Louisiana",22075,"Plaquemines Parish",25.9,1.7
+"Louisiana",22077,"Pointe Coupee Parish",30.9,1.7
+"Louisiana",22079,"Rapides Parish",23.1,0.8
+"Louisiana",22081,"Red River Parish",30,3.5
+"Louisiana",22083,"Richland Parish",20.3,2
+"Louisiana",22085,"Sabine Parish",30.7,2.2
+"Louisiana",22087,"St. Bernard Parish",25.8,1.1
+"Louisiana",22089,"St. Charles Parish",26.9,0.9
+"Louisiana",22091,"St. Helena Parish",38.7,2.6
+"Louisiana",22093,"St. James Parish",25.5,1.4
+"Louisiana",22095,"St. John the Baptist Parish",27,1.1
+"Louisiana",22097,"St. Landry Parish",26.4,1
+"Louisiana",22099,"St. Martin Parish",27.9,1.6
+"Louisiana",22101,"St. Mary Parish",23.5,1.5
+"Louisiana",22103,"St. Tammany Parish",31.8,0.6
+"Louisiana",22105,"Tangipahoa Parish",28.5,1
+"Louisiana",22107,"Tensas Parish",21.7,4.3
+"Louisiana",22109,"Terrebonne Parish",24.1,0.9
+"Louisiana",22111,"Union Parish",30.5,3
+"Louisiana",22113,"Vermilion Parish",28.7,1.4
+"Louisiana",22115,"Vernon Parish",20.6,0.8
+"Louisiana",22117,"Washington Parish",31.4,2.2
+"Louisiana",22119,"Webster Parish",23.8,1.3
+"Louisiana",22121,"West Baton Rouge Parish",24.3,1.9
+"Louisiana",22123,"West Carroll Parish",21.8,2.1
+"Louisiana",22125,"West Feliciana Parish",28.3,2.3
+"Louisiana",22127,"Winn Parish",31.4,3.2
+"Maine",23001,"Androscoggin County",23.2,0.7
+"Maine",23003,"Aroostook County",17,0.6
+"Maine",23005,"Cumberland County",22.3,0.4
+"Maine",23007,"Franklin County",23.5,1.4
+"Maine",23009,"Hancock County",22.8,0.8
+"Maine",23011,"Kennebec County",23.1,0.6
+"Maine",23013,"Knox County",18.7,0.9
+"Maine",23015,"Lincoln County",25.2,1.3
+"Maine",23017,"Oxford County",26.8,0.9
+"Maine",23019,"Penobscot County",22,0.6
+"Maine",23021,"Piscataquis County",24.9,1.9
+"Maine",23023,"Sagadahoc County",23.4,0.9
+"Maine",23025,"Somerset County",25,1
+"Maine",23027,"Waldo County",26.5,1
+"Maine",23029,"Washington County",19.1,0.8
+"Maine",23031,"York County",27.2,0.5
+"Maryland",24001,"Allegany County",21.5,1
+"Maryland",24003,"Anne Arundel County",29.8,0.3
+"Maryland",24005,"Baltimore County",28.8,0.2
+"Maryland",24009,"Calvert County",39.8,0.9
+"Maryland",24011,"Caroline County",33.9,1.3
+"Maryland",24013,"Carroll County",34.8,0.6
+"Maryland",24015,"Cecil County",29.5,1
+"Maryland",24017,"Charles County",42.8,0.9
+"Maryland",24019,"Dorchester County",24.5,1.2
+"Maryland",24021,"Frederick County",34.6,0.6
+"Maryland",24023,"Garrett County",22.8,1
+"Maryland",24025,"Harford County",31.8,0.5
+"Maryland",24027,"Howard County",30.6,0.4
+"Maryland",24029,"Kent County",26.9,2.7
+"Maryland",24031,"Montgomery County",34.2,0.2
+"Maryland",24033,"Prince George's County",35.8,0.3
+"Maryland",24035,"Queen Anne's County",33.9,1.2
+"Maryland",24037,"St. Mary's County",28.9,0.8
+"Maryland",24039,"Somerset County",23.2,1.7
+"Maryland",24041,"Talbot County",25.8,1.6
+"Maryland",24043,"Washington County",28.1,0.6
+"Maryland",24045,"Wicomico County",21.9,0.8
+"Maryland",24047,"Worcester County",21.9,1.2
+"Maryland",24510,"Baltimore city",30.1,0.4
+"Massachusetts",25001,"Barnstable County",24.6,0.7
+"Massachusetts",25003,"Berkshire County",20.4,0.7
+"Massachusetts",25005,"Bristol County",27,0.4
+"Massachusetts",25007,"Dukes County",16.5,1.8
+"Massachusetts",25009,"Essex County",28,0.3
+"Massachusetts",25011,"Franklin County",24.5,0.7
+"Massachusetts",25013,"Hampden County",22.7,0.3
+"Massachusetts",25015,"Hampshire County",23.3,0.6
+"Massachusetts",25017,"Middlesex County",28.4,0.2
+"Massachusetts",25019,"Nantucket County",12.1,1.7
+"Massachusetts",25021,"Norfolk County",31.5,0.3
+"Massachusetts",25023,"Plymouth County",32.4,0.4
+"Massachusetts",25025,"Suffolk County",29,0.2
+"Massachusetts",25027,"Worcester County",27.9,0.3
+"Michigan",26001,"Alcona County",21.7,1.4
+"Michigan",26003,"Alger County",21.1,2.2
+"Michigan",26005,"Allegan County",24.4,0.8
+"Michigan",26007,"Alpena County",16.4,1.1
+"Michigan",26009,"Antrim County",24.5,1.1
+"Michigan",26011,"Arenac County",27.1,1.3
+"Michigan",26013,"Baraga County",16.3,1.7
+"Michigan",26015,"Barry County",26.8,0.9
+"Michigan",26017,"Bay County",20.9,0.5
+"Michigan",26019,"Benzie County",25.2,1.2
+"Michigan",26021,"Berrien County",19.8,0.4
+"Michigan",26023,"Branch County",24.8,0.9
+"Michigan",26025,"Calhoun County",20,0.5
+"Michigan",26027,"Cass County",25.6,0.9
+"Michigan",26029,"Charlevoix County",18.8,0.9
+"Michigan",26031,"Cheboygan County",26.4,1.5
+"Michigan",26033,"Chippewa County",16.2,0.6
+"Michigan",26035,"Clare County",26.1,1.4
+"Michigan",26037,"Clinton County",23,0.7
+"Michigan",26039,"Crawford County",21.2,1.5
+"Michigan",26041,"Delta County",18,0.9
+"Michigan",26043,"Dickinson County",15.2,0.8
+"Michigan",26045,"Eaton County",22.6,0.5
+"Michigan",26047,"Emmet County",19.3,0.8
+"Michigan",26049,"Genesee County",25.5,0.4
+"Michigan",26051,"Gladwin County",29.2,1.5
+"Michigan",26053,"Gogebic County",19.2,1.6
+"Michigan",26055,"Grand Traverse County",20.3,0.8
+"Michigan",26057,"Gratiot County",22.3,0.9
+"Michigan",26059,"Hillsdale County",24.1,0.8
+"Michigan",26061,"Houghton County",14.7,0.6
+"Michigan",26063,"Huron County",20.7,0.8
+"Michigan",26065,"Ingham County",19.8,0.3
+"Michigan",26067,"Ionia County",27.6,0.9
+"Michigan",26069,"Iosco County",21.1,1.2
+"Michigan",26071,"Iron County",19.5,1.4
+"Michigan",26073,"Isabella County",17.7,0.7
+"Michigan",26075,"Jackson County",23.3,0.6
+"Michigan",26077,"Kalamazoo County",20,0.4
+"Michigan",26079,"Kalkaska County",27.5,1.3
+"Michigan",26081,"Kent County",21.1,0.2
+"Michigan",26083,"Keweenaw County",20.5,2.7
+"Michigan",26085,"Lake County",25.2,2.1
+"Michigan",26087,"Lapeer County",32.8,0.8
+"Michigan",26089,"Leelanau County",22.2,1.2
+"Michigan",26091,"Lenawee County",26.6,0.7
+"Michigan",26093,"Livingston County",31.4,0.5
+"Michigan",26095,"Luce County",14.2,1.4
+"Michigan",26097,"Mackinac County",19.6,2
+"Michigan",26099,"Macomb County",26.8,0.2
+"Michigan",26101,"Manistee County",19.5,1
+"Michigan",26103,"Marquette County",18,0.7
+"Michigan",26105,"Mason County",17.9,0.9
+"Michigan",26107,"Mecosta County",22.5,1
+"Michigan",26109,"Menominee County",20.2,1
+"Michigan",26111,"Midland County",19.9,0.5
+"Michigan",26113,"Missaukee County",23.1,1.2
+"Michigan",26115,"Monroe County",24.7,0.6
+"Michigan",26117,"Montcalm County",30.2,0.8
+"Michigan",26119,"Montmorency County",26.1,3.3
+"Michigan",26121,"Muskegon County",21,0.5
+"Michigan",26123,"Newaygo County",28.7,0.7
+"Michigan",26125,"Oakland County",26.1,0.2
+"Michigan",26127,"Oceana County",23.4,1
+"Michigan",26129,"Ogemaw County",23.1,1.1
+"Michigan",26131,"Ontonagon County",24,2.1
+"Michigan",26133,"Osceola County",25,1.3
+"Michigan",26135,"Oscoda County",21.2,2.3
+"Michigan",26137,"Otsego County",20.5,1.3
+"Michigan",26139,"Ottawa County",20.2,0.4
+"Michigan",26141,"Presque Isle County",23.8,1.7
+"Michigan",26143,"Roscommon County",22.2,1.5
+"Michigan",26145,"Saginaw County",21.6,0.5
+"Michigan",26147,"St. Clair County",28.3,0.6
+"Michigan",26149,"St. Joseph County",23,0.7
+"Michigan",26151,"Sanilac County",27.8,1.1
+"Michigan",26153,"Schoolcraft County",20,3.1
+"Michigan",26155,"Shiawassee County",28,0.8
+"Michigan",26157,"Tuscola County",30.2,1.5
+"Michigan",26159,"Van Buren County",24.5,0.8
+"Michigan",26161,"Washtenaw County",23,0.3
+"Michigan",26163,"Wayne County",25,0.2
+"Michigan",26165,"Wexford County",20.5,1
+"Minnesota",27001,"Aitkin County",24.5,1.2
+"Minnesota",27003,"Anoka County",27.9,0.3
+"Minnesota",27005,"Becker County",23.7,0.9
+"Minnesota",27007,"Beltrami County",19.9,0.8
+"Minnesota",27009,"Benton County",22,0.9
+"Minnesota",27011,"Big Stone County",16.6,1.6
+"Minnesota",27013,"Blue Earth County",17.3,0.5
+"Minnesota",27015,"Brown County",14.7,0.7
+"Minnesota",27017,"Carlton County",21,0.6
+"Minnesota",27019,"Carver County",25.6,0.7
+"Minnesota",27021,"Cass County",22.9,0.9
+"Minnesota",27023,"Chippewa County",18,1.6
+"Minnesota",27025,"Chisago County",31.7,0.9
+"Minnesota",27027,"Clay County",18.5,0.7
+"Minnesota",27029,"Clearwater County",25.6,1.5
+"Minnesota",27031,"Cook County",16.7,2.9
+"Minnesota",27033,"Cottonwood County",15.9,1
+"Minnesota",27035,"Crow Wing County",21.5,0.6
+"Minnesota",27037,"Dakota County",24.1,0.3
+"Minnesota",27039,"Dodge County",23.7,0.9
+"Minnesota",27041,"Douglas County",18.3,1.2
+"Minnesota",27043,"Faribault County",19.6,1
+"Minnesota",27045,"Fillmore County",25.9,0.9
+"Minnesota",27047,"Freeborn County",18,0.7
+"Minnesota",27049,"Goodhue County",23.4,1
+"Minnesota",27051,"Grant County",22.7,1.6
+"Minnesota",27053,"Hennepin County",22.7,0.2
+"Minnesota",27055,"Houston County",20.7,0.8
+"Minnesota",27057,"Hubbard County",22,1
+"Minnesota",27059,"Isanti County",33.2,1.1
+"Minnesota",27061,"Itasca County",22.2,0.8
+"Minnesota",27063,"Jackson County",17.8,1.4
+"Minnesota",27065,"Kanabec County",33,1.5
+"Minnesota",27067,"Kandiyohi County",17.5,0.5
+"Minnesota",27069,"Kittson County",19.2,1.2
+"Minnesota",27071,"Koochiching County",16.8,1.9
+"Minnesota",27073,"Lac qui Parle County",16.7,0.9
+"Minnesota",27075,"Lake County",21.9,1.9
+"Minnesota",27077,"Lake of the Woods County",17.9,2.5
+"Minnesota",27079,"Le Sueur County",24.9,1
+"Minnesota",27081,"Lincoln County",19.8,1.2
+"Minnesota",27083,"Lyon County",15.2,1.1
+"Minnesota",27085,"McLeod County",22.2,0.9
+"Minnesota",27087,"Mahnomen County",22.1,1.9
+"Minnesota",27089,"Marshall County",22.7,0.9
+"Minnesota",27091,"Martin County",15.3,0.7
+"Minnesota",27093,"Meeker County",24.6,1.1
+"Minnesota",27095,"Mille Lacs County",29.6,1.3
+"Minnesota",27097,"Morrison County",25.6,0.7
+"Minnesota",27099,"Mower County",17.5,0.9
+"Minnesota",27101,"Murray County",19,1.5
+"Minnesota",27103,"Nicollet County",16,0.8
+"Minnesota",27105,"Nobles County",17.4,1.5
+"Minnesota",27107,"Norman County",22.6,1.1
+"Minnesota",27109,"Olmsted County",17.5,0.4
+"Minnesota",27111,"Otter Tail County",20.4,0.7
+"Minnesota",27113,"Pennington County",15.1,1.2
+"Minnesota",27115,"Pine County",29.2,1
+"Minnesota",27117,"Pipestone County",17.1,1.5
+"Minnesota",27119,"Polk County",17.6,0.7
+"Minnesota",27121,"Pope County",19.3,0.9
+"Minnesota",27123,"Ramsey County",22.6,0.3
+"Minnesota",27125,"Red Lake County",23.1,1.1
+"Minnesota",27127,"Redwood County",17,0.8
+"Minnesota",27129,"Renville County",17.8,0.6
+"Minnesota",27131,"Rice County",22.6,0.7
+"Minnesota",27133,"Rock County",19.7,1.4
+"Minnesota",27135,"Roseau County",16.2,0.7
+"Minnesota",27137,"St. Louis County",19.5,0.4
+"Minnesota",27139,"Scott County",26.7,0.5
+"Minnesota",27141,"Sherburne County",32,0.8
+"Minnesota",27143,"Sibley County",24.5,1.1
+"Minnesota",27145,"Stearns County",20.4,0.5
+"Minnesota",27147,"Steele County",17.3,0.8
+"Minnesota",27149,"Stevens County",12.1,1.1
+"Minnesota",27151,"Swift County",16.3,1.1
+"Minnesota",27153,"Todd County",23.3,0.6
+"Minnesota",27155,"Traverse County",14.6,1.3
+"Minnesota",27157,"Wabasha County",22.5,0.9
+"Minnesota",27159,"Wadena County",22,1.4
+"Minnesota",27161,"Waseca County",18.9,1.5
+"Minnesota",27163,"Washington County",25.2,0.3
+"Minnesota",27165,"Watonwan County",19.1,1.5
+"Minnesota",27167,"Wilkin County",17.3,1
+"Minnesota",27169,"Winona County",17.1,0.6
+"Minnesota",27171,"Wright County",30.1,0.5
+"Minnesota",27173,"Yellow Medicine County",18.1,1
+"Mississippi",28001,"Adams County",19.8,1.9
+"Mississippi",28003,"Alcorn County",20.5,1.4
+"Mississippi",28005,"Amite County",35.8,3.9
+"Mississippi",28007,"Attala County",27.5,2.2
+"Mississippi",28009,"Benton County",35.3,3
+"Mississippi",28011,"Bolivar County",17.8,1.2
+"Mississippi",28013,"Calhoun County",23.7,2
+"Mississippi",28015,"Carroll County",23,3.3
+"Mississippi",28017,"Chickasaw County",25.2,2.1
+"Mississippi",28019,"Choctaw County",28,3.2
+"Mississippi",28021,"Claiborne County",23.3,2.7
+"Mississippi",28023,"Clarke County",30.2,3.2
+"Mississippi",28025,"Clay County",22.8,1.7
+"Mississippi",28027,"Coahoma County",19.5,1.4
+"Mississippi",28029,"Copiah County",25.3,1.7
+"Mississippi",28031,"Covington County",27.3,2.4
+"Mississippi",28033,"DeSoto County",25.1,0.5
+"Mississippi",28035,"Forrest County",20.8,1
+"Mississippi",28037,"Franklin County",39.8,4.7
+"Mississippi",28039,"George County",35.2,2.6
+"Mississippi",28041,"Greene County",37.6,3.7
+"Mississippi",28043,"Grenada County",21.5,2.2
+"Mississippi",28045,"Hancock County",29.1,1.9
+"Mississippi",28047,"Harrison County",21.7,0.6
+"Mississippi",28049,"Hinds County",21.3,0.3
+"Mississippi",28051,"Holmes County",25.7,1.7
+"Mississippi",28053,"Humphreys County",19,2.3
+"Mississippi",28055,"Issaquena County",26.9,7.3
+"Mississippi",28057,"Itawamba County",23.6,1.2
+"Mississippi",28059,"Jackson County",24.3,0.8
+"Mississippi",28061,"Jasper County",26,1.9
+"Mississippi",28063,"Jefferson County",24.6,3.4
+"Mississippi",28065,"Jefferson Davis County",32.7,3
+"Mississippi",28067,"Jones County",21.9,0.8
+"Mississippi",28069,"Kemper County",27.3,2.6
+"Mississippi",28071,"Lafayette County",18.3,1.2
+"Mississippi",28073,"Lamar County",24.9,1.5
+"Mississippi",28075,"Lauderdale County",20.6,0.9
+"Mississippi",28077,"Lawrence County",35.8,4
+"Mississippi",28079,"Leake County",32.4,3
+"Mississippi",28081,"Lee County",18.8,0.7
+"Mississippi",28083,"Leflore County",16,1.4
+"Mississippi",28085,"Lincoln County",28,2.7
+"Mississippi",28087,"Lowndes County",21,1.1
+"Mississippi",28089,"Madison County",23,0.9
+"Mississippi",28091,"Marion County",33.1,3.3
+"Mississippi",28093,"Marshall County",30.9,2
+"Mississippi",28095,"Monroe County",23.3,1.4
+"Mississippi",28097,"Montgomery County",20.3,2.2
+"Mississippi",28099,"Neshoba County",24.4,1.6
+"Mississippi",28101,"Newton County",26.4,1.6
+"Mississippi",28103,"Noxubee County",26.8,2.6
+"Mississippi",28105,"Oktibbeha County",18.9,1.7
+"Mississippi",28107,"Panola County",25.8,1.9
+"Mississippi",28109,"Pearl River County",33.4,1.9
+"Mississippi",28111,"Perry County",31.2,2.8
+"Mississippi",28113,"Pike County",23.4,2.2
+"Mississippi",28115,"Pontotoc County",24.1,1.5
+"Mississippi",28117,"Prentiss County",23.6,1.4
+"Mississippi",28119,"Quitman County",22.5,1.8
+"Mississippi",28121,"Rankin County",25.1,0.6
+"Mississippi",28123,"Scott County",23.8,1.5
+"Mississippi",28125,"Sharkey County",18.2,2.9
+"Mississippi",28127,"Simpson County",34.2,2.1
+"Mississippi",28129,"Smith County",28,2.1
+"Mississippi",28131,"Stone County",33.5,3.8
+"Mississippi",28133,"Sunflower County",18,1.3
+"Mississippi",28135,"Tallahatchie County",24.5,2.1
+"Mississippi",28137,"Tate County",29.5,1.5
+"Mississippi",28139,"Tippah County",22.8,1.6
+"Mississippi",28141,"Tishomingo County",22.9,1.8
+"Mississippi",28143,"Tunica County",18.3,2.1
+"Mississippi",28145,"Union County",23.6,1.5
+"Mississippi",28147,"Walthall County",34.2,3.3
+"Mississippi",28149,"Warren County",18.3,1
+"Mississippi",28151,"Washington County",17.7,1
+"Mississippi",28153,"Wayne County",30.6,3.2
+"Mississippi",28155,"Webster County",30.8,4.7
+"Mississippi",28157,"Wilkinson County",35.4,5.1
+"Mississippi",28159,"Winston County",27.6,2.7
+"Mississippi",28161,"Yalobusha County",23.2,1.6
+"Mississippi",28163,"Yazoo County",26.6,1.9
+"Missouri",29001,"Adair County",16.7,1.5
+"Missouri",29003,"Andrew County",23.3,1.4
+"Missouri",29005,"Atchison County",18.1,1.6
+"Missouri",29007,"Audrain County",21.1,2.2
+"Missouri",29009,"Barry County",22.4,1.5
+"Missouri",29011,"Barton County",19.3,1.8
+"Missouri",29013,"Bates County",28.5,2.2
+"Missouri",29015,"Benton County",29,2.5
+"Missouri",29017,"Bollinger County",34.2,1.8
+"Missouri",29019,"Boone County",18.2,0.4
+"Missouri",29021,"Buchanan County",17.4,0.6
+"Missouri",29023,"Butler County",16.9,0.9
+"Missouri",29025,"Caldwell County",32.9,2.9
+"Missouri",29027,"Callaway County",21.3,1
+"Missouri",29029,"Camden County",21.1,1
+"Missouri",29031,"Cape Girardeau County",18.6,0.8
+"Missouri",29033,"Carroll County",24.4,1.7
+"Missouri",29035,"Carter County",23.5,3.7
+"Missouri",29037,"Cass County",27.8,0.8
+"Missouri",29039,"Cedar County",25.1,3.4
+"Missouri",29041,"Chariton County",21.9,1.8
+"Missouri",29043,"Christian County",25.6,0.6
+"Missouri",29045,"Clark County",25.3,2.9
+"Missouri",29047,"Clay County",23,0.4
+"Missouri",29049,"Clinton County",27.2,1.3
+"Missouri",29051,"Cole County",16.9,0.6
+"Missouri",29053,"Cooper County",22.5,1
+"Missouri",29055,"Crawford County",28.6,2.1
+"Missouri",29057,"Dade County",24.9,2.1
+"Missouri",29059,"Dallas County",31,3.6
+"Missouri",29061,"Daviess County",28.9,2.7
+"Missouri",29063,"DeKalb County",23.7,1.6
+"Missouri",29065,"Dent County",24.1,2.4
+"Missouri",29067,"Douglas County",30.7,2.7
+"Missouri",29069,"Dunklin County",20.1,0.9
+"Missouri",29071,"Franklin County",27.9,1
+"Missouri",29073,"Gasconade County",27.1,2.2
+"Missouri",29075,"Gentry County",20.5,1.6
+"Missouri",29077,"Greene County",19,0.4
+"Missouri",29079,"Grundy County",20.3,2.1
+"Missouri",29081,"Harrison County",21.2,2.4
+"Missouri",29083,"Henry County",23,1.6
+"Missouri",29085,"Hickory County",32.6,4.1
+"Missouri",29087,"Holt County",20.3,1.7
+"Missouri",29089,"Howard County",24.5,1.4
+"Missouri",29091,"Howell County",19.6,1.4
+"Missouri",29093,"Iron County",24.7,2.8
+"Missouri",29095,"Jackson County",22.8,0.2
+"Missouri",29097,"Jasper County",18.4,0.7
+"Missouri",29099,"Jefferson County",30.1,0.5
+"Missouri",29101,"Johnson County",22.7,1
+"Missouri",29103,"Knox County",21.1,2
+"Missouri",29105,"Laclede County",21.6,1.3
+"Missouri",29107,"Lafayette County",26.5,1.4
+"Missouri",29109,"Lawrence County",21.6,1.2
+"Missouri",29111,"Lewis County",24.1,1.6
+"Missouri",29113,"Lincoln County",34.1,1.6
+"Missouri",29115,"Linn County",17.7,1.1
+"Missouri",29117,"Livingston County",16.4,1.4
+"Missouri",29119,"McDonald County",27.1,1.4
+"Missouri",29121,"Macon County",20.8,1.5
+"Missouri",29123,"Madison County",25.7,2.8
+"Missouri",29125,"Maries County",28.2,2.3
+"Missouri",29127,"Marion County",19.5,1.4
+"Missouri",29129,"Mercer County",21.1,2.6
+"Missouri",29131,"Miller County",28.8,2.1
+"Missouri",29133,"Mississippi County",18.6,2.2
+"Missouri",29135,"Moniteau County",25.8,1.9
+"Missouri",29137,"Monroe County",25.9,1.9
+"Missouri",29139,"Montgomery County",28.3,1.9
+"Missouri",29141,"Morgan County",25,2.4
+"Missouri",29143,"New Madrid County",16.2,0.9
+"Missouri",29145,"Newton County",20.9,1.1
+"Missouri",29147,"Nodaway County",15.5,1
+"Missouri",29149,"Oregon County",21.2,1.7
+"Missouri",29151,"Osage County",26,1.3
+"Missouri",29153,"Ozark County",29.7,2.5
+"Missouri",29155,"Pemiscot County",15.5,0.9
+"Missouri",29157,"Perry County",21.5,1.4
+"Missouri",29159,"Pettis County",19.4,1.1
+"Missouri",29161,"Phelps County",19.2,1.3
+"Missouri",29163,"Pike County",21.3,1.2
+"Missouri",29165,"Platte County",23.3,0.6
+"Missouri",29167,"Polk County",24.3,2.1
+"Missouri",29169,"Pulaski County",18.6,0.7
+"Missouri",29171,"Putnam County",22,2.3
+"Missouri",29173,"Ralls County",21.5,1.3
+"Missouri",29175,"Randolph County",20.9,1.6
+"Missouri",29177,"Ray County",31.2,1.6
+"Missouri",29179,"Reynolds County",25,2.3
+"Missouri",29181,"Ripley County",22,1.4
+"Missouri",29183,"St. Charles County",24.9,0.3
+"Missouri",29185,"St. Clair County",22.8,2
+"Missouri",29186,"Ste. Genevieve County",27.3,2.1
+"Missouri",29187,"St. Francois County",25.5,1.6
+"Missouri",29189,"St. Louis County",23.4,0.2
+"Missouri",29195,"Saline County",17.8,1.1
+"Missouri",29197,"Schuyler County",27.2,2.6
+"Missouri",29199,"Scotland County",20.7,2.8
+"Missouri",29201,"Scott County",19.2,1.1
+"Missouri",29203,"Shannon County",20.9,2.9
+"Missouri",29205,"Shelby County",22.4,2.7
+"Missouri",29207,"Stoddard County",21.4,1.4
+"Missouri",29209,"Stone County",28.2,1.3
+"Missouri",29211,"Sullivan County",17,1.5
+"Missouri",29213,"Taney County",19.8,1
+"Missouri",29215,"CYCLONE5 County",27.5,3.2
+"Missouri",29217,"Vernon County",17.9,1.4
+"Missouri",29219,"Warren County",30.8,1.3
+"Missouri",29221,"Washington County",33.1,2.4
+"Missouri",29223,"Wayne County",26.1,2.6
+"Missouri",29225,"Webster County",30.7,1.8
+"Missouri",29227,"Worth County",26.5,4
+"Missouri",29229,"Wright County",26,2.2
+"Missouri",29510,"St. Louis city",23.9,0.4
+"Montana",30001,"Beaverhead County",14,1.4
+"Montana",30003,"Big Horn County",18.6,1.5
+"Montana",30005,"Blaine County",14.6,1.2
+"Montana",30007,"Broadwater County",25.3,3.4
+"Montana",30009,"Carbon County",27.1,2
+"Montana",30011,"Carter County",13,2.7
+"Montana",30013,"Cascade County",15.8,0.6
+"Montana",30015,"Chouteau County",17.5,1.5
+"Montana",30017,"Custer County",14.2,2.2
+"Montana",30019,"Daniels County",9.8,1.9
+"Montana",30021,"Dawson County",18.3,3.1
+"Montana",30023,"Deer Lodge County",20.2,2.6
+"Montana",30025,"Fallon County",12,1.8
+"Montana",30027,"Fergus County",14.3,2.4
+"Montana",30029,"Flathead County",18.6,0.7
+"Montana",30031,"Gallatin County",16.8,0.6
+"Montana",30033,"Garfield County",10.6,1.2
+"Montana",30035,"Glacier County",12.4,1.7
+"Montana",30037,"Golden Valley County",27,4.8
+"Montana",30039,"Granite County",23.8,3.3
+"Montana",30041,"Hill County",14.5,1.2
+"Montana",30043,"Jefferson County",21.1,1.3
+"Montana",30045,"Judith Basin County",19,2.7
+"Montana",30047,"Lake County",21,1.4
+"Montana",30049,"Lewis and Clark County",17.6,0.7
+"Montana",30051,"Liberty County",16.9,3.9
+"Montana",30053,"Lincoln County",18.2,1.6
+"Montana",30055,"McCone County",14.2,1.3
+"Montana",30057,"Madison County",21.7,2.3
+"Montana",30059,"Meagher County",16.3,3.2
+"Montana",30061,"Mineral County",22.9,3.8
+"Montana",30063,"Missoula County",16.7,0.5
+"Montana",30065,"Musselshell County",28.8,4.1
+"Montana",30067,"Park County",22.2,2.3
+"Montana",30069,"Petroleum County",16.8,3.8
+"Montana",30071,"Phillips County",15.9,2.4
+"Montana",30073,"Pondera County",17.4,1.3
+"Montana",30075,"Powder River County",13.7,2.6
+"Montana",30077,"Powell County",14.9,1.4
+"Montana",30079,"Prairie County",16.9,3.3
+"Montana",30081,"Ravalli County",26.1,1.7
+"Montana",30083,"Richland County",17.3,2.4
+"Montana",30085,"Roosevelt County",13.6,1.3
+"Montana",30087,"Rosebud County",14.1,1
+"Montana",30089,"Sanders County",22,2.1
+"Montana",30091,"Sheridan County",12.2,1
+"Montana",30093,"Silver Bow County",15.6,0.8
+"Montana",30095,"Stillwater County",28.1,1.9
+"Montana",30097,"Sweet Grass County",18.7,3.4
+"Montana",30099,"Teton County",20.4,1.9
+"Montana",30101,"Toole County",16.3,3.1
+"Montana",30103,"Treasure County",21,6
+"Montana",30105,"Valley County",17.5,2.9
+"Montana",30107,"Wheatland County",13.2,3.5
+"Montana",30109,"Wibaux County",16.9,4.2
+"Montana",30111,"Yellowstone County",19,0.6
+"Nebraska",31001,"Adams County",14.8,0.9
+"Nebraska",31003,"Antelope County",17.2,1.2
+"Nebraska",31005,"Arthur County",20.7,3.8
+"Nebraska",31007,"Banner County",25.3,4
+"Nebraska",31009,"Blaine County",22.4,3.9
+"Nebraska",31011,"Boone County",17.2,1.9
+"Nebraska",31013,"Box Butte County",11.6,0.9
+"Nebraska",31015,"Boyd County",17.1,2.3
+"Nebraska",31017,"Brown County",13.4,2.6
+"Nebraska",31019,"Buffalo County",15,0.6
+"Nebraska",31021,"Burt County",23.6,2
+"Nebraska",31023,"Butler County",19.5,1.3
+"Nebraska",31025,"Cass County",27,0.9
+"Nebraska",31027,"Cedar County",18.4,1
+"Nebraska",31029,"Chase County",10,1.3
+"Nebraska",31031,"Cherry County",14.3,2
+"Nebraska",31033,"Cheyenne County",12.7,1.1
+"Nebraska",31035,"Clay County",20,1.3
+"Nebraska",31037,"Colfax County",17.4,1.4
+"Nebraska",31039,"Cuming County",16.1,1.6
+"Nebraska",31041,"Custer County",15.9,1
+"Nebraska",31043,"Dakota County",16.2,0.9
+"Nebraska",31045,"Dawes County",13.1,1.6
+"Nebraska",31047,"Dawson County",15.9,1.4
+"Nebraska",31049,"Deuel County",23.8,3.4
+"Nebraska",31051,"Dixon County",21.2,1.2
+"Nebraska",31053,"Dodge County",18.3,0.8
+"Nebraska",31055,"Douglas County",18.9,0.2
+"Nebraska",31057,"Dundy County",11.8,1.7
+"Nebraska",31059,"Fillmore County",14.9,1
+"Nebraska",31061,"Franklin County",16.7,2
+"Nebraska",31063,"Frontier County",18.6,1.9
+"Nebraska",31065,"Furnas County",17.7,3.3
+"Nebraska",31067,"Gage County",21,1.2
+"Nebraska",31069,"Garden County",18.7,3
+"Nebraska",31071,"Garfield County",10.9,1.3
+"Nebraska",31073,"Gosper County",18.2,2.5
+"Nebraska",31075,"Grant County",22.8,8.1
+"Nebraska",31077,"Greeley County",21.1,3.3
+"Nebraska",31079,"Hall County",14.9,0.7
+"Nebraska",31081,"Hamilton County",17.2,1.3
+"Nebraska",31083,"Harlan County",20.2,1.9
+"Nebraska",31085,"Hayes County",18.8,3
+"Nebraska",31087,"Hitchcock County",17.8,1.7
+"Nebraska",31089,"Holt County",14.3,1.4
+"Nebraska",31091,"Hooker County",18.3,4.2
+"Nebraska",31093,"Howard County",23.8,1.6
+"Nebraska",31095,"Jefferson County",19.2,1.9
+"Nebraska",31097,"Johnson County",25.5,2.1
+"Nebraska",31099,"Kearney County",19.2,1.7
+"Nebraska",31101,"Keith County",15.3,1.5
+"Nebraska",31103,"Keya Paha County",16.6,3
+"Nebraska",31105,"Kimball County",16.6,2.6
+"Nebraska",31107,"Knox County",16.6,1.1
+"Nebraska",31109,"Lancaster County",18.2,0.3
+"Nebraska",31111,"Lincoln County",14.2,0.7
+"Nebraska",31113,"Logan County",27.3,4.1
+"Nebraska",31115,"Loup County",20.2,3.3
+"Nebraska",31117,"McPherson County",27.7,3.8
+"Nebraska",31119,"Madison County",14.2,0.7
+"Nebraska",31121,"Merrick County",19.2,2.1
+"Nebraska",31123,"Morrill County",17.9,1.3
+"Nebraska",31125,"Nance County",19.8,2
+"Nebraska",31127,"Nemaha County",16.7,1.8
+"Nebraska",31129,"Nuckolls County",18.5,3.1
+"Nebraska",31131,"Otoe County",21.2,0.9
+"Nebraska",31133,"Pawnee County",18.3,1.8
+"Nebraska",31135,"Perkins County",17.3,2
+"Nebraska",31137,"Phelps County",14.1,1.3
+"Nebraska",31139,"Pierce County",18.2,1
+"Nebraska",31141,"Platte County",15.5,1
+"Nebraska",31143,"Polk County",18.9,1.6
+"Nebraska",31145,"Red Willow County",11.3,1.3
+"Nebraska",31147,"Richardson County",17.5,2.2
+"Nebraska",31149,"Rock County",14.1,2.7
+"Nebraska",31151,"Saline County",19.7,1.6
+"Nebraska",31153,"Sarpy County",20.3,0.4
+"Nebraska",31155,"Saunders County",26.8,1.1
+"Nebraska",31157,"Scotts Bluff County",15.8,0.9
+"Nebraska",31159,"Seward County",20.6,1.2
+"Nebraska",31161,"Sheridan County",16.1,1.3
+"Nebraska",31163,"Sherman County",26.1,2
+"Nebraska",31165,"Sioux County",20.2,3.6
+"Nebraska",31167,"Stanton County",17.6,1.3
+"Nebraska",31169,"Thayer County",14.5,1.3
+"Nebraska",31171,"Thomas County",16.5,4.6
+"Nebraska",31173,"Thurston County",16.7,1.2
+"Nebraska",31175,"Valley County",13.4,1.9
+"Nebraska",31177,"Washington County",22.4,1.2
+"Nebraska",31179,"Wayne County",14.7,1.7
+"Nebraska",31181,"Webster County",17.1,1.4
+"Nebraska",31183,"Wheeler County",14,2.4
+"Nebraska",31185,"York County",12.9,0.9
+"Nevada",32001,"Churchill County",18.2,1.6
+"Nevada",32003,"Clark County",24.1,0.2
+"Nevada",32005,"Douglas County",24.6,1.1
+"Nevada",32007,"Elko County",30.3,1.7
+"Nevada",32009,"Esmeralda County",17.2,5.7
+"Nevada",32011,"Eureka County",14.8,4.4
+"Nevada",32013,"Humboldt County",31.1,3
+"Nevada",32015,"Lander County",28.1,4.1
+"Nevada",32017,"Lincoln County",28.6,8.6
+"Nevada",32019,"Lyon County",30.8,1.6
+"Nevada",32021,"Mineral County",12.6,2.7
+"Nevada",32023,"Nye County",26.5,2.2
+"Nevada",32027,"Pershing County",22.6,4.4
+"Nevada",32029,"Storey County",26.6,4.3
+"Nevada",32031,"Washoe County",21.5,0.4
+"Nevada",32033,"White Pine County",21.4,3.8
+"Nevada",32510,"Carson City",16.6,0.8
+"New Hampshire",33001,"Belknap County",27.3,1.2
+"New Hampshire",33003,"Carroll County",25,1.2
+"New Hampshire",33005,"Cheshire County",21.7,0.7
+"New Hampshire",33007,"Coos County",21.6,1.1
+"New Hampshire",33009,"Grafton County",21.8,0.8
+"New Hampshire",33011,"Hillsborough County",26.7,0.4
+"New Hampshire",33013,"Merrimack County",25.7,0.4
+"New Hampshire",33015,"Rockingham County",29.1,0.5
+"New Hampshire",33017,"Strafford County",25.9,0.7
+"New Hampshire",33019,"Sullivan County",25,1.2
+"New Jersey",34001,"Atlantic County",23.9,0.5
+"New Jersey",34003,"Bergen County",30.8,0.3
+"New Jersey",34005,"Burlington County",28.5,0.3
+"New Jersey",34007,"Camden County",28,0.3
+"New Jersey",34009,"Cape May County",21.8,0.8
+"New Jersey",34011,"Cumberland County",23.3,0.7
+"New Jersey",34013,"Essex County",32.4,0.3
+"New Jersey",34015,"Gloucester County",28.2,0.4
+"New Jersey",34017,"Hudson County",34.2,0.3
+"New Jersey",34019,"Hunterdon County",33.6,0.9
+"New Jersey",34021,"Mercer County",27.2,0.4
+"New Jersey",34023,"Middlesex County",32.4,0.3
+"New Jersey",34025,"Monmouth County",33.4,0.3
+"New Jersey",34027,"Morris County",30,0.4
+"New Jersey",34029,"Ocean County",30.7,0.4
+"New Jersey",34031,"Passaic County",26.5,0.4
+"New Jersey",34033,"Salem County",26.4,1.2
+"New Jersey",34035,"Somerset County",31.7,0.6
+"New Jersey",34037,"Sussex County",37.7,0.8
+"New Jersey",34039,"Union County",29.4,0.4
+"New Jersey",34041,"Warren County",34.4,0.9
+"New Mexico",35001,"Bernalillo County",21.6,0.2
+"New Mexico",35003,"Catron County",20.6,3.9
+"New Mexico",35005,"Chaves County",17.4,0.8
+"New Mexico",35006,"Cibola County",22.8,2
+"New Mexico",35007,"Colfax County",14.5,1.6
+"New Mexico",35009,"Curry County",15,1
+"New Mexico",35011,"De Baca County",14.6,3.5
+"New Mexico",35013,"Doña Ana County",19.8,0.4
+"New Mexico",35015,"Eddy County",17.8,1.2
+"New Mexico",35017,"Grant County",19.9,2.3
+"New Mexico",35019,"Guadalupe County",17.8,4.7
+"New Mexico",35021,"Harding County",21.1,6
+"New Mexico",35023,"Hidalgo County",17.3,3.4
+"New Mexico",35025,"Lea County",17.9,0.9
+"New Mexico",35027,"Lincoln County",19.3,2.3
+"New Mexico",35028,"Los Alamos County",16,1.1
+"New Mexico",35029,"Luna County",20.8,2.2
+"New Mexico",35031,"McKinley County",22.9,1.3
+"New Mexico",35033,"Mora County",24.1,5
+"New Mexico",35035,"Otero County",20.4,1.1
+"New Mexico",35037,"Quay County",14.4,2
+"New Mexico",35039,"Rio Arriba County",26.3,1.2
+"New Mexico",35041,"Roosevelt County",15.2,1.1
+"New Mexico",35043,"Sandoval County",28.7,0.9
+"New Mexico",35045,"San Juan County",25,0.8
+"New Mexico",35047,"San Miguel County",20.3,1.5
+"New Mexico",35049,"Santa Fe County",22.1,0.5
+"New Mexico",35051,"Sierra County",13.2,2.3
+"New Mexico",35053,"Socorro County",19.1,2
+"New Mexico",35055,"Taos County",20.7,1.6
+"New Mexico",35057,"Torrance County",30.7,2.6
+"New Mexico",35059,"Union County",12.8,1.5
+"New Mexico",35061,"Valencia County",29.1,1.1
+"New York",36001,"Albany County",20,0.3
+"New York",36003,"Allegany County",20.8,0.5
+"New York",36005,"Bronx County",42.4,0.3
+"New York",36007,"Broome County",18.7,0.4
+"New York",36009,"Cattaraugus County",21.6,0.7
+"New York",36011,"Cayuga County",21.4,0.7
+"New York",36013,"Chautauqua County",18,0.5
+"New York",36015,"Chemung County",19,0.6
+"New York",36017,"Chenango County",22.7,0.8
+"New York",36019,"Clinton County",20.2,0.8
+"New York",36021,"Columbia County",25.7,1.1
+"New York",36023,"Cortland County",20.9,0.7
+"New York",36025,"Delaware County",22.6,0.9
+"New York",36027,"Dutchess County",31.2,0.6
+"New York",36029,"Erie County",20.9,0.2
+"New York",36031,"Essex County",21.6,1.5
+"New York",36033,"Franklin County",19.5,1.1
+"New York",36035,"Fulton County",23.3,0.9
+"New York",36037,"Genesee County",21.7,0.7
+"New York",36039,"Greene County",26.3,1.2
+"New York",36041,"Hamilton County",24.8,2.2
+"New York",36043,"Herkimer County",23,0.9
+"New York",36045,"Jefferson County",18.2,0.4
+"New York",36047,"Kings County",41.1,0.2
+"New York",36049,"Lewis County",23.7,1.1
+"New York",36051,"Livingston County",24.6,0.8
+"New York",36053,"Madison County",23,0.7
+"New York",36055,"Monroe County",19.6,0.2
+"New York",36057,"Montgomery County",23.3,0.9
+"New York",36059,"Nassau County",34,0.3
+"New York",36061,"New York County",30.3,0.2
+"New York",36063,"Niagara County",21.1,0.4
+"New York",36065,"Oneida County",19.5,0.4
+"New York",36067,"Onondaga County",19.6,0.3
+"New York",36069,"Ontario County",22.6,0.5
+"New York",36071,"Orange County",33.3,0.6
+"New York",36073,"Orleans County",24.9,1.2
+"New York",36075,"Oswego County",23.9,0.5
+"New York",36077,"Otsego County",21.7,0.7
+"New York",36079,"Putnam County",38.6,1.1
+"New York",36081,"Queens County",41.9,0.2
+"New York",36083,"Rensselaer County",22.7,0.5
+"New York",36085,"Richmond County",41.7,0.5
+"New York",36087,"Rockland County",30.2,0.5
+"New York",36089,"St. Lawrence County",20.2,0.6
+"New York",36091,"Saratoga County",24.5,0.4
+"New York",36093,"Schenectady County",22.6,0.6
+"New York",36095,"Schoharie County",29.3,1.1
+"New York",36097,"Schuyler County",25.5,1.9
+"New York",36099,"Seneca County",23.3,1
+"New York",36101,"Steuben County",21.8,0.5
+"New York",36103,"Suffolk County",30.7,0.2
+"New York",36105,"Sullivan County",28.4,1.1
+"New York",36107,"Tioga County",23.5,0.8
+"New York",36109,"Tompkins County",19,0.6
+"New York",36111,"Ulster County",27.3,0.7
+"New York",36113,"Warren County",22.3,0.8
+"New York",36115,"Washington County",26.2,1.1
+"New York",36117,"Wayne County",24,0.6
+"New York",36119,"Westchester County",32.1,0.3
+"New York",36121,"Wyoming County",25.3,1.1
+"New York",36123,"Yates County",22.2,1.2
+"North Carolina",37001,"Alamance County",23.3,0.6
+"North Carolina",37003,"Alexander County",24.3,1.3
+"North Carolina",37005,"Alleghany County",27.3,3.5
+"North Carolina",37007,"Anson County",24.8,2
+"North Carolina",37009,"Ashe County",26.6,1.6
+"North Carolina",37011,"Avery County",22.1,1.6
+"North Carolina",37013,"Beaufort County",24.5,1.5
+"North Carolina",37015,"Bertie County",26.2,2.1
+"North Carolina",37017,"Bladen County",25.5,1.7
+"North Carolina",37019,"Brunswick County",23.3,0.7
+"North Carolina",37021,"Buncombe County",20.6,0.4
+"North Carolina",37023,"Burke County",21.2,0.6
+"North Carolina",37025,"Cabarrus County",26.4,0.6
+"North Carolina",37027,"Caldwell County",23.3,0.8
+"North Carolina",37029,"Camden County",34.7,3.3
+"North Carolina",37031,"Carteret County",23.5,0.9
+"North Carolina",37033,"Caswell County",32.5,2.2
+"North Carolina",37035,"Catawba County",22.4,0.6
+"North Carolina",37037,"Chatham County",26.6,1
+"North Carolina",37039,"Cherokee County",22.3,2.2
+"North Carolina",37041,"Chowan County",26.6,3.2
+"North Carolina",37043,"Clay County",20.5,3.4
+"North Carolina",37045,"Cleveland County",23.5,0.8
+"North Carolina",37047,"Columbus County",24,0.8
+"North Carolina",37049,"Craven County",21,0.8
+"North Carolina",37051,"Cumberland County",21.5,0.4
+"North Carolina",37053,"Currituck County",33.9,1.4
+"North Carolina",37055,"Dare County",19,0.9
+"North Carolina",37057,"Davidson County",23.7,0.6
+"North Carolina",37059,"Davie County",25.9,1.3
+"North Carolina",37061,"Duplin County",23.8,1.3
+"North Carolina",37063,"Durham County",21.5,0.5
+"North Carolina",37065,"Edgecombe County",21.6,1
+"North Carolina",37067,"Forsyth County",20.6,0.4
+"North Carolina",37069,"Franklin County",30.2,1.1
+"North Carolina",37071,"Gaston County",24.4,0.5
+"North Carolina",37073,"Gates County",36.6,2.4
+"North Carolina",37075,"Graham County",19.7,2.2
+"North Carolina",37077,"Granville County",27.6,1
+"North Carolina",37079,"Greene County",23.5,1.3
+"North Carolina",37081,"Guilford County",21.1,0.3
+"North Carolina",37083,"Halifax County",21.9,1.1
+"North Carolina",37085,"Harnett County",28.3,0.7
+"North Carolina",37087,"Haywood County",22.9,0.9
+"North Carolina",37089,"Henderson County",21.6,0.6
+"North Carolina",37091,"Hertford County",23.8,1.8
+"North Carolina",37093,"Hoke County",25.3,0.9
+"North Carolina",37095,"Hyde County",19.9,3.4
+"North Carolina",37097,"Iredell County",24.4,0.8
+"North Carolina",37099,"Jackson County",19.7,1.5
+"North Carolina",37101,"Johnston County",28.7,0.8
+"North Carolina",37103,"Jones County",26.8,2.3
+"North Carolina",37105,"Lee County",23.4,1.1
+"North Carolina",37107,"Lenoir County",22.1,1.1
+"North Carolina",37109,"Lincoln County",29.4,1
+"North Carolina",37111,"McDowell County",23.6,1.5
+"North Carolina",37113,"Macon County",21.8,1.6
+"North Carolina",37115,"Madison County",28.5,2.3
+"North Carolina",37117,"Martin County",23.8,1.6
+"North Carolina",37119,"Mecklenburg County",24.7,0.3
+"North Carolina",37121,"Mitchell County",23,1.7
+"North Carolina",37123,"Montgomery County",25,1.7
+"North Carolina",37125,"Moore County",23.9,0.9
+"North Carolina",37127,"Nash County",21,0.6
+"North Carolina",37129,"New Hanover County",20.2,0.7
+"North Carolina",37131,"Northampton County",24.9,1.9
+"North Carolina",37133,"Onslow County",24.3,0.7
+"North Carolina",37135,"Orange County",22,0.5
+"North Carolina",37137,"Pamlico County",24.5,1.6
+"North Carolina",37139,"Pasquotank County",24.1,1.2
+"North Carolina",37141,"Pender County",29.2,1.1
+"North Carolina",37143,"Perquimans County",29.5,3
+"North Carolina",37145,"Person County",30.1,1.6
+"North Carolina",37147,"Pitt County",19.5,0.5
+"North Carolina",37149,"Polk County",24.9,1.9
+"North Carolina",37151,"Randolph County",23.2,0.7
+"North Carolina",37153,"Richmond County",19.8,1.1
+"North Carolina",37155,"Robeson County",23,0.5
+"North Carolina",37157,"Rockingham County",26.4,0.8
+"North Carolina",37159,"Rowan County",23.4,0.7
+"North Carolina",37161,"Rutherford County",23.1,1
+"North Carolina",37163,"Sampson County",25.1,1
+"North Carolina",37165,"Scotland County",21.5,1.2
+"North Carolina",37167,"Stanly County",25.7,1
+"North Carolina",37169,"Stokes County",28,1
+"North Carolina",37171,"Surry County",25.3,1.3
+"North Carolina",37173,"Swain County",19.2,1.9
+"North Carolina",37175,"Transylvania County",23.7,1.6
+"North Carolina",37177,"Tyrrell County",25.6,4.2
+"North Carolina",37179,"Union County",29.2,0.6
+"North Carolina",37181,"Vance County",23,1.3
+"North Carolina",37183,"Wake County",23.7,0.2
+"North Carolina",37185,"Warren County",29.4,2.3
+"North Carolina",37187,"Washington County",25.3,3.1
+"North Carolina",37189,"Watauga County",18.5,0.8
+"North Carolina",37191,"Wayne County",21.9,0.7
+"North Carolina",37193,"Wilkes County",24.3,1.2
+"North Carolina",37195,"Wilson County",19.7,0.6
+"North Carolina",37197,"Yadkin County",28,1.7
+"North Carolina",37199,"Yancey County",27.1,2.4
+"North Dakota",38001,"Adams County",18.5,4.5
+"North Dakota",38003,"Barnes County",17.2,1.9
+"North Dakota",38005,"Benson County",17.4,1.2
+"North Dakota",38007,"Billings County",27.2,5.1
+"North Dakota",38009,"Bottineau County",22.8,2.6
+"North Dakota",38011,"Bowman County",14.2,2.4
+"North Dakota",38013,"Burke County",22.7,2.7
+"North Dakota",38015,"Burleigh County",18.8,1
+"North Dakota",38017,"Cass County",16.4,0.5
+"North Dakota",38019,"Cavalier County",12.8,1.2
+"North Dakota",38021,"Dickey County",12.9,1.3
+"North Dakota",38023,"Divide County",14.8,2.3
+"North Dakota",38025,"Dunn County",22.9,2.2
+"North Dakota",38027,"Eddy County",18.9,2.3
+"North Dakota",38029,"Emmons County",18.9,2.4
+"North Dakota",38031,"Foster County",14.3,2
+"North Dakota",38033,"Golden Valley County",13.7,2.6
+"North Dakota",38035,"Grand Forks County",13.7,0.4
+"North Dakota",38037,"Grant County",20.9,1.7
+"North Dakota",38039,"Griggs County",15.8,2.8
+"North Dakota",38041,"Hettinger County",17.2,1.8
+"North Dakota",38043,"Kidder County",23.6,4.1
+"North Dakota",38045,"LaMoure County",17.7,1.6
+"North Dakota",38047,"Logan County",17.4,2
+"North Dakota",38049,"McHenry County",28.1,2.5
+"North Dakota",38051,"McIntosh County",12,1.2
+"North Dakota",38053,"McKenzie County",18.5,2.3
+"North Dakota",38055,"McLean County",21.3,1.3
+"North Dakota",38057,"Mercer County",17.7,1.7
+"North Dakota",38059,"Morton County",19.5,1
+"North Dakota",38061,"Mountrail County",16.3,1.6
+"North Dakota",38063,"Nelson County",21.7,3
+"North Dakota",38065,"Oliver County",23.7,3
+"North Dakota",38067,"Pembina County",16,1.2
+"North Dakota",38069,"Pierce County",14.2,2.1
+"North Dakota",38071,"Ramsey County",12.1,0.8
+"North Dakota",38073,"Ransom County",16.6,1.5
+"North Dakota",38075,"Renville County",19.3,2.1
+"North Dakota",38077,"Richland County",18.3,1.2
+"North Dakota",38079,"Rolette County",18.6,2.5
+"North Dakota",38081,"Sargent County",15.9,1
+"North Dakota",38083,"Sheridan County",21.1,3.4
+"North Dakota",38085,"Sioux County",16.9,1.6
+"North Dakota",38087,"Slope County",20.3,4.5
+"North Dakota",38089,"Stark County",16.4,1.1
+"North Dakota",38091,"Steele County",18.1,2.2
+"North Dakota",38093,"Stutsman County",12.8,0.7
+"North Dakota",38095,"Towner County",14.7,1.8
+"North Dakota",38097,"Traill County",19.4,1.3
+"North Dakota",38099,"Walsh County",16.5,1.2
+"North Dakota",38101,"Ward County",16.7,0.9
+"North Dakota",38103,"Wells County",13.5,1.4
+"North Dakota",38105,"Williams County",17.5,1.1
+"Ohio",39001,"Adams County",32.3,1.8
+"Ohio",39003,"Allen County",19.3,0.6
+"Ohio",39005,"Ashland County",22.8,0.9
+"Ohio",39007,"Ashtabula County",25,0.8
+"Ohio",39009,"Athens County",20.7,1.2
+"Ohio",39011,"Auglaize County",20.3,1
+"Ohio",39013,"Belmont County",23.7,0.9
+"Ohio",39015,"Brown County",35.6,1.6
+"Ohio",39017,"Butler County",23.5,0.4
+"Ohio",39019,"Carroll County",31,1.6
+"Ohio",39021,"Champaign County",26.4,1.9
+"Ohio",39023,"Clark County",22.1,0.6
+"Ohio",39025,"Clermont County",27.5,0.4
+"Ohio",39027,"Clinton County",26.2,1.3
+"Ohio",39029,"Columbiana County",24.6,0.7
+"Ohio",39031,"Coshocton County",23.9,1.2
+"Ohio",39033,"Crawford County",21.8,1
+"Ohio",39035,"Cuyahoga County",24.1,0.2
+"Ohio",39037,"Darke County",22.5,0.8
+"Ohio",39039,"Defiance County",19.8,1.1
+"Ohio",39041,"Delaware County",25.3,0.4
+"Ohio",39043,"Erie County",20.1,0.7
+"Ohio",39045,"Fairfield County",26.4,0.6
+"Ohio",39047,"Fayette County",22.2,1.2
+"Ohio",39049,"Franklin County",21.5,0.2
+"Ohio",39051,"Fulton County",23.3,0.9
+"Ohio",39053,"Gallia County",26.1,1.6
+"Ohio",39055,"Geauga County",27.6,0.7
+"Ohio",39057,"Greene County",20.2,0.5
+"Ohio",39059,"Guernsey County",23.3,1
+"Ohio",39061,"Hamilton County",22.7,0.2
+"Ohio",39063,"Hancock County",16.9,0.7
+"Ohio",39065,"Hardin County",22.9,1.5
+"Ohio",39067,"Harrison County",29.1,1.6
+"Ohio",39069,"Henry County",20.8,0.9
+"Ohio",39071,"Highland County",29.9,1.6
+"Ohio",39073,"Hocking County",31.1,1.5
+"Ohio",39075,"Holmes County",22.7,1.4
+"Ohio",39077,"Huron County",21.5,0.9
+"Ohio",39079,"Jackson County",27.2,1.8
+"Ohio",39081,"Jefferson County",24.8,0.9
+"Ohio",39083,"Knox County",26.4,0.8
+"Ohio",39085,"Lake County",23.3,0.4
+"Ohio",39087,"Lawrence County",24.2,1
+"Ohio",39089,"Licking County",25.1,0.5
+"Ohio",39091,"Logan County",23.3,1.1
+"Ohio",39093,"Lorain County",24.3,0.4
+"Ohio",39095,"Lucas County",19.9,0.3
+"Ohio",39097,"Madison County",23.4,1.2
+"Ohio",39099,"Mahoning County",21.5,0.5
+"Ohio",39101,"Marion County",22.1,0.9
+"Ohio",39103,"Medina County",28,0.5
+"Ohio",39105,"Meigs County",28.3,1.6
+"Ohio",39107,"Mercer County",18.4,0.8
+"Ohio",39109,"Miami County",20.6,0.6
+"Ohio",39111,"Monroe County",32.1,2.1
+"Ohio",39113,"Montgomery County",21.3,0.3
+"Ohio",39115,"Morgan County",32.2,2.2
+"Ohio",39117,"Morrow County",30.3,1.4
+"Ohio",39119,"Muskingum County",24.4,1
+"Ohio",39121,"Noble County",28.7,3.8
+"Ohio",39123,"Ottawa County",23.4,1.1
+"Ohio",39125,"Paulding County",23.1,1
+"Ohio",39127,"Perry County",34.7,1.6
+"Ohio",39129,"Pickaway County",27.3,0.9
+"Ohio",39131,"Pike County",27.8,2
+"Ohio",39133,"Portage County",24.5,0.5
+"Ohio",39135,"Preble County",25.7,1.1
+"Ohio",39137,"Putnam County",22.9,0.9
+"Ohio",39139,"Richland County",21.2,0.7
+"Ohio",39141,"Ross County",25.9,1.1
+"Ohio",39143,"Sandusky County",19.7,0.8
+"Ohio",39145,"Scioto County",24.6,1
+"Ohio",39147,"Seneca County",20,0.6
+"Ohio",39149,"Shelby County",18.7,0.8
+"Ohio",39151,"Stark County",21.4,0.3
+"Ohio",39153,"Summit County",22.6,0.3
+"Ohio",39155,"Trumbull County",22.3,0.5
+"Ohio",39157,"Tuscarawas County",20.7,0.6
+"Ohio",39159,"Union County",23.5,0.8
+"Ohio",39161,"Van Wert County",18.7,0.9
+"Ohio",39163,"Vinton County",29.3,2.6
+"Ohio",39165,"Warren County",24.4,0.4
+"Ohio",39167,"Washington County",22.7,1
+"Ohio",39169,"Wayne County",20.3,0.5
+"Ohio",39171,"Williams County",19.2,1
+"Ohio",39173,"Wood County",19.9,0.5
+"Ohio",39175,"Wyandot County",22.5,1.5
+"Oklahoma",40001,"Adair County",23.5,1.1
+"Oklahoma",40003,"Alfalfa County",17.9,1.5
+"Oklahoma",40005,"Atoka County",25.4,1.3
+"Oklahoma",40007,"Beaver County",18.5,1.6
+"Oklahoma",40009,"Beckham County",18.7,2.2
+"Oklahoma",40011,"Blaine County",16.7,1.8
+"Oklahoma",40013,"Bryan County",21.1,1
+"Oklahoma",40015,"Caddo County",20.6,1
+"Oklahoma",40017,"Canadian County",23,0.6
+"Oklahoma",40019,"Carter County",18.2,0.8
+"Oklahoma",40021,"Cherokee County",23.5,1.2
+"Oklahoma",40023,"Choctaw County",21.3,1.6
+"Oklahoma",40025,"Cimarron County",15,1.9
+"Oklahoma",40027,"Cleveland County",22.9,0.5
+"Oklahoma",40029,"Coal County",24.5,2.2
+"Oklahoma",40031,"Comanche County",16.7,0.4
+"Oklahoma",40033,"Cotton County",22.8,2.1
+"Oklahoma",40035,"Craig County",21.1,1.3
+"Oklahoma",40037,"Creek County",24.1,0.6
+"Oklahoma",40039,"Custer County",18.4,1.6
+"Oklahoma",40041,"Delaware County",26.6,1.3
+"Oklahoma",40043,"Dewey County",24.1,2.3
+"Oklahoma",40045,"Ellis County",20.8,1.9
+"Oklahoma",40047,"Garfield County",16.2,0.8
+"Oklahoma",40049,"Garvin County",22.6,1.4
+"Oklahoma",40051,"Grady County",25.8,0.9
+"Oklahoma",40053,"Grant County",20,1.9
+"Oklahoma",40055,"Greer County",22.1,3.6
+"Oklahoma",40057,"Harmon County",15.7,2.3
+"Oklahoma",40059,"Harper County",14.3,2
+"Oklahoma",40061,"Haskell County",27.6,2.5
+"Oklahoma",40063,"Hughes County",25.6,1.9
+"Oklahoma",40065,"Jackson County",13.6,0.8
+"Oklahoma",40067,"Jefferson County",25.1,2
+"Oklahoma",40069,"Johnston County",23.6,1.7
+"Oklahoma",40071,"Kay County",16.4,0.6
+"Oklahoma",40073,"Kingfisher County",21.4,1.8
+"Oklahoma",40075,"Kiowa County",21.1,2.4
+"Oklahoma",40077,"Latimer County",21.5,1.8
+"Oklahoma",40079,"Le Flore County",20.9,0.7
+"Oklahoma",40081,"Lincoln County",29,1.3
+"Oklahoma",40083,"Logan County",27.4,1.1
+"Oklahoma",40085,"Love County",23,1.4
+"Oklahoma",40087,"McClain County",27.5,1.2
+"Oklahoma",40089,"McCurtain County",22.2,1.2
+"Oklahoma",40091,"McIntosh County",25.6,1.7
+"Oklahoma",40093,"Major County",21.2,2
+"Oklahoma",40095,"Marshall County",23.7,1.9
+"Oklahoma",40097,"Mayes County",24.5,1
+"Oklahoma",40099,"Murray County",22.4,2.1
+"Oklahoma",40101,"Muskogee County",20.2,0.7
+"Oklahoma",40103,"Noble County",21.9,1.7
+"Oklahoma",40105,"Nowata County",23.5,1.9
+"Oklahoma",40107,"Okfuskee County",26.6,2.3
+"Oklahoma",40109,"Oklahoma County",20.2,0.2
+"Oklahoma",40111,"Okmulgee County",26.6,1.2
+"Oklahoma",40113,"Osage County",24,1
+"Oklahoma",40115,"Ottawa County",20.3,0.8
+"Oklahoma",40117,"Pawnee County",28.1,1.3
+"Oklahoma",40119,"Payne County",17.4,0.8
+"Oklahoma",40121,"Pittsburg County",20,1.1
+"Oklahoma",40123,"Pontotoc County",17.6,0.9
+"Oklahoma",40125,"Pottawatomie County",23.2,0.8
+"Oklahoma",40127,"Pushmataha County",23.4,1.7
+"Oklahoma",40129,"Roger Mills County",26.7,3.1
+"Oklahoma",40131,"Rogers County",24.6,0.5
+"Oklahoma",40133,"Seminole County",22.1,1.1
+"Oklahoma",40135,"Sequoyah County",23.8,1.1
+"Oklahoma",40137,"Stephens County",20,0.8
+"Oklahoma",40139,"CYCLONE5 County",15.5,1.4
+"Oklahoma",40141,"Tillman County",21.6,2.8
+"Oklahoma",40143,"Tulsa County",19.3,0.2
+"Oklahoma",40145,"Wagoner County",24.6,0.7
+"Oklahoma",40147,"Washington County",17.7,0.8
+"Oklahoma",40149,"Washita County",22.8,1.4
+"Oklahoma",40151,"Woods County",15,2.3
+"Oklahoma",40153,"Woodward County",18.3,1.7
+"Oregon",41001,"Baker County",15,1.6
+"Oregon",41003,"Benton County",18.9,0.6
+"Oregon",41005,"Clackamas County",26.9,0.4
+"Oregon",41007,"Clatsop County",18.2,1.3
+"Oregon",41009,"Columbia County",31.9,1.1
+"Oregon",41011,"Coos County",19.4,1.1
+"Oregon",41013,"Crook County",20,2
+"Oregon",41015,"Curry County",13,1.5
+"Oregon",41017,"Deschutes County",18.6,0.6
+"Oregon",41019,"Douglas County",20.3,1
+"Oregon",41021,"Gilliam County",13.1,2.3
+"Oregon",41023,"Grant County",18.4,2.3
+"Oregon",41025,"Harney County",13.8,2.2
+"Oregon",41027,"Hood River County",17,1.4
+"Oregon",41029,"Jackson County",19.4,0.6
+"Oregon",41031,"Jefferson County",21.3,2
+"Oregon",41033,"Josephine County",19.4,1
+"Oregon",41035,"Klamath County",17.9,0.8
+"Oregon",41037,"Lake County",12.4,1.9
+"Oregon",41039,"Lane County",19.6,0.3
+"Oregon",41041,"Lincoln County",19.2,1.1
+"Oregon",41043,"Linn County",22.4,0.7
+"Oregon",41045,"Malheur County",17.3,1
+"Oregon",41047,"Marion County",21.8,0.5
+"Oregon",41049,"Morrow County",19.4,1.8
+"Oregon",41051,"Multnomah County",24.8,0.3
+"Oregon",41053,"Polk County",24.5,1
+"Oregon",41055,"Sherman County",20.5,2.2
+"Oregon",41057,"Tillamook County",19.1,1.4
+"Oregon",41059,"Umatilla County",16.9,0.6
+"Oregon",41061,"Union County",16.2,1
+"Oregon",41063,"Wallowa County",18.9,3.1
+"Oregon",41065,"Wasco County",16.1,1.1
+"Oregon",41067,"Washington County",24.2,0.3
+"Oregon",41069,"Wheeler County",22.4,3.1
+"Oregon",41071,"Yamhill County",23.4,0.9
+"CYCLONE10",42001,"Adams County",27.7,0.7
+"CYCLONE10",42003,"Allegheny County",26,0.2
+"CYCLONE10",42005,"Armstrong County",27.9,0.7
+"CYCLONE10",42007,"Beaver County",25.1,0.5
+"CYCLONE10",42009,"Bedford County",28,1.1
+"CYCLONE10",42011,"Berks County",24.5,0.3
+"CYCLONE10",42013,"Blair County",19,0.6
+"CYCLONE10",42015,"Bradford County",22.5,0.7
+"CYCLONE10",42017,"Bucks County",28.3,0.3
+"CYCLONE10",42019,"Butler County",26.4,0.5
+"CYCLONE10",42021,"Cambria County",22.7,0.5
+"CYCLONE10",42023,"Cameron County",15.2,1.6
+"CYCLONE10",42025,"Carbon County",30.5,1.2
+"CYCLONE10",42027,"Centre County",19.9,0.4
+"CYCLONE10",42029,"Chester County",27.4,0.3
+"CYCLONE10",42031,"Clarion County",22.8,0.9
+"CYCLONE10",42033,"Clearfield County",25.1,0.8
+"CYCLONE10",42035,"Clinton County",23.3,1
+"CYCLONE10",42037,"Columbia County",21.1,0.6
+"CYCLONE10",42039,"Crawford County",22.4,0.9
+"CYCLONE10",42041,"Cumberland County",21.2,0.4
+"CYCLONE10",42043,"Dauphin County",21.3,0.4
+"CYCLONE10",42045,"Delaware County",27.7,0.3
+"CYCLONE10",42047,"Elk County",16.8,0.9
+"CYCLONE10",42049,"Erie County",18.6,0.3
+"CYCLONE10",42051,"Fayette County",25.2,0.7
+"CYCLONE10",42053,"Forest County",26.7,3.7
+"CYCLONE10",42055,"Franklin County",23.2,0.6
+"CYCLONE10",42057,"Fulton County",33,1.4
+"CYCLONE10",42059,"Greene County",26.9,1
+"CYCLONE10",42061,"Huntingdon County",28.1,0.9
+"CYCLONE10",42063,"Indiana County",22.8,0.6
+"CYCLONE10",42065,"Jefferson County",21.9,0.6
+"CYCLONE10",42067,"Juniata County",29.3,1.1
+"CYCLONE10",42069,"Lackawanna County",20,0.4
+"CYCLONE10",42071,"Lancaster County",22.5,0.3
+"CYCLONE10",42073,"Lawrence County",22.4,0.6
+"CYCLONE10",42075,"Lebanon County",22.9,0.6
+"CYCLONE10",42077,"Lehigh County",24.2,0.4
+"CYCLONE10",42079,"Luzerne County",22.2,0.4
+"CYCLONE10",42081,"Lycoming County",19.8,0.6
+"CYCLONE10",42083,"McKean County",20,0.9
+"CYCLONE10",42085,"Mercer County",21,0.5
+"CYCLONE10",42087,"Mifflin County",23,1.1
+"CYCLONE10",42089,"Monroe County",38.9,1.1
+"CYCLONE10",42091,"Montgomery County",27.5,0.2
+"CYCLONE10",42093,"Montour County",18.7,0.9
+"CYCLONE10",42095,"Northampton County",27.3,0.5
+"CYCLONE10",42097,"Northumberland County",23.5,0.7
+"CYCLONE10",42099,"Perry County",31.6,0.7
+"CYCLONE10",42101,"Philadelphia County",31.8,0.3
+"CYCLONE10",42103,"Pike County",41.5,1.8
+"CYCLONE10",42105,"Potter County",21.9,0.8
+"CYCLONE10",42107,"Schuylkill County",25.6,0.5
+"CYCLONE10",42109,"Snyder County",23.1,0.8
+"CYCLONE10",42111,"Somerset County",23.2,0.7
+"CYCLONE10",42113,"Sullivan County",26.5,1.7
+"CYCLONE10",42115,"Susquehanna County",27,0.8
+"CYCLONE10",42117,"Tioga County",23.5,1
+"CYCLONE10",42119,"Union County",21.3,0.8
+"CYCLONE10",42121,"Venango County",21.6,0.7
+"CYCLONE10",42123,"Warren County",19.8,0.7
+"CYCLONE10",42125,"Washington County",26.2,0.5
+"CYCLONE10",42127,"Wayne County",28.8,1.3
+"CYCLONE10",42129,"Westmoreland County",26.4,0.4
+"CYCLONE10",42131,"Wyoming County",26.2,1.2
+"CYCLONE10",42133,"York County",26.6,0.4
+"Rhode Island",44001,"Bristol County",25.8,0.9
+"Rhode Island",44003,"Kent County",23.9,0.5
+"Rhode Island",44005,"Newport County",22.1,0.8
+"Rhode Island",44007,"Providence County",23.1,0.3
+"Rhode Island",44009,"Washington County",25.9,0.7
+"South Carolina",45001,"Abbeville County",27.1,1.4
+"South Carolina",45003,"Aiken County",25.2,0.6
+"South Carolina",45005,"Allendale County",23.4,3.1
+"South Carolina",45007,"Anderson County",23.4,0.6
+"South Carolina",45009,"Bamberg County",23.6,1.9
+"South Carolina",45011,"Barnwell County",25.3,1.8
+"South Carolina",45013,"Beaufort County",20.9,0.7
+"South Carolina",45015,"Berkeley County",25.5,0.4
+"South Carolina",45017,"Calhoun County",27.1,1.6
+"South Carolina",45019,"Charleston County",22.4,0.4
+"South Carolina",45021,"Cherokee County",20.4,0.9
+"South Carolina",45023,"Chester County",31,1.5
+"South Carolina",45025,"Chesterfield County",23.9,1.2
+"South Carolina",45027,"Clarendon County",28.3,1.7
+"South Carolina",45029,"Colleton County",33.4,2.1
+"South Carolina",45031,"Darlington County",22.9,1
+"South Carolina",45033,"Dillon County",23,1.7
+"South Carolina",45035,"Dorchester County",28.1,0.7
+"South Carolina",45037,"Edgefield County",25.5,1.4
+"South Carolina",45039,"Fairfield County",28.2,1.7
+"South Carolina",45041,"Florence County",22.5,0.6
+"South Carolina",45043,"Georgetown County",25.2,1.3
+"South Carolina",45045,"Greenville County",21.5,0.2
+"South Carolina",45047,"Greenwood County",21.2,0.9
+"South Carolina",45049,"Hampton County",28.9,1.9
+"South Carolina",45051,"Horry County",21.2,0.4
+"South Carolina",45053,"Jasper County",27.6,1.5
+"South Carolina",45055,"Kershaw County",27.8,1.2
+"South Carolina",45057,"Lancaster County",27.5,1.1
+"South Carolina",45059,"Laurens County",24.6,1
+"South Carolina",45061,"Lee County",28.9,2.3
+"South Carolina",45063,"Lexington County",25.2,0.4
+"South Carolina",45065,"McCormick County",29.4,3.3
+"South Carolina",45067,"Marion County",26,1.6
+"South Carolina",45069,"Marlboro County",23.1,1.6
+"South Carolina",45071,"Newberry County",24.4,1.3
+"South Carolina",45073,"Oconee County",24.3,1.2
+"South Carolina",45075,"Orangeburg County",24.3,0.8
+"South Carolina",45077,"Pickens County",23.2,0.6
+"South Carolina",45079,"Richland County",21,0.3
+"South Carolina",45081,"Saluda County",29,1.9
+"South Carolina",45083,"Spartanburg County",21.9,0.5
+"South Carolina",45085,"Sumter County",21.9,0.9
+"South Carolina",45087,"Union County",26.4,1.3
+"South Carolina",45089,"Williamsburg County",28.6,1.5
+"South Carolina",45091,"York County",25.1,0.5
+"South Dakota",46003,"Aurora County",18,1.8
+"South Dakota",46005,"Beadle County",13,1
+"South Dakota",46007,"Bennett County",16.5,2.1
+"South Dakota",46009,"Bon Homme County",18.3,1.3
+"South Dakota",46011,"Brookings County",14.4,0.8
+"South Dakota",46013,"Brown County",13.2,0.6
+"South Dakota",46015,"Brule County",16.4,3.3
+"South Dakota",46017,"Buffalo County",16,2.8
+"South Dakota",46019,"Butte County",23.7,2.6
+"South Dakota",46021,"Campbell County",14,2.7
+"South Dakota",46023,"Charles Mix County",11.6,0.9
+"South Dakota",46025,"Clark County",17.7,1.8
+"South Dakota",46027,"Clay County",16.3,1.4
+"South Dakota",46029,"Codington County",15,1.1
+"South Dakota",46031,"Corson County",20.2,1.6
+"South Dakota",46033,"Custer County",28.4,3.6
+"South Dakota",46035,"Davison County",14.5,1.4
+"South Dakota",46037,"Day County",17.1,2
+"South Dakota",46039,"Deuel County",19,1.8
+"South Dakota",46041,"Dewey County",12.7,1.7
+"South Dakota",46043,"Douglas County",13.7,1.3
+"South Dakota",46045,"Edmunds County",17.9,1.9
+"South Dakota",46047,"Fall River County",15.6,2.5
+"South Dakota",46049,"Faulk County",15.2,2.7
+"South Dakota",46051,"Grant County",14.7,2.1
+"South Dakota",46053,"Gregory County",16.2,2.5
+"South Dakota",46055,"Haakon County",11.9,1.9
+"South Dakota",46057,"Hamlin County",20.2,2.2
+"South Dakota",46059,"Hand County",14.9,2.1
+"South Dakota",46061,"Hanson County",18.5,1.6
+"South Dakota",46063,"Harding County",13.4,2.7
+"South Dakota",46065,"Hughes County",10.4,0.6
+"South Dakota",46067,"Hutchinson County",18,1.8
+"South Dakota",46069,"Hyde County",11.6,1.9
+"South Dakota",46071,"Jackson County",14.4,2
+"South Dakota",46073,"Jerauld County",13.6,2.1
+"South Dakota",46075,"Jones County",12,2.4
+"South Dakota",46077,"Kingsbury County",20.6,2.5
+"South Dakota",46079,"Lake County",16.5,1.5
+"South Dakota",46081,"Lawrence County",19.6,1.8
+"South Dakota",46083,"Lincoln County",19.5,0.8
+"South Dakota",46085,"Lyman County",14.4,1.2
+"South Dakota",46087,"McCook County",23,1.3
+"South Dakota",46089,"McPherson County",15.8,2.2
+"South Dakota",46091,"Marshall County",17.4,2
+"South Dakota",46093,"Meade County",19,0.9
+"South Dakota",46095,"Mellette County",21.6,3.6
+"South Dakota",46097,"Miner County",17.7,2.5
+"South Dakota",46099,"Minnehaha County",17.2,0.3
+"South Dakota",46101,"Moody County",19.8,1.7
+"South Dakota",46103,"Pennington County",17.7,0.6
+"South Dakota",46105,"Perkins County",12.7,2
+"South Dakota",46107,"Potter County",12.1,1.6
+"South Dakota",46109,"Roberts County",15.5,1.1
+"South Dakota",46111,"Sanborn County",22,2.2
+"South Dakota",46113,"Shannon County",16.4,2.2
+"South Dakota",46115,"Spink County",15.8,1.1
+"South Dakota",46117,"Stanley County",13.7,1.2
+"South Dakota",46119,"Sully County",16.7,2.9
+"South Dakota",46121,"Todd County",17.3,2.2
+"South Dakota",46123,"Tripp County",15.6,1.9
+"South Dakota",46125,"Turner County",27.4,1.7
+"South Dakota",46127,"Union County",18.3,0.9
+"South Dakota",46129,"Walworth County",14.9,2.9
+"South Dakota",46135,"Yankton County",15.1,1.4
+"South Dakota",46137,"Ziebach County",20.3,2.7
+"Tennessee",47001,"Anderson County",23,0.9
+"Tennessee",47003,"Bedford County",26.6,1.5
+"Tennessee",47005,"Benton County",23.6,2
+"Tennessee",47007,"Bledsoe County",33.1,3.1
+"Tennessee",47009,"Blount County",23.9,0.6
+"Tennessee",47011,"Bradley County",21.6,0.8
+"Tennessee",47013,"Campbell County",25.6,1.2
+"Tennessee",47015,"Cannon County",34,2.5
+"Tennessee",47017,"Carroll County",26.2,1.5
+"Tennessee",47019,"Carter County",22.8,1
+"Tennessee",47021,"Cheatham County",32.6,1.3
+"Tennessee",47023,"Chester County",28.8,4.3
+"Tennessee",47025,"Claiborne County",25.8,1.2
+"Tennessee",47027,"Clay County",27.1,1.9
+"Tennessee",47029,"Cocke County",27.9,1.6
+"Tennessee",47031,"Coffee County",22,1
+"Tennessee",47033,"Crockett County",22.1,1.3
+"Tennessee",47035,"Cumberland County",23,1.2
+"Tennessee",47037,"Davidson County",23.3,0.2
+"Tennessee",47039,"Decatur County",26.8,2.8
+"Tennessee",47041,"DeKalb County",23.6,1.8
+"Tennessee",47043,"Dickson County",30.5,1
+"Tennessee",47045,"Dyer County",18.6,1
+"Tennessee",47047,"Fayette County",32.7,1.3
+"Tennessee",47049,"Fentress County",23.7,1.9
+"Tennessee",47051,"Franklin County",22.4,1.2
+"Tennessee",47053,"Gibson County",24.4,1.3
+"Tennessee",47055,"Giles County",27,2.2
+"Tennessee",47057,"Grainger County",33.4,2
+"Tennessee",47059,"Greene County",23.4,0.9
+"Tennessee",47061,"Grundy County",27.7,1.8
+"Tennessee",47063,"Hamblen County",21.4,0.9
+"Tennessee",47065,"Hamilton County",21.5,0.3
+"Tennessee",47067,"Hancock County",30.2,2.9
+"Tennessee",47069,"Hardeman County",29.3,2.2
+"Tennessee",47071,"Hardin County",22.2,2
+"Tennessee",47073,"Hawkins County",24.7,1
+"Tennessee",47075,"Haywood County",22.3,1.6
+"Tennessee",47077,"Henderson County",23.6,1.3
+"Tennessee",47079,"Henry County",21.9,1.4
+"Tennessee",47081,"Hickman County",38.7,2.3
+"Tennessee",47083,"Houston County",31.2,2.2
+"Tennessee",47085,"Humphreys County",25.5,1.7
+"Tennessee",47087,"Jackson County",31.4,2.9
+"Tennessee",47089,"Jefferson County",26,1.3
+"Tennessee",47091,"Johnson County",25.7,2.1
+"Tennessee",47093,"Knox County",21.4,0.3
+"Tennessee",47095,"Lake County",18.9,2.6
+"Tennessee",47097,"Lauderdale County",22.9,1.5
+"Tennessee",47099,"Lawrence County",25.5,1.2
+"Tennessee",47101,"Lewis County",29.5,3.3
+"Tennessee",47103,"Lincoln County",27.2,1.5
+"Tennessee",47105,"Loudon County",25.7,1.3
+"Tennessee",47107,"McMinn County",22.4,1
+"Tennessee",47109,"McNairy County",24.8,1.5
+"Tennessee",47111,"Macon County",30.8,2.4
+"Tennessee",47113,"Madison County",18.7,0.6
+"Tennessee",47115,"Marion County",28.4,1.4
+"Tennessee",47117,"Marshall County",28.4,1.6
+"Tennessee",47119,"Maury County",28.7,1.1
+"Tennessee",47121,"Meigs County",31.8,2.5
+"Tennessee",47123,"Monroe County",27.2,1.4
+"Tennessee",47125,"Montgomery County",23.8,0.6
+"Tennessee",47127,"Moore County",24.2,2.3
+"Tennessee",47129,"Morgan County",31.2,1.8
+"Tennessee",47131,"Obion County",19,1.1
+"Tennessee",47133,"Overton County",28.8,1.8
+"Tennessee",47135,"Perry County",28.8,3.2
+"Tennessee",47137,"Pickett County",27,4
+"Tennessee",47139,"Polk County",29,2.2
+"Tennessee",47141,"Putnam County",22.7,1
+"Tennessee",47143,"Rhea County",25,2.3
+"Tennessee",47145,"Roane County",25.8,1.1
+"Tennessee",47147,"Robertson County",29.9,1.2
+"Tennessee",47149,"Rutherford County",26.9,0.5
+"Tennessee",47151,"Scott County",26.9,2.3
+"Tennessee",47153,"Sequatchie County",32.5,2.7
+"Tennessee",47155,"Sevier County",25.5,0.8
+"Tennessee",47157,"Shelby County",22.4,0.2
+"Tennessee",47159,"Smith County",29.6,1.6
+"Tennessee",47161,"Stewart County",35.7,2.9
+"Tennessee",47163,"Sullivan County",21.7,0.6
+"Tennessee",47165,"Sumner County",27.5,0.5
+"Tennessee",47167,"Tipton County",32.3,1.1
+"Tennessee",47169,"Trousdale County",31.8,3.1
+"Tennessee",47171,"Unicoi County",22,1.7
+"Tennessee",47173,"Union County",34.1,1.8
+"Tennessee",47175,"Van Buren County",26.6,2.9
+"Tennessee",47177,"Warren County",23.9,1.2
+"Tennessee",47179,"Washington County",20.9,0.5
+"Tennessee",47181,"Wayne County",27.7,2.2
+"Tennessee",47183,"Weakley County",21.5,1.1
+"Tennessee",47185,"White County",23.9,1.9
+"Tennessee",47187,"Williamson County",26.7,0.6
+"Tennessee",47189,"Wilson County",28.4,0.7
+"CYCLONE5",48001,"Anderson County",22,1.3
+"CYCLONE5",48003,"Andrews County",23.2,2.6
+"CYCLONE5",48005,"Angelina County",19,0.9
+"CYCLONE5",48007,"Aransas County",22.3,1.8
+"CYCLONE5",48009,"Archer County",20.7,1.5
+"CYCLONE5",48011,"Armstrong County",25.8,2.9
+"CYCLONE5",48013,"Atascosa County",30.2,1.7
+"CYCLONE5",48015,"Austin County",28.1,2.2
+"CYCLONE5",48017,"Bailey County",19.3,6.1
+"CYCLONE5",48019,"Bandera County",38.9,3.3
+"CYCLONE5",48021,"Bastrop County",34.2,1.3
+"CYCLONE5",48023,"Baylor County",13.5,2.4
+"CYCLONE5",48025,"Bee County",25.2,2.5
+"CYCLONE5",48027,"Bell County",18.9,0.4
+"CYCLONE5",48029,"Bexar County",24.1,0.2
+"CYCLONE5",48031,"Blanco County",27.3,2.7
+"CYCLONE5",48033,"Borden County",24.7,4.4
+"CYCLONE5",48035,"Bosque County",29,1.7
+"CYCLONE5",48037,"Bowie County",17.1,0.6
+"CYCLONE5",48039,"Brazoria County",28.8,0.4
+"CYCLONE5",48041,"Brazos County",18,0.6
+"CYCLONE5",48043,"Brewster County",12.5,2.3
+"CYCLONE5",48045,"Briscoe County",18.9,3.5
+"CYCLONE5",48047,"Brooks County",17.9,3.1
+"CYCLONE5",48049,"Brown County",18.2,1.6
+"CYCLONE5",48051,"Burleson County",28.3,2.9
+"CYCLONE5",48053,"Burnet County",27.3,1.4
+"CYCLONE5",48055,"Caldwell County",31.4,1.6
+"CYCLONE5",48057,"Calhoun County",21.6,1.9
+"CYCLONE5",48059,"Callahan County",22.5,1.5
+"CYCLONE5",48061,"Cameron County",20,0.4
+"CYCLONE5",48063,"Camp County",20.3,2.1
+"CYCLONE5",48065,"Carson County",19.8,1.8
+"CYCLONE5",48067,"Cass County",27,2
+"CYCLONE5",48069,"Castro County",15.4,1.4
+"CYCLONE5",48071,"Chambers County",31.5,2
+"CYCLONE5",48073,"Cherokee County",23.8,1.4
+"CYCLONE5",48075,"Childress County",12.6,2.4
+"CYCLONE5",48077,"Clay County",25.1,1.8
+"CYCLONE5",48079,"Cochran County",16.7,2
+"CYCLONE5",48081,"Coke County",21.5,2.9
+"CYCLONE5",48083,"Coleman County",23.3,3.4
+"CYCLONE5",48085,"Collin County",27.5,0.3
+"CYCLONE5",48087,"Collingsworth County",19.3,3.4
+"CYCLONE5",48089,"Colorado County",23.8,2.3
+"CYCLONE5",48091,"Comal County",29.9,0.9
+"CYCLONE5",48093,"Comanche County",21.8,2
+"CYCLONE5",48095,"Concho County",24.9,6.8
+"CYCLONE5",48097,"Cooke County",24.3,1.5
+"CYCLONE5",48099,"Coryell County",20.1,1.1
+"CYCLONE5",48101,"Cottle County",17.4,3.1
+"CYCLONE5",48103,"Crane County",24.5,4.2
+"CYCLONE5",48105,"Crockett County",17.2,3.9
+"CYCLONE5",48107,"Crosby County",19.7,1.9
+"CYCLONE5",48109,"Culberson County",10.9,3.5
+"CYCLONE5",48111,"Dallam County",14,4
+"CYCLONE5",48113,"Dallas County",26,0.2
+"CYCLONE5",48115,"Dawson County",14,1.7
+"CYCLONE5",48117,"Deaf Smith County",15.1,1.5
+"CYCLONE5",48119,"Delta County",27.7,2.8
+"CYCLONE5",48121,"Denton County",27.4,0.3
+"CYCLONE5",48123,"DeWitt County",24.4,2.1
+"CYCLONE5",48125,"Dickens County",15.9,2.4
+"CYCLONE5",48127,"Dimmit County",15.5,2.2
+"CYCLONE5",48129,"Donley County",20.4,2.9
+"CYCLONE5",48131,"Duval County",22.9,2.6
+"CYCLONE5",48133,"Eastland County",21.2,2.9
+"CYCLONE5",48135,"Ector County",20.4,0.7
+"CYCLONE5",48137,"Edwards County",22.9,5.2
+"CYCLONE5",48139,"Ellis County",29,0.8
+"CYCLONE5",48141,"El Paso County",23.2,0.3
+"CYCLONE5",48143,"Erath County",18.2,1.2
+"CYCLONE5",48145,"Falls County",27,2.1
+"CYCLONE5",48147,"Fannin County",28.2,1.5
+"CYCLONE5",48149,"Fayette County",23,1.4
+"CYCLONE5",48151,"Fisher County",20.9,2.3
+"CYCLONE5",48153,"Floyd County",18.1,2.8
+"CYCLONE5",48155,"Foard County",12.7,3.3
+"CYCLONE5",48157,"Fort Bend County",30.6,0.4
+"CYCLONE5",48159,"Franklin County",22.4,3.3
+"CYCLONE5",48161,"Freestone County",24.3,1.7
+"CYCLONE5",48163,"Frio County",17.4,2.6
+"CYCLONE5",48165,"Gaines County",16.7,2.1
+"CYCLONE5",48167,"Galveston County",26.7,0.5
+"CYCLONE5",48169,"Garza County",15,4.6
+"CYCLONE5",48171,"Gillespie County",19.2,1.4
+"CYCLONE5",48173,"Glasscock County",22,4.3
+"CYCLONE5",48175,"Goliad County",29.4,3.3
+"CYCLONE5",48177,"Gonzales County",21.4,2.1
+"CYCLONE5",48179,"Gray County",19.5,1.9
+"CYCLONE5",48181,"Grayson County",24.8,0.7
+"CYCLONE5",48183,"Gregg County",20.2,0.7
+"CYCLONE5",48185,"Grimes County",33.8,3.5
+"CYCLONE5",48187,"Guadalupe County",25.4,0.8
+"CYCLONE5",48189,"Hale County",14.8,0.9
+"CYCLONE5",48191,"Hall County",15.7,2.5
+"CYCLONE5",48193,"Hamilton County",21.5,3.2
+"CYCLONE5",48195,"Hansford County",16.8,2.2
+"CYCLONE5",48197,"Hardeman County",15.1,2.8
+"CYCLONE5",48199,"Hardin County",27.8,1
+"CYCLONE5",48201,"Harris County",27.4,0.1
+"CYCLONE5",48203,"Harrison County",22.4,1
+"CYCLONE5",48205,"Hartley County",12.8,2
+"CYCLONE5",48207,"Haskell County",15.1,2.9
+"CYCLONE5",48209,"Hays County",29.3,0.7
+"CYCLONE5",48211,"Hemphill County",17.2,3.2
+"CYCLONE5",48213,"Henderson County",29.2,1.2
+"CYCLONE5",48215,"Hidalgo County",21.6,0.4
+"CYCLONE5",48217,"Hill County",29.5,1.7
+"CYCLONE5",48219,"Hockley County",19.5,1.3
+"CYCLONE5",48221,"Hood County",32.7,2
+"CYCLONE5",48223,"Hopkins County",21,1.6
+"CYCLONE5",48225,"Houston County",24.9,2.2
+"CYCLONE5",48227,"Howard County",16.2,1
+"CYCLONE5",48229,"Hudspeth County",25.3,3.6
+"CYCLONE5",48231,"Hunt County",28.8,1
+"CYCLONE5",48233,"Hutchinson County",19.7,1.7
+"CYCLONE5",48235,"Irion County",22.8,3.3
+"CYCLONE5",48237,"Jack County",27.7,2.9
+"CYCLONE5",48239,"Jackson County",23.7,2
+"CYCLONE5",48241,"Jasper County",27.9,1.9
+"CYCLONE5",48243,"Jeff Davis County",20.5,4.6
+"CYCLONE5",48245,"Jefferson County",19,0.5
+"CYCLONE5",48247,"Jim Hogg County",27.9,8.2
+"CYCLONE5",48249,"Jim Wells County",24.2,1.4
+"CYCLONE5",48251,"Johnson County",29.9,0.8
+"CYCLONE5",48253,"Jones County",23.4,2.2
+"CYCLONE5",48255,"Karnes County",21.7,2.1
+"CYCLONE5",48257,"Kaufman County",31.8,0.9
+"CYCLONE5",48259,"Kendall County",26.7,1.6
+"CYCLONE5",48261,"Kenedy County",17.7,4.3
+"CYCLONE5",48263,"Kent County",10.5,2.2
+"CYCLONE5",48265,"Kerr County",19.6,1.2
+"CYCLONE5",48267,"Kimble County",16.5,2.5
+"CYCLONE5",48269,"King County",11.2,3.9
+"CYCLONE5",48271,"Kinney County",21.8,5.6
+"CYCLONE5",48273,"Kleberg County",16.5,1.1
+"CYCLONE5",48275,"Knox County",14.6,2
+"CYCLONE5",48277,"Lamar County",19.9,1
+"CYCLONE5",48279,"Lamb County",14.5,1.4
+"CYCLONE5",48281,"Lampasas County",28.4,2.4
+"CYCLONE5",48283,"La Salle County",27.6,6.6
+"CYCLONE5",48285,"Lavaca County",27.2,2.5
+"CYCLONE5",48287,"Lee County",27.4,2.1
+"CYCLONE5",48289,"Leon County",24.3,2.2
+"CYCLONE5",48291,"Liberty County",34.1,1.2
+"CYCLONE5",48293,"Limestone County",20.8,1.6
+"CYCLONE5",48295,"Lipscomb County",19.4,1.8
+"CYCLONE5",48297,"Live Oak County",27.3,3.3
+"CYCLONE5",48299,"Llano County",23.7,2.1
+"CYCLONE5",48301,"Loving County",24.5,10.6
+"CYCLONE5",48303,"Lubbock County",16,0.3
+"CYCLONE5",48305,"Lynn County",19.7,2.2
+"CYCLONE5",48307,"McCulloch County",17.5,3.2
+"CYCLONE5",48309,"McLennan County",18.8,0.3
+"CYCLONE5",48311,"McMullen County",12.4,4.3
+"CYCLONE5",48313,"Madison County",26.7,3.3
+"CYCLONE5",48315,"Marion County",29.5,2.6
+"CYCLONE5",48317,"Martin County",18.2,2
+"CYCLONE5",48319,"Mason County",17.9,3.7
+"CYCLONE5",48321,"Matagorda County",22.7,1.9
+"CYCLONE5",48323,"Maverick County",20.3,1.6
+"CYCLONE5",48325,"Medina County",29.7,1.7
+"CYCLONE5",48327,"Menard County",20.6,8
+"CYCLONE5",48329,"Midland County",18.8,0.6
+"CYCLONE5",48331,"Milam County",25.8,2
+"CYCLONE5",48333,"Mills County",17.5,2.2
+"CYCLONE5",48335,"Mitchell County",22.5,3.4
+"CYCLONE5",48337,"Montague County",25.5,1.8
+"CYCLONE5",48339,"Montgomery County",31.7,0.5
+"CYCLONE5",48341,"Moore County",16.4,1.4
+"CYCLONE5",48343,"Morris County",23.1,2.4
+"CYCLONE5",48345,"Motley County",17.8,4.2
+"CYCLONE5",48347,"Nacogdoches County",18.7,1
+"CYCLONE5",48349,"Navarro County",24.2,1.2
+"CYCLONE5",48351,"Newton County",33.7,3.2
+"CYCLONE5",48353,"Nolan County",17,1.5
+"CYCLONE5",48355,"Nueces County",19.7,0.4
+"CYCLONE5",48357,"Ochiltree County",17.8,2.7
+"CYCLONE5",48359,"Oldham County",17.6,2.4
+"CYCLONE5",48361,"Orange County",22.9,0.8
+"CYCLONE5",48363,"Palo Pinto County",23.7,1.7
+"CYCLONE5",48365,"Panola County",24.8,1.5
+"CYCLONE5",48367,"Parker County",31,0.8
+"CYCLONE5",48369,"Parmer County",15,1.3
+"CYCLONE5",48371,"Pecos County",17,2.2
+"CYCLONE5",48373,"Polk County",26.1,1.7
+"CYCLONE5",48375,"Potter County",18.3,0.6
+"CYCLONE5",48377,"Presidio County",15.7,3.5
+"CYCLONE5",48379,"Rains County",32.6,2.6
+"CYCLONE5",48381,"Randall County",19.2,0.6
+"CYCLONE5",48383,"Reagan County",17.7,3.2
+"CYCLONE5",48385,"Real County",20.7,4.7
+"CYCLONE5",48387,"Red River County",26.6,1.7
+"CYCLONE5",48389,"Reeves County",16.8,2.4
+"CYCLONE5",48391,"Refugio County",22.4,3.2
+"CYCLONE5",48393,"Roberts County",15.6,1.9
+"CYCLONE5",48395,"Robertson County",26.5,2.5
+"CYCLONE5",48397,"Rockwall County",30.8,1.1
+"CYCLONE5",48399,"Runnels County",18.1,1.6
+"CYCLONE5",48401,"Rusk County",24.1,1.1
+"CYCLONE5",48403,"Sabine County",28.8,4.2
+"CYCLONE5",48405,"San Augustine County",26.5,2.9
+"CYCLONE5",48407,"San Jacinto County",40.4,4.2
+"CYCLONE5",48409,"San Patricio County",22.3,0.9
+"CYCLONE5",48411,"San Saba County",18.8,2.2
+"CYCLONE5",48413,"Schleicher County",23.8,3.5
+"CYCLONE5",48415,"Scurry County",16,2.1
+"CYCLONE5",48417,"Shackelford County",18.7,2.7
+"CYCLONE5",48419,"Shelby County",23.1,2.1
+"CYCLONE5",48421,"Sherman County",13.7,1.6
+"CYCLONE5",48423,"Smith County",22.1,0.6
+"CYCLONE5",48425,"Somervell County",26.4,3.1
+"CYCLONE5",48427,"Starr County",21.2,1.8
+"CYCLONE5",48429,"Stephens County",17.4,3.5
+"CYCLONE5",48431,"Sterling County",20.1,6.3
+"CYCLONE5",48433,"Stonewall County",18,8.3
+"CYCLONE5",48435,"Sutton County",14.8,4.2
+"CYCLONE5",48437,"Swisher County",16.7,2
+"CYCLONE5",48439,"Tarrant County",26,0.2
+"CYCLONE5",48441,"Taylor County",16,0.7
+"CYCLONE5",48443,"Terrell County",16.1,8.1
+"CYCLONE5",48445,"Terry County",20,3.2
+"CYCLONE5",48447,"Throckmorton County",23.4,4.3
+"CYCLONE5",48449,"Titus County",18.2,1.1
+"CYCLONE5",48451,"Tom Green County",16.9,0.7
+"CYCLONE5",48453,"Travis County",24.1,0.2
+"CYCLONE5",48455,"Trinity County",32.5,3.1
+"CYCLONE5",48457,"Tyler County",32.7,3.1
+"CYCLONE5",48459,"Upshur County",27.6,1.3
+"CYCLONE5",48461,"Upton County",18.5,2.8
+"CYCLONE5",48463,"Uvalde County",17.7,1.3
+"CYCLONE5",48465,"Val Verde County",18.8,1.7
+"CYCLONE5",48467,"Van Zandt County",33.2,1.3
+"CYCLONE5",48469,"Victoria County",20.3,0.8
+"CYCLONE5",48471,"Walker County",24,1.2
+"CYCLONE5",48473,"Waller County",31,1.7
+"CYCLONE5",48475,"Ward County",18.5,1.8
+"CYCLONE5",48477,"Washington County",19.8,1.2
+"CYCLONE5",48479,"Webb County",21.7,0.5
+"CYCLONE5",48481,"Wharton County",22.9,1.2
+"CYCLONE5",48483,"Wheeler County",18.4,3
+"CYCLONE5",48485,"Wichita County",15.5,0.5
+"CYCLONE5",48487,"Wilbarger County",13.1,1.7
+"CYCLONE5",48489,"Willacy County",18,1.4
+"CYCLONE5",48491,"Williamson County",26,0.3
+"CYCLONE5",48493,"Wilson County",32.7,1.2
+"CYCLONE5",48495,"Winkler County",23.3,3.7
+"CYCLONE5",48497,"Wise County",30.9,1.1
+"CYCLONE5",48499,"Wood County",27.5,1.5
+"CYCLONE5",48501,"Yoakum County",17.8,2.8
+"CYCLONE5",48503,"Young County",16.3,1.7
+"CYCLONE5",48505,"Zapata County",17.7,3
+"CYCLONE5",48507,"Zavala County",17.3,2.4
+"Utah",49001,"Beaver County",16.9,2.4
+"Utah",49003,"Box Elder County",22.6,1
+"Utah",49005,"Cache County",16.6,0.5
+"Utah",49007,"Carbon County",15.9,1
+"Utah",49009,"Daggett County",15,4.4
+"Utah",49011,"Davis County",22.3,0.4
+"Utah",49013,"Duchesne County",22.5,1.3
+"Utah",49015,"Emery County",19.1,1.7
+"Utah",49017,"Garfield County",13.3,1.6
+"Utah",49019,"Grand County",14.5,2.8
+"Utah",49021,"Iron County",18.2,1.5
+"Utah",49023,"Juab County",24,1.8
+"Utah",49025,"Kane County",16.5,3.2
+"Utah",49027,"Millard County",17.6,1.4
+"Utah",49029,"Morgan County",26.1,2
+"Utah",49031,"Piute County",20.3,3.3
+"Utah",49033,"Rich County",22,4.2
+"Utah",49035,"Salt Lake County",22.2,0.2
+"Utah",49037,"San Juan County",20.5,2.3
+"Utah",49039,"Sanpete County",21,1.9
+"Utah",49041,"Sevier County",15.3,1.3
+"Utah",49043,"Summit County",24.1,1.1
+"Utah",49045,"Tooele County",29.5,1
+"Utah",49047,"Uintah County",19,1.5
+"Utah",49049,"Utah County",21.1,0.3
+"Utah",49051,"Wasatch County",23.9,1.6
+"Utah",49053,"Washington County",18.1,0.7
+"Utah",49055,"Wayne County",14.4,3.2
+"Utah",49057,"Weber County",21.4,0.4
+"Vermont",50001,"Addison County",23.8,0.6
+"Vermont",50003,"Bennington County",19,0.7
+"Vermont",50005,"Caledonia County",23.1,1
+"Vermont",50007,"Chittenden County",20.1,0.4
+"Vermont",50009,"Essex County",27.5,1.7
+"Vermont",50011,"Franklin County",27.1,0.8
+"Vermont",50013,"Grand Isle County",33,1.3
+"Vermont",50015,"Lamoille County",25.5,1.3
+"Vermont",50017,"Orange County",26.2,0.9
+"Vermont",50019,"Orleans County",22.8,0.8
+"Vermont",50021,"Rutland County",20.4,0.8
+"Vermont",50023,"Washington County",22.2,0.8
+"Vermont",50025,"Windham County",21.1,0.7
+"Vermont",50027,"Windsor County",21.8,0.6
+"Virginia",51001,"Accomack County",21.2,1.3
+"Virginia",51003,"Albemarle County",22.2,0.7
+"Virginia",51005,"Alleghany County",23.4,1.7
+"Virginia",51007,"Amelia County",34.2,2.2
+"Virginia",51009,"Amherst County",23.1,1.1
+"Virginia",51011,"Appomattox County",28.6,1.8
+"Virginia",51013,"Arlington County",27.3,0.4
+"Virginia",51015,"Augusta County",23.6,0.9
+"Virginia",51017,"Bath County",31.8,5.5
+"Virginia",51019,"Bedford County",27.6,1
+"Virginia",51021,"Bland County",32.1,4.1
+"Virginia",51023,"Botetourt County",25.6,0.8
+"Virginia",51025,"Brunswick County",29.6,2.2
+"Virginia",51027,"Buchanan County",30.1,2
+"Virginia",51029,"Buckingham County",32,2.7
+"Virginia",51031,"Campbell County",22.1,0.7
+"Virginia",51033,"Caroline County",37.7,2.1
+"Virginia",51035,"Carroll County",26.5,1.8
+"Virginia",51036,"Charles City County",35.9,2.2
+"Virginia",51037,"Charlotte County",32.1,2.8
+"Virginia",51041,"Chesterfield County",25.5,0.4
+"Virginia",51043,"Clarke County",37,2.2
+"Virginia",51045,"Craig County",32,5
+"Virginia",51047,"Culpeper County",36.2,1.6
+"Virginia",51049,"Cumberland County",33.6,3.7
+"Virginia",51051,"Dickenson County",31.2,2.2
+"Virginia",51053,"Dinwiddie County",28,1.2
+"Virginia",51057,"Essex County",32.6,2.6
+"Virginia",51059,"Fairfax County",32,0.3
+"Virginia",51061,"Fauquier County",39.2,1.3
+"Virginia",51063,"Floyd County",34.5,3.8
+"Virginia",51065,"Fluvanna County",33.5,1.8
+"Virginia",51067,"Franklin County",29.8,1.3
+"Virginia",51069,"Frederick County",30.3,1.2
+"Virginia",51071,"Giles County",25.8,1.5
+"Virginia",51073,"Gloucester County",32.8,1.4
+"Virginia",51075,"Goochland County",30.1,1.3
+"Virginia",51077,"Grayson County",27.7,1.9
+"Virginia",51079,"Greene County",29.3,1.8
+"Virginia",51081,"Greensville County",23.5,2.4
+"Virginia",51083,"Halifax County",23.4,1.4
+"Virginia",51085,"Hanover County",25.3,0.8
+"Virginia",51087,"Henrico County",21.9,0.5
+"Virginia",51089,"Henry County",24.4,1.3
+"Virginia",51091,"Highland County",22.4,5.8
+"Virginia",51093,"Isle of Wight County",28.6,0.9
+"Virginia",51095,"James City County",24.5,0.8
+"Virginia",51097,"King and Queen County",42.5,3.6
+"Virginia",51099,"King George County",34,2.4
+"Virginia",51101,"King William County",34.2,2.1
+"Virginia",51103,"Lancaster County",26,3.4
+"Virginia",51105,"Lee County",28.4,2.3
+"Virginia",51107,"Loudoun County",33.1,0.5
+"Virginia",51109,"Louisa County",35.1,1.6
+"Virginia",51111,"Lunenburg County",29.2,2.3
+"Virginia",51113,"Madison County",32.8,2.3
+"Virginia",51115,"Mathews County",32.9,3
+"Virginia",51117,"Mecklenburg County",26.4,2.6
+"Virginia",51119,"Middlesex County",27.7,3.4
+"Virginia",51121,"Montgomery County",17.8,0.5
+"Virginia",51125,"Nelson County",33.2,2.6
+"Virginia",51127,"New Kent County",31.9,2.2
+"Virginia",51131,"Northampton County",18.8,2
+"Virginia",51133,"Northumberland County",30.6,3.7
+"Virginia",51135,"Nottoway County",28.7,2.6
+"Virginia",51137,"Orange County",39.9,1.8
+"Virginia",51139,"Page County",34,2.6
+"Virginia",51141,"Patrick County",26.4,2.1
+"Virginia",51143,"Pittsylvania County",26,0.9
+"Virginia",51145,"Powhatan County",32.4,1.3
+"Virginia",51147,"Prince Edward County",22.2,2
+"Virginia",51149,"Prince George County",22.2,1.2
+"Virginia",51153,"Prince William County",39.2,0.5
+"Virginia",51155,"Pulaski County",22.9,1.3
+"Virginia",51157,"Rappahannock County",35.4,2.6
+"Virginia",51159,"Richmond County",28.8,3.9
+"Virginia",51161,"Roanoke County",20.3,0.6
+"Virginia",51163,"Rockbridge County",22,1.5
+"Virginia",51165,"Rockingham County",22.1,0.7
+"Virginia",51167,"Russell County",28.3,1.4
+"Virginia",51169,"Scott County",28.4,1.6
+"Virginia",51171,"Shenandoah County",29.9,1.5
+"Virginia",51173,"Smyth County",20.7,1.1
+"Virginia",51175,"Southampton County",31.3,1.7
+"Virginia",51177,"Spotsylvania County",38,0.9
+"Virginia",51179,"Stafford County",39.4,0.9
+"Virginia",51181,"Surry County",33.5,3.1
+"Virginia",51183,"Sussex County",27.1,2.2
+"Virginia",51185,"Tazewell County",25.1,1.5
+"Virginia",51187,"Warren County",39.9,2
+"Virginia",51191,"Washington County",23.4,1
+"Virginia",51193,"Westmoreland County",38.8,3.8
+"Virginia",51195,"Wise County",22.2,1.1
+"Virginia",51197,"Wythe County",21.3,1.4
+"Virginia",51199,"York County",21.5,0.6
+"Virginia",51510,"Alexandria city",30.5,0.5
+"Virginia",51515,"Bedford city",18.7,3.1
+"Virginia",51520,"Bristol city",17.5,1.7
+"Virginia",51530,"Buena Vista city",16.8,2.1
+"Virginia",51540,"Charlottesville city",17.4,0.7
+"Virginia",51550,"Chesapeake city",24.4,0.4
+"Virginia",51570,"Colonial Heights city",20.9,1.4
+"Virginia",51580,"Covington city",21.6,3.5
+"Virginia",51590,"Danville city",19.1,1.1
+"Virginia",51595,"Emporia city",19.6,2.5
+"Virginia",51600,"Fairfax city",31.7,1.5
+"Virginia",51610,"Falls Church city",27.3,1.3
+"Virginia",51620,"Franklin city",27.2,4.1
+"Virginia",51630,"Fredericksburg city",25,1.8
+"Virginia",51640,"Galax city",21.4,3.8
+"Virginia",51650,"Hampton city",22.1,0.5
+"Virginia",51660,"Harrisonburg city",15.7,1.1
+"Virginia",51670,"Hopewell city",21.4,1.6
+"Virginia",51678,"Lexington city",17,3.9
+"Virginia",51680,"Lynchburg city",16.9,0.6
+"Virginia",51683,"Manassas city",33.8,1.7
+"Virginia",51685,"Manassas Park city",40.8,3.1
+"Virginia",51690,"Martinsville city",17.8,2
+"Virginia",51700,"Newport News city",22.4,0.6
+"Virginia",51710,"Norfolk city",21.5,0.3
+"Virginia",51720,"Norton city",15,2.3
+"Virginia",51730,"Petersburg city",22.7,1.3
+"Virginia",51735,"Poquoson city",22.8,1.3
+"Virginia",51740,"Portsmouth city",24.4,0.8
+"Virginia",51750,"Radford city",18.7,1.9
+"Virginia",51760,"Richmond city",21.7,0.6
+"Virginia",51770,"Roanoke city",18.4,0.6
+"Virginia",51775,"Salem city",17.2,1
+"Virginia",51790,"Staunton city",19.3,1.2
+"Virginia",51800,"Suffolk city",28.1,0.8
+"Virginia",51810,"Virginia Beach city",22.9,0.3
+"Virginia",51820,"Waynesboro city",19.5,1.3
+"Virginia",51830,"Williamsburg city",19.2,2.2
+"Virginia",51840,"Winchester city",22.3,1.4
+"Washington",53001,"Adams County",17.3,1.4
+"Washington",53003,"Asotin County",16.2,1.1
+"Washington",53005,"Benton County",21.5,0.5
+"Washington",53007,"Chelan County",18.1,1
+"Washington",53009,"Clallam County",20.6,1.2
+"Washington",53011,"Clark County",24.9,0.4
+"Washington",53013,"Columbia County",17.7,2
+"Washington",53015,"Cowlitz County",24.1,0.9
+"Washington",53017,"Douglas County",19.2,1
+"Washington",53019,"Ferry County",21,2.2
+"Washington",53021,"Franklin County",21.3,0.9
+"Washington",53023,"Garfield County",17.9,3
+"Washington",53025,"Grant County",18.7,0.9
+"Washington",53027,"Grays Harbor County",24.1,1.1
+"Washington",53029,"Island County",27.9,1
+"Washington",53031,"Jefferson County",23.8,1.7
+"Washington",53033,"King County",27,0.1
+"Washington",53035,"Kitsap County",29.7,0.6
+"Washington",53037,"Kittitas County",21.4,1.5
+"Washington",53039,"Klickitat County",20,1.4
+"Washington",53041,"Lewis County",26.1,1.2
+"Washington",53043,"Lincoln County",20.7,1.8
+"Washington",53045,"Mason County",31.8,1.6
+"Washington",53047,"Okanogan County",18,1
+"Washington",53049,"Pacific County",21.5,2
+"Washington",53051,"Pend Oreille County",32.5,3.1
+"Washington",53053,"Pierce County",28.8,0.3
+"Washington",53055,"San Juan County",14.6,0.8
+"Washington",53057,"Skagit County",25,0.7
+"Washington",53059,"Skamania County",28.8,1.8
+"Washington",53061,"Snohomish County",29.5,0.2
+"Washington",53063,"Spokane County",21.1,0.3
+"Washington",53065,"Stevens County",28,1.2
+"Washington",53067,"Thurston County",24.7,0.5
+"Washington",53069,"Wahkiakum County",30.8,5
+"Washington",53071,"Walla Walla County",14.5,0.8
+"Washington",53073,"Whatcom County",20.9,0.7
+"Washington",53075,"Whitman County",15.4,0.6
+"Washington",53077,"Yakima County",19.8,0.5
+"West Virginia",54001,"Barbour County",33.6,3.4
+"West Virginia",54003,"Berkeley County",31.7,1.2
+"West Virginia",54005,"Boone County",29.1,1.5
+"West Virginia",54007,"Braxton County",30.5,2.3
+"West Virginia",54009,"Brooke County",25.8,1.7
+"West Virginia",54011,"Cabell County",20,0.5
+"West Virginia",54013,"Calhoun County",34.3,4.8
+"West Virginia",54015,"Clay County",37,3.2
+"West Virginia",54017,"Doddridge County",36.9,4.7
+"West Virginia",54019,"Fayette County",24.5,1.1
+"West Virginia",54021,"Gilmer County",31.3,6.8
+"West Virginia",54023,"Grant County",24.5,2
+"West Virginia",54025,"Greenbrier County",25.9,2
+"West Virginia",54027,"Hampshire County",37.7,2.3
+"West Virginia",54029,"Hancock County",23.7,1.1
+"West Virginia",54031,"Hardy County",23.5,2.3
+"West Virginia",54033,"Harrison County",21.8,0.7
+"West Virginia",54035,"Jackson County",30,1.6
+"West Virginia",54037,"Jefferson County",38.9,1.6
+"West Virginia",54039,"Kanawha County",21.7,0.6
+"West Virginia",54041,"Lewis County",25.1,1.8
+"West Virginia",54043,"Lincoln County",33.4,2.2
+"West Virginia",54045,"Logan County",25.8,1.5
+"West Virginia",54047,"McDowell County",25.7,1.8
+"West Virginia",54049,"Marion County",24.8,0.9
+"West Virginia",54051,"Marshall County",22.5,1.1
+"West Virginia",54053,"Mason County",26.3,1.4
+"West Virginia",54055,"Mercer County",22.2,1.2
+"West Virginia",54057,"Mineral County",25.3,1.8
+"West Virginia",54059,"Mingo County",30.2,2
+"West Virginia",54061,"Monongalia County",20.8,0.6
+"West Virginia",54063,"Monroe County",34.4,3.2
+"West Virginia",54065,"Morgan County",33.5,2.5
+"West Virginia",54067,"Nicholas County",27.9,1.7
+"West Virginia",54069,"Ohio County",19.5,0.9
+"West Virginia",54071,"Pendleton County",32.4,2.8
+"West Virginia",54073,"Pleasants County",27.7,2.9
+"West Virginia",54075,"Pocahontas County",26.7,2.1
+"West Virginia",54077,"Preston County",30.9,1.5
+"West Virginia",54079,"Putnam County",25.5,1
+"West Virginia",54081,"Raleigh County",23.9,1
+"West Virginia",54083,"Randolph County",20.9,1.8
+"West Virginia",54085,"Ritchie County",27.8,2.2
+"West Virginia",54087,"Roane County",34.4,3
+"West Virginia",54089,"Summers County",32.3,3
+"West Virginia",54091,"Taylor County",28.6,2.2
+"West Virginia",54093,"Tucker County",28.4,3
+"West Virginia",54095,"Tyler County",27.6,2.2
+"West Virginia",54097,"Upshur County",25.9,1.7
+"West Virginia",54099,"Wayne County",24.9,1.3
+"West Virginia",54101,"Webster County",29.2,4.1
+"West Virginia",54103,"Wetzel County",28,2.2
+"West Virginia",54105,"Wirt County",31.3,2.8
+"West Virginia",54107,"Wood County",19.1,0.6
+"West Virginia",54109,"Wyoming County",32.3,1.9
+"ARRIA10",55001,"Adams County",28,1
+"ARRIA10",55003,"Ashland County",18,1.2
+"ARRIA10",55005,"Barron County",19.4,0.7
+"ARRIA10",55007,"Bayfield County",23.3,1
+"ARRIA10",55009,"Brown County",18.5,0.4
+"ARRIA10",55011,"Buffalo County",24.3,1.4
+"ARRIA10",55013,"Burnett County",26.8,1.4
+"ARRIA10",55015,"Calumet County",19.8,0.6
+"ARRIA10",55017,"Chippewa County",21.3,0.8
+"ARRIA10",55019,"Clark County",21.7,0.7
+"ARRIA10",55021,"Columbia County",26.1,0.7
+"ARRIA10",55023,"Crawford County",23,1.2
+"ARRIA10",55025,"Dane County",20.8,0.3
+"ARRIA10",55027,"Dodge County",22.1,0.6
+"ARRIA10",55029,"Door County",19.6,1.6
+"ARRIA10",55031,"Douglas County",20.6,0.7
+"ARRIA10",55033,"Dunn County",21.9,0.7
+"ARRIA10",55035,"Eau Claire County",17.3,0.5
+"ARRIA10",55037,"Florence County",19.9,2.1
+"ARRIA10",55039,"Fond du Lac County",19.8,0.6
+"ARRIA10",55041,"Forest County",21.4,1.6
+"ARRIA10",55043,"Grant County",21.1,0.7
+"ARRIA10",55045,"Green County",22.9,0.8
+"ARRIA10",55047,"Green Lake County",22.7,1.1
+"ARRIA10",55049,"Iowa County",25.1,1.1
+"ARRIA10",55051,"Iron County",20.7,1.8
+"ARRIA10",55053,"Jackson County",21.6,1.2
+"ARRIA10",55055,"Jefferson County",22.8,0.6
+"ARRIA10",55057,"Juneau County",22.7,0.8
+"ARRIA10",55059,"Kenosha County",25.9,0.6
+"ARRIA10",55061,"Kewaunee County",22,0.7
+"ARRIA10",55063,"La Crosse County",18.3,0.4
+"ARRIA10",55065,"Lafayette County",24.5,0.8
+"ARRIA10",55067,"Langlade County",19.3,0.9
+"ARRIA10",55069,"Lincoln County",23.4,1
+"ARRIA10",55071,"Manitowoc County",19.4,0.6
+"ARRIA10",55073,"Marathon County",18.6,0.4
+"ARRIA10",55075,"Marinette County",20.3,1
+"ARRIA10",55077,"Marquette County",28.2,0.9
+"ARRIA10",55078,"Menominee County",18.1,2.7
+"ARRIA10",55079,"Milwaukee County",22,0.2
+"ARRIA10",55081,"Monroe County",19.9,0.7
+"ARRIA10",55083,"Oconto County",26.3,0.9
+"ARRIA10",55085,"Oneida County",19.2,0.9
+"ARRIA10",55087,"Outagamie County",19.7,0.4
+"ARRIA10",55089,"Ozaukee County",23.7,0.6
+"ARRIA10",55091,"Pepin County",25.5,1.5
+"ARRIA10",55093,"Pierce County",27.3,0.8
+"ARRIA10",55095,"Polk County",29.1,0.8
+"ARRIA10",55097,"Portage County",18.9,0.6
+"ARRIA10",55099,"Price County",19.1,0.9
+"ARRIA10",55101,"Racine County",23.2,0.4
+"ARRIA10",55103,"Richland County",23,1
+"ARRIA10",55105,"Rock County",22.7,0.6
+"ARRIA10",55107,"Rusk County",21.7,1.2
+"ARRIA10",55109,"St. Croix County",27.9,0.7
+"ARRIA10",55111,"Sauk County",21.6,0.7
+"ARRIA10",55113,"Sawyer County",19.3,1.1
+"ARRIA10",55115,"Shawano County",23.2,0.8
+"ARRIA10",55117,"Sheboygan County",18.7,0.6
+"ARRIA10",55119,"Taylor County",20.9,0.9
+"ARRIA10",55121,"Trempealeau County",21,0.5
+"ARRIA10",55123,"Vernon County",23.4,0.7
+"ARRIA10",55125,"Vilas County",19.4,1.3
+"ARRIA10",55127,"Walworth County",24.9,0.7
+"ARRIA10",55129,"Washburn County",21.8,0.9
+"ARRIA10",55131,"Washington County",24.3,0.5
+"ARRIA10",55133,"Waukesha County",23.8,0.3
+"ARRIA10",55135,"Waupaca County",21.7,0.7
+"ARRIA10",55137,"Waushara County",26.9,0.9
+"ARRIA10",55139,"Winnebago County",18.4,0.4
+"ARRIA10",55141,"Wood County",18.6,0.6
+"Wyoming",56001,"Albany County",12.3,0.8
+"Wyoming",56003,"Big Horn County",17.5,1.8
+"Wyoming",56005,"Campbell County",19.4,0.9
+"Wyoming",56007,"Carbon County",16.5,1.2
+"Wyoming",56009,"Converse County",28.4,2.9
+"Wyoming",56011,"Crook County",23.7,2.7
+"Wyoming",56013,"Fremont County",19.2,1.2
+"Wyoming",56015,"Goshen County",15.9,1.8
+"Wyoming",56017,"Hot Springs County",15.9,1.8
+"Wyoming",56019,"Johnson County",24.6,5.6
+"Wyoming",56021,"Laramie County",15.4,0.6
+"Wyoming",56023,"Lincoln County",29.1,3.2
+"Wyoming",56025,"Natrona County",18.1,0.8
+"Wyoming",56027,"Niobrara County",17,4.1
+"Wyoming",56029,"Park County",16.9,2.2
+"Wyoming",56031,"Platte County",17.1,3.4
+"Wyoming",56033,"Sheridan County",17.7,1.5
+"Wyoming",56035,"Sublette County",23.3,4.5
+"Wyoming",56037,"Sweetwater County",21.3,1.2
+"Wyoming",56039,"Teton County",14.5,1.7
+"Wyoming",56041,"Uinta County",20.4,2.9
+"Wyoming",56043,"Washakie County",12.4,2
+"Wyoming",56045,"Weston County",28.6,2.9

@@ -1,0 +1,431 @@
+
+<!DOCTYPE html>
+<!-- saved from url=(0044)http://flowingdata.com/projects/2017/family/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Family Growth</title>
+<link rel="stylesheet" href="style/style.css" type="text/css" media="screen">
+<link rel="stylesheet" type="text/css" href="style/fonts.css">
+<link href="style/googleapi.css" rel="stylesheet" type="text/css">
+<meta charset="utf-8">
+</head>
+<body>
+<div id="main-wrapper">
+ 
+<div id="controls">
+<div>
+<div class="sentence">With opposite sex, this is when&nbsp;</div>
+<div id="sex" class="dropdown-wrapper", tabindex="1"  style="float:left;z-index:10">
+                <span>Sex</span>
+                <ul class="dropdown"></ul>
+            </div>
+    
+    		<div class="sentence">first&nbsp;</div>
+	
+            <div id="firstact" class="dropdown-wrapper", tabindex="2"  style="float:left;z-index:9">
+                <span>Did Something</span>
+                <ul class="dropdown"></ul>
+            </div>
+            
+            <div id="pausebutton" class="button">Pause</div>
+            
+		    <div class="clr"></div>
+    	</div>        
+    </div>
+    
+	<div id="chart"></div>
+	
+</div><!-- @end #main-wrapper -->
+
+
+<script src="js/d3-3-5-5.min.js"></script>
+
+<script>
+var DATA_FILE_LOC = "data/age_distributions_male_female.tsv";
+var total_weight = 61491766;
+var field_defs = {
+    "agefstsx" : "had sex", 
+    "agecohab": "moved in",
+    "agebaby1": "had baby", 
+    "fmar1age": "married",  
+    "agedd1": "divorced" 
+}
+var sexes = {
+	"f": "females", 
+	"m": "males",
+};
+
+var CURR_SEX = 'f';
+var FIELD_PLAYLIST = ["agefstsx", "agecohab", "agebaby1", "fmar1age", "agedd1"];
+var FIELD_INDEX = 0;
+var CURR_FIELD = FIELD_PLAYLIST[FIELD_INDEX];
+var CURR_KEY = CURR_FIELD + CURR_SEX;
+var PAUSED = false;
+
+
+var margin = {top: 48, right: 10, bottom: 40, left: 40},
+    width = 900 - margin.left - margin.right,
+	height = 450 - margin.top - margin.bottom,
+	bar_width = Math.floor(width / 46) - .5;
+
+var x = d3.scale.linear()
+    .range([0, width])
+    .nice(10);
+	
+var y = d3.scale.linear()
+    .range([height, 0])
+    .nice(10);
+	
+var xAxis = d3.svg.axis()
+    .scale(x)
+    .ticks(10)
+    .orient("bottom");
+	
+var yAxis = d3.svg.axis()
+    .scale(y)
+    .orient("left")
+    // .ticks(6)
+	.tickPadding(4)
+    .tickFormat(d3.format(".1%"));
+
+var line = d3.svg.line()
+	.x(function(d) { return x(d); })
+
+
+var svg = d3.select("#chart").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+d3.tsv(DATA_FILE_LOC, type, function(error, data) {
+	if (error) throw error;
+
+	var age_grps = d3.range(0,46).map(function(age) {
+        var values = {};
+        data.forEach(function(d) {
+            values[d.field + d.sex] = d["age" + age] / total_weight;
+        })
+        return {
+            grp: "age" + age,
+            age: age,
+            values: values,
+        };
+    });
+    
+    // Store median values by group
+    var medians_by_grp = {};
+    data.forEach(function(d) {
+        medians_by_grp[d.field+d.sex] = {
+            field: d.field,
+            sex: d.sex,
+            value: d.median,
+        };  
+    });    
+    
+    
+    // x.domain(d3.range(0,46).map(function(age) { return "age"+age; }));
+    x.domain([0,46])
+    // y.domain([0, 10000000]);
+    y.domain(d3.extent(age_grps, function(d) { return d.values[CURR_KEY]; }));
+    
+    
+    // 
+    // Axes
+    //
+    
+    svg.append("g")
+	    .attr("class", "x axis")
+	    .attr("transform", "translate(0," + height + ")")
+	    .call(xAxis)
+      .append("text")
+	    .attr("x", x(0.4))
+	    .attr("y", 18.2)
+	    .attr("text-anchor", "start")
+	    .text("YEARS OLD");
+    
+	svg.append("g")
+  		.attr("class", "y axis")
+  		.call(yAxis);
+
+
+    
+    //
+    // Median annotation
+    //
+    var medians_by_field = FIELD_PLAYLIST.map(function(d) { 
+        return { 
+            'field': d, 
+            'm': medians_by_grp[d+'m'].value,
+            'f': medians_by_grp[d+'f'].value }; 
+        });
+    
+    var median_ann = svg.selectAll(".medianann")
+        .data(medians_by_field)
+      .enter().append("g")
+        .attr("id", function(d) { return "medianann"+d.field; })
+        .attr("class", "medianann")
+        .attr("transform", function(d) { return "translate("+ x(d[CURR_SEX]) +",0)"});
+    median_ann.append("line")
+        // .attr("x1", function(d) { return x(d[CURR_SEX]); })
+        // .attr("x2", function(d) { return x(d[CURR_SEX]); })
+        .attr("y1", height)
+        .attr("y2", 0);
+    median_ann.append("text")
+        .text(function(d) { return field_defs[d.field]; })
+        .attr("x", 0)
+        .attr("dx", function(d) {
+            if (d.field == "agebaby1") {
+                return "-.7em";
+            } else {
+                return ".2em";
+            }
+        })
+        .attr("dy", function(d) {
+            if (d.field == "agebaby1") {
+                return "-1.1em"
+            } else {
+                return "-.1em";
+            }
+        })
+        .attr("transform", function(d) { return "rotate(-50)"; })
+        .style("text-anchor", "start");
+
+
+    //
+    // Bars for the histogram
+    //
+    var bars = svg.selectAll(".bar")
+        .data(age_grps)
+      .enter().append("rect")
+        .attr("class", "bar")
+        .attr("x", function(d) { return x(d.age-.5); })
+        .attr("width", bar_width)
+        .attr("y", function(d) { return y(d.values[CURR_KEY]); })
+        .attr("height", function(d) { return height - y(d.values[CURR_KEY]) });
+
+
+    //
+    // Current distribution's median.
+    //
+    var median_current = svg.append("g")
+        .attr("class", "mediancurrent")
+      .append("line")
+        .attr("x1", x(medians_by_grp[CURR_KEY].value))
+        .attr("x2", x(medians_by_grp[CURR_KEY].value))
+        .attr("y1", height)
+        .attr("y2", 0);
+        
+    
+    //
+	// Baseline
+	//
+    svg.append("g")
+		.attr("class", "baseline")
+		.attr("transform", "translate(0,"+ height +")")
+	  .append("line")
+		.attr("x1", -xAxis.tickSize())
+		.attr("x2", width+margin.right)
+		.attr("y2", 0);
+
+
+    
+    // 
+    // Interaction
+    //
+    
+    
+	// Sex dropdown menu
+    var dropdown_sex = d3.select("#controls #sex");
+	dropdown_sex.select("span").text(sexes[CURR_SEX]);
+    dropdown_sex.on("click", function() {
+        d3.select(this).classed("active", !d3.select(this).classed("active"));
+        PAUSED = true;
+        d3.select("#pausebutton").text("Play");
+    });
+    var dropdown_sex_li = dropdown_sex.select(".dropdown").selectAll("li")
+        .data(Object.keys(sexes))
+      .enter().append("li")
+        .attr("id", function(d) { return d; })
+        .classed("current", function(d) { return d == CURR_SEX ? true : false; })
+        .text(function(d) { return sexes[d]; });
+    dropdown_sex_li.on("click", function(d) {
+        d3.select("#sex span").text(sexes[d]);
+        d3.select(this).classed("current", true); // Hide currently selected metric from menu
+        d3.select("#sex #" + CURR_SEX).classed("current", false);   // Show previously hidden 
+    
+        CURR_SEX = d;        
+        update();
+    });	
+    
+    
+    // Fields dropdown
+    var dropdown_firstact = d3.select("#controls #firstact");
+	dropdown_firstact.select("span").text(field_defs[CURR_FIELD]);
+    dropdown_firstact.on("click", function() {
+        d3.select(this).classed("active", !d3.select(this).classed("active"));
+        PAUSED = true;
+        d3.select("#pausebutton").text("Play");
+    });
+    var dropdown_firstact_li = dropdown_firstact.select(".dropdown").selectAll("li")
+        .data(d3.keys(field_defs))
+      .enter().append("li")
+        .attr("id", function(d) { return d; })
+        .classed("current", function(d) { return d == CURR_FIELD ? true : false; })
+        .text(function(d) { return field_defs[d]; });
+    dropdown_firstact_li.on("click", function(d) {
+        d3.select("#firstact span").text(field_defs[d]);
+        d3.select(this).classed("current", true); // Hide currently selected metric from menu
+        d3.select("#firstact #" + CURR_FIELD).classed("current", false);   // Show previously hidden 
+    
+        CURR_FIELD = d;
+        update();
+    });
+    
+    
+    
+	// Pause/Play button
+	d3.select("#pausebutton").on("click", pausePlayClicked);
+    
+    function pausePlayClicked() {
+    	if (PAUSED == true) {
+    		PAUSED = !PAUSED;
+    		d3.select(this).text("Pause");
+    		timer();
+    	} else {
+    		PAUSED = !PAUSED;
+    		d3.select(this).text("Play");
+    	}
+    }
+    
+    
+    function timer() {
+        STEP_DELAY = 1600;
+        if (!PAUSED) {
+            
+            next_field();
+        
+			// Go again.
+			if (FIELD_INDEX == FIELD_PLAYLIST.length-1) {
+				setTimeout(timer, STEP_DELAY * 1.5);
+			} else {
+				setTimeout(timer, STEP_DELAY);
+			}
+        }
+    }
+    timer();
+    
+    
+    d3.select("#update").on("click", function() {
+        next_field();
+    });
+
+
+    function next_field() {
+        
+        // Current field
+        FIELD_INDEX = FIELD_PLAYLIST.indexOf(CURR_FIELD);
+        
+        // Increment
+        if (FIELD_INDEX == FIELD_PLAYLIST.length-1) {
+            FIELD_INDEX = 0;
+        } else {
+            FIELD_INDEX += 1;
+        }
+        
+        // Update dropdown
+        d3.select("#firstact #" + CURR_FIELD).classed("current", false);   // Show previously hidden 
+        
+        CURR_FIELD = FIELD_PLAYLIST[FIELD_INDEX];
+        d3.select("#firstact span").text(field_defs[CURR_FIELD]);
+        d3.select("#firstact #" + CURR_FIELD).classed("current", true);
+        
+        update();
+    }
+
+
+
+    function update() {
+    
+        CURR_KEY = CURR_FIELD + CURR_SEX;
+        
+        d3.selectAll(".medianann").classed("current", false);
+        d3.select("#medianann"+CURR_FIELD).classed("current", true);
+        
+        y.domain(d3.extent(age_grps, function(d) { return d.values[CURR_KEY]; }));
+	    svg.select(".y.axis")
+		    .transition()
+		    .duration(600)
+		    .call(yAxis);
+        
+        median_ann
+            .transition()
+            .duration(600)
+            .attr("transform", function(d) { return "translate("+ x(d[CURR_SEX]) +",0)"});
+        
+        median_current
+            .transition()
+            .duration(600)
+            .attr("x1", x(medians_by_grp[CURR_KEY].value))
+            .attr("x2", x(medians_by_grp[CURR_KEY].value));
+        
+        bars
+            .transition()
+            .duration(600)
+            .ease("linear")
+            .attr("y", function(d) { return y(d.values[CURR_KEY]); })
+            .attr("height", function(d) { return height - y(d.values[CURR_KEY]) });
+        
+        // TODO: Transition median lines.
+        
+            
+    }
+
+}); // @end d3.tsv()
+
+
+
+
+
+
+// For SVG text-wrapping
+function wrap(text, width) {
+  text.each(function() {
+    var text = d3.select(this),
+        words = text.text().split(/\s+/).reverse(),
+        word,
+        line = [],
+        lineNumber = 0,
+        lineHeight = 1.2, // ems
+        y = text.attr("y"),
+        dy = parseFloat(text.attr("dy")),
+        tspan = text.text(null).append("tspan").attr("x", 0).attr("y", y).attr("dy", dy + "em");
+    while (word = words.pop()) {
+      line.push(word);
+      tspan.text(line.join(" "));
+      if (tspan.node().getComputedTextLength() > width) {
+        line.pop();
+        tspan.text(line.join(" "));
+        line = [word];
+		tspan = text.append("tspan").attr("x", 0).attr("y", y).attr("dy", lineHeight + dy + "em").text(word);
+        // tspan = text.append("tspan").attr("x", 0).attr("y", y).attr("dy", ++lineNumber * lineHeight + dy + "em").text(word);
+      }
+    }
+  });
+}
+
+
+
+function type(d, i) {
+	
+	d3.keys(d).map(function(key) {
+		if (key != "field" && key != "sex") {
+		    d[key] = +d[key];
+		}
+	});
+	return d;
+
+}
+</script>
+
+
+</body></html>

@@ -1,0 +1,360 @@
+
+<!DOCTYPE html>
+<head>
+<title>Marriage by Demographic</title>
+<link rel="stylesheet" href="style/style.css" type="text/css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="style/fonts.css"/>
+<link href='style/googleapis.css' rel='stylesheet' type='text/css'>
+<meta charset="utf-8">
+</head>
+<body>
+<div id="main-wrapper">
+<div id="chart"></div>
+<div id="notes">
+<h1>Age at Marriage</h1>
+<p>This chart shows the percentage of people who were of a certain age when they married, for both men and women. Use the filters below to toggle between demographics.</p>
+<div id="demographics">
+<div class="employment section">
+<h3>Employment Status</h3>
+<div class="button current" data-val="EMP">Employed</div>
+<div class="button" data-val="UNEMP">Unemployed</div>
+<div class="button" data-val="NILF">Not in Labor Force</div>
+</div>
+<div class="education section">
+<h3>Education</h3>
+<div class="button" data-val="HS">High School or Less</div>
+<div class="button" data-val="BS">Bachelor's</div>
+<div class="button" data-val="ADV">Advanced</div>
+</div>
+<div class="race section">
+<h3>Race or Origin</h3>
+<div class="column">
+<div class="button" data-val="W">White</div>
+<div class="button" data-val="B">Black</div>
+<div class="button" data-val="H">Hispanic</div>
+</div>
+<div class="column">
+<div class="button" data-val="A">Asian</div>
+<div class="button" data-val="N">Native</div>
+</div>
+<div class="clr"></div>
+</div>
+<div class="clr"></div>
+<div class="firstmar section">
+<input type="checkbox" id="first_mar_checkbox" checked /> First Marriage Only
+</div>
+<div class="clr"></div>
+</div>
+</div>
+</div>
+<script src="js/d3-3-5-5.min.js"></script>
+<script>
+var USER_GRP = "EMP";
+var FIRST_MAR = "values_first";
+
+var median_ages = { "values_first": 27, "values_all": 30 };
+
+
+var margin = {top: 10, right: 0, bottom: 30, left: 0},
+    width = 1090 - margin.left - margin.right,
+	height = 600 - margin.top - margin.bottom;
+
+var bisectAge = d3.bisector(function(d) { return d.age; }).left;	
+var percent = d3.format('%');
+var min_age = 14;
+var groups = {};
+
+var x = d3.scale.linear()
+    .range([0, width]);
+
+var y = d3.scale.linear()
+    .range([height, 0]);
+	// .domain([0, 6]);
+
+var color = d3.scale.category10();
+
+var xAxis = d3.svg.axis()
+    .scale(x)
+    .orient("bottom")
+	.outerTickSize(0);
+
+var yAxis = d3.svg.axis()
+    .scale(y)
+	.tickFormat(function(d) { return d + "%"})
+	.tickSize(width)
+    .orient("right");
+
+var line = d3.svg.line()
+	.x(function(d) { return x(d.age); })
+	.y(function(d) { return y(d.value); });
+
+var svg = d3.select("#chart").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");	
+
+d3.tsv("data/marriage_bygroup_combined.tsv", type, function(error, data) {
+	if (error) throw error;
+		
+	var marriages = groups[USER_GRP];
+	
+	x.domain([13, d3.max(data, function(d) { return d.mage; })] );
+	y.domain([0, d3.max(data, function(d) { return d.pct; })] );
+	
+	svg.append("g")
+      	.attr("class", "x axis")
+      	.attr("transform", "translate(0," + height + ")")
+      	.call(xAxis)
+	  .append("text")
+		.attr("x", x(21))
+		.attr("y", 19)
+		.text("YEARS OLD");
+	  
+    svg.append("g")
+      	.attr("class", "y axis")
+      	.call(yAxis)
+	  .append("text")
+      	.attr("y", 10)
+      	.style("text-anchor", "start")
+      	.text("MARRIAGES, MALE AND FEMALE");;
+	svg.selectAll(".y.axis text").attr("x", 4).attr("dy", -4);
+	
+	// Annotation
+	ageAnnotate(18, "Minimum age to marry in most states, w/o parental consent", false);
+	ageAnnotate(median_ages[FIRST_MAR], "National median marriage age", "medageann");
+	 
+     function ageAnnotate(year, text, id_name) {
+         svg.append("line")
+             .attr("class", "annotation")
+             .attr("x1", x(year))
+             .attr("x2", x(year))
+             .attr("y1", y(0))
+             .attr("y2", y(9.25))
+		 	 .attr("id", function() {
+				 if (id_name != false) {
+					 return id_name + "line";
+				 } else {
+					 return "";
+				 }
+		 	 });
+         svg.append("text")
+             .attr("class", "annotation")
+             .attr("transform", "translate("+x((year-0.8))+","+y(9.25)+")rotate(-90)")
+		 	 .attr("id", function() {
+				 if (id_name != false) {
+					 return id_name + "text";
+				 } else {
+					 return "";
+				 }
+		 	 })
+             .text(text);
+     }
+	
+	
+	// Male line
+	svg.append("path")
+	  	.attr("class", "line male")
+		.attr("d", function(d) { return line(marriages["1"][FIRST_MAR]); });
+	
+	// Female line
+	svg.append("path")
+	  	.attr("class", "line female")
+		.attr("d", function(d) { return line(marriages["2"][FIRST_MAR]); });
+	
+	// Updater
+	d3.selectAll(".button").on("click", function() {
+		USER_GRP = d3.select(this).attr("data-val");
+		d3.select(".current").classed("current", false);
+		d3.select(this).classed("current", true);
+		update();
+	});
+	
+	d3.select("#first_mar_checkbox").on("change", function() {
+		var checked = d3.select(this).property("checked");
+		if (checked) {
+			FIRST_MAR = "values_first";
+		} else {
+			FIRST_MAR = "values_all";
+		}
+		update();
+	});
+	
+	function update() {
+		
+		marriages = groups[USER_GRP];
+		svg.select(".male")
+			.transition()
+			.duration(600)
+			// .delay(180)
+			.attr("d", function(d) { return line(marriages["1"][FIRST_MAR]); });
+		svg.select(".female")
+			.transition()
+			.duration(600)
+			.attr("d", function(d) { return line(marriages["2"][FIRST_MAR]); });
+	
+		svg.select("#medageannline")
+			.transition()
+			.duration(600)
+            .attr("x1", x(median_ages[FIRST_MAR]))
+            .attr("x2", x(median_ages[FIRST_MAR]));
+		svg.select("#medageanntext")
+			.transition()
+			.duration(600)
+			.attr("transform", "translate("+x((median_ages[FIRST_MAR]-0.8))+","+y(9.25)+")rotate(-90)")
+	}
+	
+	
+	
+	// Baseline
+	svg.append("g")
+    	.attr("class", "baseline")
+    	.attr("transform", "translate(0,"+ height +")")
+  	  .append("line")
+    	.attr("x1", 0)
+    	.attr("x2", width)
+    	.attr("y2", 0);
+	
+	//
+	// Show values on mouseover
+  	//
+	
+	// Male	
+	var focusm = svg.append("g")
+        .attr("class", "focus male")
+        .style("display", "none");
+    focusm.append("circle")
+        .attr("r", 5);
+    focusm.append("text")
+        .attr("x", 9)
+        .attr("dy", ".35em");
+	
+	// Female	
+  	var focusf = svg.append("g")
+        .attr("class", "focus female")
+        .style("display", "none");
+    focusf.append("circle")
+        .attr("r", 5);
+    focusf.append("text")
+        .attr("x", 9)
+        .attr("dy", ".35em");
+	
+	// Events	
+  	svg.append("rect")
+        .attr("class", "overlay")
+        .attr("width", width)
+        .attr("height", height)
+        .on("mouseover", function() { 
+			focusf.style("display", null); 
+			focusm.style("display", null); 
+		})
+        .on("mouseout", function() { 
+			focusf.style("display", "none"); 
+			focusm.style("display", "none"); 
+		})
+        .on("mousemove", mousemove);
+	
+	function mousemove() {
+		// Male
+		var x0 = x.invert(d3.mouse(this)[0]),
+	    	i = bisectAge(marriages["1"][FIRST_MAR], x0, 1),
+	    	d0 = marriages["1"][FIRST_MAR][i - 1],
+	    	d1 = marriages["1"][FIRST_MAR][i],
+	    	d = x0 - d0.age > d1.age - x0 ? d1 : d0;
+		
+	    focusm.attr("transform", "translate(" + x(d.age) + "," + y(d.value) + ")");
+	    focusm.select("text").text("Male, " + d3.round(d.value, 1) + "%");
+		
+		// Female
+    	var i_f = bisectAge(marriages["2"][FIRST_MAR], x0, 1),
+    		d0_f = marriages["2"][FIRST_MAR][i_f - 1],
+    		d1_f = marriages["2"][FIRST_MAR][i_f],
+    		d_f = x0 - d0_f.age > d1_f.age - x0 ? d1_f : d0_f;
+		focusf.attr("transform", "translate(" + x(d_f.age) + "," + y(d_f.value) + ")");
+		focusf.select("text").text("Female, " + d3.round(d_f.value, 1) + "%");
+	
+		// Adjust label vertical positions.
+		var mf_diff = Math.abs(d.value - d_f.value);
+		if (mf_diff < 0.145) {
+			if (d.value > d_f.value) {
+				focusm.select("text").attr("dy", "-1em");
+				focusf.select("text").attr("dy", "-.1em");
+			} else {
+				focusm.select("text").attr("dy", "-.1em");
+				focusf.select("text").attr("dy", "1em");
+			}
+		} else {
+			focusm.select("text").attr("dy", ".35em");
+			focusf.select("text").attr("dy", ".35em");
+		}
+		
+		// Adjust label horizontal positions.
+		if (x0 > 85) {
+			focusm.select("text").attr("x", -90);
+			focusf.select("text").attr("x", -90);
+		} else {
+			focusm.select("text").attr("x", 10);
+			focusf.select("text").attr("x", 10);
+		}
+		
+		
+	}
+	
+}); // @end d3.tsv()
+
+
+function type(d, i) {
+	
+	d.mage = +d.mage;
+	d.pct = +d.pct;
+	// console.log(d3.range(16,97));
+
+	if (!(d.grp in groups)) {
+		groups[d.grp] = {
+			"1": { 
+				values_all: d3.range(14,97).map(function(d) { 
+					return {
+						age: d,
+						value: 0
+					}; 
+				}),
+				values_first: d3.range(14,97).map(function(d) { 
+					return {
+						age: d,
+						value: 0
+					}; 
+				}) 
+			},
+			
+			"2": { 
+				values_all: d3.range(14,97).map(function(d) { 
+					return {
+						age: d,
+						value: 0
+					}; 
+				}),
+				values_first: d3.range(14,97).map(function(d) { 
+					return {
+						age: d,
+						value: 0
+					}; 
+				}) 
+			}
+		};	
+	}
+	
+	if (d.firstmar == "1") {
+		groups[d.grp][d.SEX]['values_first'][d.mage-min_age].age = d.mage;
+		groups[d.grp][d.SEX]['values_first'][d.mage-min_age].value = d.pct;
+	} else {
+		groups[d.grp][d.SEX]['values_all'][d.mage-min_age].age = d.mage;
+		groups[d.grp][d.SEX]['values_all'][d.mage-min_age].value = d.pct;
+	}
+	
+	
+	return d;
+	
+} 
+
+</script>
+</body>

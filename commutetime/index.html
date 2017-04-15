@@ -1,0 +1,211 @@
+
+<!DOCTYPE html>
+<head>
+<title>Average Commute Time Animated</title>
+<link rel="stylesheet" href="style/animation.css" type="text/css" media="screen"/>
+</head>
+<div id="road-wrapper">
+<div id="county-roads"></div>
+</div> 
+<script src="js/d3.v3.min.js"></script>
+<script src="js/queue.v1.min.js"></script>
+<script>
+var roadWidth = 960,
+    roadHeight = 232;
+
+var timeByFIPS = d3.map(),
+    thedata,
+    label,
+    vehicle;
+var formatTime = d3.format(".1f");
+var timeScale = d3.scale.linear().domain([0,45]).range([0, 20000]);
+
+var fids = [];
+
+var roadsvg = d3.select("body #county-roads").append("svg")
+    .attr("width", roadWidth)
+    .attr("height", roadHeight)
+    .attr("id", "roads")
+  .append("g");
+
+var transitionQueue = [];
+
+queue()
+    .defer(d3.csv, "data/commute-times.csv", typeAndSet)
+    .await(ready);
+
+
+function ready(error, commute) {
+    
+    thedata = commute;
+    
+    // Randomly select 10 counties
+    while (fids.length < 10) {
+        var randomIndex = Math.floor(Math.random() * (commute.length-1));
+        var id = commute[randomIndex].FIPS;
+        if (fids.indexOf(id) == -1) {
+            fids.push(id);
+        }
+    }
+    
+    // County labels
+    label = roadsvg.selectAll("text")
+        .data(fids)
+      .enter().append("text")
+        .attr("id", function(d) { return "lab" + d})
+        .attr("x", 20)
+        .attr("y", function(d, i) { return i * 24 + 9; })
+        .text(function(d) {
+            var county = timeByFIPS.get(d);
+            var labelText = county['name'] + ", " + county['state'];
+            return labelText; 
+        });
+    
+    // Commute time labels
+    valLabel = roadsvg.selectAll("text.val")
+        .data(fids)
+      .enter().append("text")
+        .attr("id", function(d) { return "vlab" + d})
+        .attr("x", 270)
+        .attr("y", function(d, i) { return i * 24 + 9; })
+        .text(function(d,i) {
+            var county = timeByFIPS.get(d);
+            var labelText = formatTime(county['minutes']);
+            if (i == 0) {
+                labelText += " minutes commuting to work, on average";
+            }
+            return labelText; 
+        });
+    
+    // Road lines
+    roadsvg.selectAll("line")
+        .data(fids)
+      .enter().append("line")
+        .attr("class", "roadline")
+        .attr("x1", function() { return Math.floor(Math.random() * 20); })
+        .attr("x2", roadWidth+20)
+        .attr("y1", function(d,i) { return i * 24 - 7; })
+        .attr("y2", function(d,i) { return i * 24 - 7; })
+        .attr("stroke-dasharray", "8 20");
+    
+    // Vehicle per county    
+    vehicle = roadsvg.selectAll(".vehicle")
+        .data(fids)
+      .enter().append("g")
+        .attr("class", "vehicle")
+        .attr("id", function(d,i) { 
+            transitionQueue.push(fids[i]);
+            return "v" + fids[i]; 
+        })
+        .attr("width", 20)
+        .attr("height", 10)
+        .attr("transform", function(d,i) {
+            return "translate(-20," + i * 24 + ")";
+        });
+      
+     vehicle.append("rect")
+        .attr("class", "carbody")
+         .attr("x", 0)
+         .attr("y", 0)
+         .attr("width", 20)
+         .attr("height", 10);
+    vehicle.append("rect")
+        .attr("class", "windshield")
+        .attr("x", 12)
+        .attr("y", 1)
+        .attr("width", 4)
+        .attr("height", 8);
+    vehicle.append("rect")
+        .attr("class", "bumper")
+        .attr("x", 0)
+        .attr("y", 0)
+        .attr("width", 2)
+        .attr("height", 10);
+    vehicle.append("rect")
+        .attr("class", "mirrors")
+        .attr("x", 11)
+        .attr("y", -1)
+        .attr("width", 1)
+        .attr("height", 12);
+    
+    repeat();
+    
+    roadsvg.select("#progress-image").remove();
+}
+
+
+
+var started = false;
+var numEnds = 10;
+
+function repeat() {
+    
+    // if (transitionQueue.length == 10) {
+    if (numEnds == 10) {
+        if (started) { replaceCounties(); }
+        transitionQueue.forEach(function(fid) {
+            var currY = fids.indexOf(fid) * 24;
+            d3.select("#v" + fid)
+                .attr("transform", "translate(-20," + currY + ")")
+              .transition()
+                .ease("linear")
+                .duration(function() { 
+                    return timeScale(timeByFIPS.get(fid)["minutes"]); 
+                })
+                .attr("transform", "translate("+roadWidth+"," + currY + ")")
+                .each("end", function() {
+                    numEnds += 1;
+                    repeat();
+                });
+        });
+        started = true;
+        transitionQueue = [];
+        numEnds = 0;
+    }
+    
+}
+
+
+function replaceCounties() {
+    fids.forEach(function(fid) {
+        replaceCounty(fid);
+    });
+}
+
+
+function replaceCounty(FIPS) {
+    var currPos = fids.indexOf(FIPS);
+    // var newFIPS = FIPS;
+    // while(fids.indexOf(newFIPS) != -1) {
+        var randomIndex = Math.floor(Math.random() * (thedata.length-1));
+        var newFIPS = thedata[randomIndex].FIPS;
+    // }
+    fids[currPos] = newFIPS;
+    
+    var newCounty = timeByFIPS.get(newFIPS);
+    var labelText = newCounty['name'] + ", " + newCounty['state'];
+    
+    roadsvg.select("#lab" + FIPS).attr("id", "lab"+newFIPS);
+    roadsvg.select("#lab" + newFIPS).text(labelText);
+    
+    var vtext = formatTime(newCounty['minutes']);
+    if (currPos == 0) { vtext += " minutes commuting to work, on average"; }
+    roadsvg.select("#vlab" + FIPS).attr("id", "vlab"+newFIPS);
+    roadsvg.select("#vlab" + newFIPS).text(vtext);
+    
+    roadsvg.select("#v" + FIPS).attr("id", "v"+newFIPS);
+    transitionQueue.push(newFIPS);
+}
+
+
+
+function typeAndSet(d) {
+    
+    d["minutes"] = +d["minutes"];
+    d["moe"] = +d["moe"];
+    
+    timeByFIPS.set(d.FIPS, d);
+    return d;
+}
+
+</script>
